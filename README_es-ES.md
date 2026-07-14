@@ -3399,6 +3399,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-14T14:01:05.112Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-14T17:35:00.646Z</sub>
 
 </div>
