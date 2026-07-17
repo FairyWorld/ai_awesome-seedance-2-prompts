@@ -70,7 +70,7 @@ ByteDance Seedance 2.0을 위한 고품질 비디오 생성 프롬프트 컬렉�
 |--------|-------|
 | 📝 총 프롬프트 수 | **4835** |
 | ⭐ 추천 프롬프트 | **6** |
-| 🔄 마지막 업데이트 | **2026-07-16** |
+| 🔄 마지막 업데이트 | **2026-07-17** |
 
 ---
 
@@ -3595,6 +3595,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-16T21:16:32.898Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-17T02:57:19.160Z</sub>
 
 </div>
