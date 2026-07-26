@@ -68,7 +68,7 @@
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **5256** |
+| 📝 提示詞總數 | **5280** |
 | ⭐ 精選提示詞 | **6** |
 | 🔄 最後更新 | **2026-07-26** |
 
@@ -361,6 +361,433 @@
 
 > 📝 按發布日期排序（最新優先）
 
+### Gritty Sci-Fi Anime Montage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A hyper-kinetic anime action sequence montage for character Kael Drayn featuring gritty sci-fi aesthetics and variable frame rates.
+
+#### 📝 提示詞
+
+```
+KAEL DRAYN @[Image] — "Frontier Justice" | Action Sequence. 15-second montage, hyper-kinetic rhythmic editing, variable frame
+rates.
+
+Art Direction & Vibe: Premium key art. Unified style: high-end gritty sci-fi
+anime render, sharp graphic linework, cinematic
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081156680851898368/img/9Mi4WLKfVbBj77Id.jpg" width="600" alt="Gritty Sci-Fi Anime Montage">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7878)**
+
+**作者:** [PixieVerse](https://x.com/itsPixieVerse) | **來源:** [Link](https://x.com/itsPixieVerse/status/2081161446671651074) | **發布時間:** Jul 25, 2026
+
+---
+### Gladiator Arena Duel Action
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed scene context for an arena combat sequence between a lithe swordswoman and a hulking armored orc.
+
+#### 📝 提示詞
+
+```
+SCENE CONTEXT
+Inside a vast open-air gladiator arena with a polished white circular floor, a lithe swordswoman duels a hulking armored orc gladiator while packed tiered stands of spectators surround the fight. She works frame-left; he holds frame-right.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081134303606456320/img/QOZH6AD0L1_tkOhW.jpg" width="600" alt="Gladiator Arena Duel Action">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7875)**
+
+**作者:** [Hero Syndicate](https://x.com/KimAkiyama81) | **來源:** [Link](https://x.com/KimAkiyama81/status/2081137523536109682) | **發布時間:** Jul 25, 2026
+
+---
+### Clockwork Dragon Over Floating City
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for a mechanical dragon made of gears and bone flying through clouds above a floating city, featuring dramatic camera movement.
+
+#### 📝 提示詞
+
+```
+A mechanical dragon made of gears and bone, coiling through clouds above a city that shouldn't exist. Two humans on a cliff edge for scale. Then the camera pushes in on its face. The texture on every single scale. The clockwork spine twisting through fog. The golden eyes tracking something below the cloud line. A bridge built from the skeleton of something ancient connecting two floating islands
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081100133446430720/img/3GPLIs8ugusoAj0h.jpg" width="600" alt="Clockwork Dragon Over Floating City">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7855)**
+
+**作者:** [Cip⚡️](https://x.com/cipgerx) | **來源:** [Link](https://x.com/cipgerx/status/2081100780270965055) | **發布時間:** Jul 25, 2026
+
+---
+### Phoenix Knight Transformation Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt for a magical transformation sequence, though credited to another model in the text.
+
+#### 📝 提示詞
+
+```
+Full magical transformation sequence: a molten phoenix knight floating in a dark volcanic void as glowing embers rise from below and thick smoke coils around them in slow ceremonial waves ,sparks attach to the body, igniting gold-red hair, forging radiant winged armor, tracing molten feather markings across the skin, and forming a burning longsword from compressed flame as phoenix wings unfold behind them. A circular lava-forged ritual seal opens beneath their feet with orange cracks spreading outward, the camera pushes through smoke layers in a slow heroic spiral, each ember burst synced to a rising drum hit, ending in a wings-spread blade-raised signature pose held inside a firestorm starburst. Stock-footage grandeur, played sincere
+
+Made  in @LumaLabsAI #LumaCPP
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2081092138427666432/pu/img/fcwE-BLOIFqdE5DM.jpg" width="600" alt="Phoenix Knight Transformation Sequence">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7862)**
+
+**作者:** [LudovicCreator](https://x.com/LudovicCreator) | **來源:** [Link](https://x.com/LudovicCreator/status/2081092171428401560) | **發布時間:** Jul 25, 2026
+
+---
+### Night Pursuit Cinematic Chase
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A fast-paced cinematic chase sequence at night featuring extreme close-ups and rhythmic photographic flashes.
+
+#### 📝 提示詞
+
+```
+Open on an extreme close up of his face reflected in a rain covered bus stop glass panel, breathing hard while distant city lights distort behind him. Without warning, a passing bus completely wipes the frame, and when it clears he is already sprinting full speed down the opposite side of the street. Camera whips across traffic barriers and catches him only partially framed, creating the feeling the operator almost loses him. A flickering overhead streetlight briefly freezes his silhouette in three harsh photographic flashes synchronized to the beat. On the final flash, smash cut to a low rear chase shot as he disappears down a narrow fluorescent underground entrance.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081091577930485760/img/t-Za6L7LKrtM7pyd.jpg" width="600" alt="Night Pursuit Cinematic Chase">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7867)**
+
+**作者:** [BMX](https://x.com/bmx_ai13) | **來源:** [Link](https://x.com/bmx_ai13/status/2081091640857702427) | **發布時間:** Jul 25, 2026
+
+---
+### Tom Sawyer Fence Painting Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative-driven prompt recreating the iconic fence-painting scene from Tom Sawyer, emphasizing character consistency and classic cinematography rules.
+
+#### 📝 提示詞
+
+```
+The Adventures of Tom Sawyer — Whitewashing the Fence
+
+Characters:
+
+* Tom Sawyer — cheerful twelve-year-old boy with messy brown hair, straw hat, rolled-up sleeves.
+* Ben Rogers — energetic boy wearing suspenders and carrying an apple.
+
+Scene: Sunny morning outside a wooden house in a small Missouri town. Tom slowly paints a long white fence with exaggerated concentration while Ben walks up eating an apple. Ben laughs at Tom’s punishment, but Tom calmly insists that painting such an important fence is a rare privilege. Curious, Ben eventually offers his apple just for the chance to paint a few strokes himself. Tom casually hands him the brush and relaxes in the shade, smiling as Ben eagerly does the work. No music. Pay attention to maintain spatial consistency and respect 180 degree rule in cinematography.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081078026947956736/img/BhG4k2KtrWrPqPk3.jpg" width="600" alt="Tom Sawyer Fence Painting Scene">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7873)**
+
+**作者:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **來源:** [Link](https://x.com/airina_xyz/status/2081078057386021026) | **發布時間:** Jul 25, 2026
+
+---
+### Cinematic Skincare Beauty Vlog
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed storyboard-style prompt for a skincare beauty vlog, featuring a sequence of a woman demonstrating product application with specific timestamps and camera movements.
+
+#### 📝 提示詞
+
+```
+Cinematic vertical 9:16 beauty vlog style, 4k resolution, ultra-realistic textures, clean lighting, and smooth camera stabilization.
+​Scene & Timeline Choreography 
+​00:00 - 00:02
+​Visual: A young woman with short, platinum-blonde hair and a glowing complexion looks directly into the camera with an excited expression inside a bright, modern white-tiled bathroom while holding a small yellow rubber duck under her chin.
+​Voice Over: (Playful, surprised intake of breath or light chuckle)
+​00:02 - 00:05
+​Visual: She smiles warmly while looking down at the yellow rubber duck in her hand, then looks back up toward the camera with a playful expression.
+​Voice Over: "Okay, wait..."
+​00:05 - 00:07
+​Visual: She brings a bottle of orange skincare serum up close to the camera, showcasing the label clearly while speaking with an enthusiastic expression.
+​Voice Over: "I literally cannot believe how good this is."
+​00:07 - 00:08
+​Visual: A close-up shot of her hands dispensing a drop of the translucent, glossy serum onto her fingertip and rubbing it gently against her palm.
+​Voice Over: (Soft ambient bathroom sounds / gentle product texture application)
+​00:08 - 00:10
+​Visual: Close-up of her face as she gently pats and applies the serum onto her cheek, highlighting her radiant skin and smooth application.
+​Voice Over: "Look how it just melts in..."
+​00:10 - 00:13
+​Visual: Medium shot showing her full outfit—an off-the-shoulder white long-sleeve top, dark brown leather shorts, and white thigh-high stockings—standing by the bathroom counter with plants and a towel, gently touching her glowing cheek.
+​Voice Over: "...my skin already feels insane."
+​00:13 - 00:15
+​Visual: She holds up the orange serum bottle again, flashing a wide, radiant smile directly at the camera while speaking excitedly.
+​Voice Over: "Okay, I'm obsessed. I'm not going back!"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081055553946558464/img/cokk0cBLLPjxVsMO.jpg" width="600" alt="Cinematic Skincare Beauty Vlog">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7858)**
+
+**作者:** [Isabella](https://x.com/IsabellaHan_) | **來源:** [Link](https://x.com/IsabellaHan_/status/2081055849556877749) | **發布時間:** Jul 25, 2026
+
+---
+### Premium Lifestyle Lipstick Commercial Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video generation prompt for a premium lipstick advertisement featuring a woman in a luxury apartment, focusing on realistic beauty cinematography and consistent character features.
+
+#### 📝 提示詞
+
+```
+Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, makeup, skin tone, body proportions, white sleeveless fitted top, light blue wide-leg jeans, pearl choker, rings, and bracelets consistently throughout the video. Premium lifestyle lipstick commercial, 8 seconds, bright luxury apartment, natural afternoon lighting, soft cinematic shadows, realistic beauty campaign. The video opens with the woman standing beside a full-length mirror, smiling into the camera while holding a lipstick. She twists it open and applies it naturally before checking the result in the mirror. Macro shots showcase the lipstick gliding smoothly across her lips and the glossy finish. She picks up her sunglasses and handbag, then confidently walks toward the apartment door. Before leaving, she turns back toward the camera, lifts the lipstick beside her cheek with a playful smile, and the camera slowly pushes in for the final beauty shot. Photorealistic lifestyle advertisement, premium beauty cinematography, shallow depth of field, luxury lighting, glossy lips, elegant camera movement, 4K HDR.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081032213555195904/img/C9P413broF-rtPcK.jpg" width="600" alt="Premium Lifestyle Lipstick Commercial Video">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7869)**
+
+**作者:** [Synthia](https://x.com/AIwithSynthia) | **來源:** [Link](https://x.com/AIwithSynthia/status/2081032248179220680) | **發布時間:** Jul 25, 2026
+
+---
+### Epic Knight Battle on Ruined Bridge
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for an epic fantasy battle scene featuring a battle-worn knight facing an army on a collapsing bridge during a thunderstorm.
+
+#### 📝 提示詞
+
+```
+A battle-worn knight in blackened plate armor stands alone on a ruined stone bridge above a bottomless canyon as an army of orcs, trolls and armored war beasts charges through a thunderstorm, the knight lowers a massive glowing sword, sprints into the first ranks, cuts through shields, slides beneath a giant’s axe and climbs onto the creature’s back while lightning tears across the sky; the bridge begins collapsing under the weight of the army, forcing the knight to leap between falling sections, drive the sword into the giant’s skull and release a wave of blue magical energy through the ancient stones; begin with an immense ultra-wide aerial view of the bridge and approaching army, descend into a low-angle tracking shot beside the knight, transition into brutal handheld combat, sharp telephoto impacts and brief slow motion during the final leap, cold moonlight mixed with orange fire, rain, sparks, flying rubble and volumetric mist, desperate mythic atmosphere, ending with the bridge exploding into glowing fragments beneath the invading army while the knight lands safely on the opposite cliff, silhouetted against a colossal lightning strike.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2081031721701502976/pu/img/lAMEXKh3KUb961lC.jpg" width="600" alt="Epic Knight Battle on Ruined Bridge">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7865)**
+
+**作者:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **來源:** [Link](https://x.com/CharaspowerAI/status/2081031751598535092) | **發布時間:** Jul 25, 2026
+
+---
+### Cinematic Paragliding Travel Vlog
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic video prompt for a travel vlog featuring an East Asian woman paragliding over a tropical coastline.
+
+#### 📝 提示詞
+
+```
+Ultra-realistic live-action cinematic travel vlog, absolutely NO CGI, NO animation, NO game graphics, NO artificial visual effects. A young East Asian woman with long layered maroon hair, wearing the EXACT SAME professional paragliding outfit throughout both videos: matte white certified paragliding helmet, navy blue lightweight windproof paragliding jacket with subtle reflective details, black moisture-wicking performance base layer, black certified tandem paragliding harness with properly secured leg straps and chest buckle, black stretch outdoor pants, gray high-ankle hiking boots with strong ankle support, lightweight black paragliding gloves, sport sunglasses tucked into the jacket collar. Location: a real tropical coastal mountain paragliding launch site with lush green cliffs overlooking turquoise ocean, white sandy beaches, and distant mountain ranges under bright morning sunlight. Montage sequence: • Walking confidently toward the launch area while smiling naturally at the vlog camera. • Close-up tightening the helmet strap and checking the harness buckles. • Instructor performing a final safety check as she laughs and gives a thumbs-up. • Holding the brake toggles correctly while facing the wind. • Running naturally down the grassy launch slope. • The wing inflates smoothly overhead and both feet lift naturally from the ground. • Ending with a breathtaking wide shot as she glides away above the coastline. Natural handheld vlog camera mixed with cinematic tracking shots, realistic wind interaction, authentic paragliding procedures, practical lighting, ARRI Alexa 35, ARRI Signature Prime lenses, subtle film grain, warm cinematic color grading, documentary realism, realistic physics.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081028713769287680/img/sqnuuXUbNXuV_DWh.jpg" width="600" alt="Cinematic Paragliding Travel Vlog">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7866)**
+
+**作者:** [Saul Goodman](https://x.com/Goodmanprotocol) | **來源:** [Link](https://x.com/Goodmanprotocol/status/2081028788771815678) | **發布時間:** Jul 25, 2026
+
+---
+### Epic Ice Fantasy Titan Awakening
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A massive cinematic prompt featuring an ice titan breaking free from a glacier in a frozen valley setting.
+
+#### 📝 提示詞
+
+```
+SCENE CONTEXT
+RIMEBORN. In a frozen valley of an original ice-fantasy world, a mountain-sized titan of layered ice and stone tears itself free from a millennia-old glacier as an army of armored wardens scrambles across the frozen field below, a war-horn
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081023420394033152/img/lRgqFKsXJueWxjzR.jpg" width="600" alt="Epic Ice Fantasy Titan Awakening">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7876)**
+
+**作者:** [Abdul Șhakoor](https://x.com/abxxai) | **來源:** [Link](https://x.com/abxxai/status/2081023473305162165) | **發布時間:** Jul 25, 2026
+
+---
+### Apocalyptic Black Sun Eclipse in Paris
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for Seedance 2.0 depicting a surreal cosmic event where the sun turns black over Paris, causing shadows to float and the Eiffel Tower to bend.
+
+#### 📝 提示詞
+
+```
+The sun above Paris turns black, casting a strange silver eclipse light over the city. Shadows detach from buildings and float upward like smoke. The Eiffel Tower begins bending toward the sky as reality distorts. Apocalyptic surreal VFX, cosmic atmosphere, 4K.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2081016680226971648/pu/img/PfoLoYrGi3nCal4z.jpg" width="600" alt="Apocalyptic Black Sun Eclipse in Paris">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7861)**
+
+**作者:** [LudovicCreator](https://x.com/LudovicCreator) | **來源:** [Link](https://x.com/LudovicCreator/status/2081016717124178188) | **發布時間:** Jul 25, 2026
+
+---
+### Luxury Fashion Campaign Spiral Staircase
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-fashion video prompt for a graceful movement sequence on a terracotta spiral staircase, including specific camera sequences and lighting details.
+
+#### 📝 提示詞
+
+```
+A cinematic fashion video of a young woman with shoulder-length wavy reddish-brown hair and bangs, green eyes, freckles, septum piercing, wearing a pale yellow strapless midi dress with large 3D fabric flowers on the bodice, leopard-print headband, thick gold chain necklace, gold hoop earrings, and matching yellow floral high-heel sandals. She poses and moves gracefully on a modern terracotta-colored outdoor spiral staircase with smooth curved walls under bright natural sunlight and clear blue sky.  
+
+Sequence:  
+•⁠  ⁠Starts leaning against the curved wall looking at the camera, soft sunlight casting shadows.  
+•⁠  ⁠Turns and walks slowly up the stairs away from the camera, dress flowing.  
+•⁠  ⁠Pivots to face the camera while holding the railing, medium close-ups highlighting her face, makeup, and jewelry.  
+•⁠  ⁠Slow camera push-in to extreme close-up of her face with soft glowing light and subtle lens flare.  
+•⁠  ⁠She walks down a few steps holding the skirt of her dress so it billows elegantly in the breeze, then poses on the stairs looking toward the camera.  
+•⁠  ⁠Ends with her standing on the stairs, one hand on the railing, dress gently moving.  
+
+Smooth, elegant camera movements (slow pans, gentle push-ins, tracking shots), warm golden-hour lighting, soft cinematic color grading, shallow depth of field, high fashion aesthetic, elegant and feminine mood. Watermark “nona” in white cursive at the bottom. 21-second duration, 24fps, high resolution.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081008712488239104/img/tzrqcZLmhUpgi5nn.jpg" width="600" alt="Luxury Fashion Campaign Spiral Staircase">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7859)**
+
+**作者:** [Sharon Riley](https://x.com/Just_sharon7) | **來源:** [Link](https://x.com/Just_sharon7/status/2081009469358792727) | **發布時間:** Jul 25, 2026
+
+---
+### Vintage 16mm Gym Cardio Vlog
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt for creating a nostalgic early-2000s gym vlog featuring a Korean idol, emphasizing authentic handheld camera movements and lo-fi tape quality.
+
+#### 📝 提示詞
+
+```
+DV 16mm handheld tape camcorder POV by CHASE, who occasionally props the camera on a treadmill console or nearby bench. Natural hand shake, crooked framing, delayed autofocus, clumsy zooms, imperfect framing; camcorder never visible. Soft vintage tape quality with subtle noise, slight blur, muted colors, realistic skin tones, gentle bloom around gym lights, authentic early-2000s camcorder aesthetic. Tone: energetic but exhausted cardio challenge vlog with authentic reactions and playful humor. CHASE: Korean idol in her 20s with a long black ponytail, light post-workout sweat, expressive eyes, slim athletic build, wearing a modest long-sleeve athletic top, loose joggers, white sneakers, towel around her neck. Setting: modern indoor gym with treadmills, rowing machines, mirrors, and soft evening lighting. Shots: (1) Selfie before stepping onto the treadmill: “Let's see if I can survive twenty minutes.” (2) Camera on the treadmill console while she jogs naturally. (3) Handheld close-up breathing heavily: “Why does it feel faster every minute?” (4) Macro shot of her finger pressing the stop button. (5) Walking slowly off the treadmill, laughing while wiping sweat from her forehead. (6) Drinks water and takes a deep breath. (7) Gives the camera a tired thumbs-up: “Cardio officially defeated me today.” (8) Picks up her gym bag, smiles warmly, waves goodbye, and says, “See you next time!”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080999698073370624/img/OIAEf2vRkXS7asmh.jpg" width="600" alt="Vintage 16mm Gym Cardio Vlog">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7870)**
+
+**作者:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) | **來源:** [Link](https://x.com/saniaspeaks_/status/2080999754859991152) | **發布時間:** Jul 25, 2026
+
+---
+### Anime Style Beef Pho Cooking
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An anime-inspired video prompt detailing the outdoor preparation of beef pho at a riverside campsite, from ingredients to the final steaming bowl.
+
+#### 📝 提示詞
+
+```
+Create a cinematic anime-style cooking video showing the outdoor preparation of authentic beef pho at a peaceful riverside campsite. Begin with slicing marbled beef, preparing ginger, onions, whole spices, fresh Thai basil, bean sprouts, and lime, then simmer beef bones, aromatics, and spices in a cast-iron pot over a crackling campfire to create a rich broth. Finally, place rice noodles in a ceramic bowl, top with thin beef slices, pour steaming broth to gently cook the meat, and finish with herbs, chili, red onion, and lime. Capture warm golden lighting, cozy camping vibes, detailed food close-ups, smooth transitions, and beautiful anime-inspired visuals.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080998108432117760/img/eR-anUQrBK2aKvbh.jpg" width="600" alt="Anime Style Beef Pho Cooking">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7872)**
+
+**作者:** [NoorAI](https://x.com/noorwithwifi) | **來源:** [Link](https://x.com/noorwithwifi/status/2080998165013217284) | **發布時間:** Jul 25, 2026
+
+---
+### Multi-Character Parkour Action Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex 8-cut video prompt for Seedance 2.0 that maintains identity for two characters across rooftop parkour stunts.
+
+#### 📝 提示詞
+
+```
+FORMAT: 15 seconds, 16:9, 1080p, 8-cut cinematic ultra-advanced parkour footage. CHARACTERS: Two realistic individuals from image_1 and image_2. Use the attached images as absolute character references, and fully maintain the facial features, hairstyles, hair colors, skin textures, body types, height differences, outfits, color schemes, and age appearances of each person across all cuts. No altering into different people, face swaps, outfit changes, hairstyle changes, or mixing of the two individuals' features. SETTING: A sunny modern Japanese city reminiscent of Tokyo, Shibuya, and Yokohama — rooftops, alleys, staircases, railings, pipes, concrete walls. The two protagonists, as equals, race through at high speed running side by side, following, crossing paths, and coordinating. CUTS: 1. (00:00–00:01.60) Low-angle rear tracking. Both accelerate side by side and simultaneously kong vault over separate obstacles. 2. (00:01.60–00:03.40) Front low-angle. One wall runs the left wall, the other the right, then tic-tac to cross in midair and land on opposite rooftops. 3. (00:03.40–00:05.20) Lateral tracking. Consecutive precision jumps, then cat leaps to grab and climb a high wall. 4. (00:05.20–00:07.20) Rooftop tracking. The leader dash vaults, the trailer websters over the gap, then they swap front and back positions. 5. (00:07.20–00:09.20) Overhead moving camera. Both dive roll, then run side by side to speed vault a long railing. 6. (00:09.20–00:11.30) Handheld retreating from the front. One underbars, the other side flips, conquering the obstacle simultaneously. 7. (00:11.30–00:13.20) Drone from diagonal rear above. Both palm spin off left and right walls, kong vault, accelerate into the final jump. 8. (00:13.20–00:15.00) Climax. Both leap a large rooftop gap, each doing a corkscrew, camera circling them in midair as they land on separate rooftop edges — then run side by side into the distance. QUALITY: Live-action film quality. World-championship-level smooth freerunning. Realistic center-of-gravity shifts, muscle movement, natural landing impacts, swaying hair and clothing. Sharp background, natural motion blur only during high-speed movement. PROHIBITED: Facial distortion, altering into different people, face or body swaps, outfit changes, hairstyle changes, body type changes, limb multiplication, duplicates, body fusion, penetration, warping, floating, unnatural landings, anime style, CG style.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080980623800291328/img/LWaAKea9UMU58SDN.jpg" width="600" alt="Multi-Character Parkour Action Sequence">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7868)**
+
+**作者:** [Nexlow](https://x.com/NexlowX) | **來源:** [Link](https://x.com/NexlowX/status/2080982143568949500) | **發布時間:** Jul 25, 2026
+
+---
+### Premium Chocolate Bar UGC Ad Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A promotional video prompt for a chocolate bar advertisement in a user-generated content style, featuring a relaxing home office setting during golden hour.
+
+#### 📝 提示詞
+
+```
+premium UGC-style bitbyte ad showing a young professional taking a relaxing break from work in a warm golden-hour home office, naturally enjoying a bitbyte with realistic chocolate and wafer details, ending with the message: “Have a Break. Grab Your bitbyte.”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080969505170235392/img/V6U0F0GJQmx4aLRx.jpg" width="600" alt="Premium Chocolate Bar UGC Ad Prompt">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7877)**
+
+**作者:** [Abkr Sadiq](https://x.com/abs_uiux) | **來源:** [Link](https://x.com/abs_uiux/status/2080969538032611779) | **發布時間:** Jul 25, 2026
+
+---
+### Luxury Salon Beauty Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-speed, dynamic commercial prompt for a beauty transformation, featuring match cuts from a casual look to a glamorous evening gown.
+
+#### 📝 提示詞
+
+```
+Ultra-realistic cinematic beauty transformation, 15s, luxury salon commercial, hyper dynamic, seamless match cuts, speed ramps. Start in a bright minimalist studio with a static front-facing shot. A messy girl in an oversized gray T-shirt and round glasses stands with untidy hair, pale skin, tired expression, no makeup. Two black-gloved hands push her backward. Match cut: she lands in a luxury salon chair inside a dark premium salon. Camera switches to first-person stylist POV. Black cape on. Hair wash, shampoo massage, conditioner, rinse, towel dry. Hair is combed, sectioned, precision cut, textured, blow-dried with volume, softly curled, smoothed, finished with oil and shine spray. Makeup: primer, foundation, concealer, powder, contour, blush, highlighter, brows, soft eyeshadow, winged eyeliner, mascara, glossy red lips. Earrings added. Cape is pulled away, revealing a luxurious red evening dress. Final hair styling. The chair rotates to showcase the hairstyle, then returns front. Final reveal: a confident glamorous woman with flawless makeup, voluminous hair, sparkling earrings and radiant skin looks directly into the camera. Premium luxury beauty ad, perfect identity consistency, realistic hands, smooth motion, cinematic lighting, shallow depth of field, ultra-detailed skin and hair, 4K, no glitches, morphing, deformation, extra fingers or camera shake.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080959605304090624/img/gyflzYwVhwHSebme.jpg" width="600" alt="Luxury Salon Beauty Transformation">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7860)**
+
+**作者:** [KreviX](https://x.com/LadyyEth) | **來源:** [Link](https://x.com/LadyyEth/status/2080960631180570913) | **發布時間:** Jul 25, 2026
+
+---
+### Ultra Chill ASMR Vlog
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A lo-fi visual style prompt mimicking a Mini DV camera look for a relaxing ASMR meditation vlog with natural lighting.
+
+#### 📝 提示詞
+
+```
+CAMERA / LOOK: Propped Mini DV camera on a wooden deck ledge, surrounded by rising steam. Extremely smooth pan, ultra-relaxed pacing, natural soft warm sunlight through mist, calm consumer vlog framing. STYLE: Ultra-chill ASMR
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080942348263936000/img/NoK8Ut3kYYb8Dv92.jpg" width="600" alt="Ultra Chill ASMR Vlog">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7874)**
+
+**作者:** [Pan](https://x.com/sebatheepan) | **來源:** [Link](https://x.com/sebatheepan/status/2080942778293313949) | **發布時間:** Jul 25, 2026
+
+---
+### Ghibli Inspired Starbucks Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A warm and cheerful anime-style 2D commercial prompt for Starbucks coffee, featuring a Ghibli aesthetic with urban city life and expressive animation.
+
+#### 📝 提示詞
+
+```
+Create a 35-second anime/Ghibli-inspired 2D commercial for Starbucks Bottled Coffee featuring a young man enjoying a bright morning in the city. He picks up a Starbucks Caffè Latte from a convenience store, takes a refreshing sip, then works and socializes with friends in a cozy café while using his laptop and notebook. Warm sunlight, soft colors, expressive character animation, and upbeat acoustic music create a cheerful, inspiring atmosphere. End with a close-up of the Starbucks Caffè Latte bottles.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080914253511610368/img/7UUfioJmufurON0j.jpg" width="600" alt="Ghibli Inspired Starbucks Commercial">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7857)**
+
+**作者:** [NoorAI](https://x.com/noorwithwifi) | **來源:** [Link](https://x.com/noorwithwifi/status/2080914390782779861) | **發布時間:** Jul 25, 2026
+
+---
 ### 京都感性旅遊 Vlog 動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -399,6 +826,70 @@
 **作者:** [usagisan | 葵(AOI)🎧️](https://x.com/menmarsan) | **來源:** [Link](https://x.com/menmarsan/status/2080908151365472451) | **發布時間:** Jul 25, 2026
 
 ---
+### Cinematic Alpine Dragon Encounter
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-fidelity cinematic video prompt depicting a woman and a giant dragon on a mountain summit, focusing on realistic physics and environmental continuity.
+
+#### 📝 提示詞
+
+```
+Create a 15-second hyper-realistic live-action cinematic video in 16:9 with fast-paced, emotionally warm storytelling, spectacular action, and seamless multi-shot transitions. Absolute photorealism with feature-film quality, shot on anamorphic 35mm lenses, realistic camera physics, subtle handheld movement, natural lens breathing, cinematic motion blur, restrained film grain, and physically accurate lighting. The scene takes place entirely on a rugged alpine mountain summit with jagged gray metamorphic rocks, loose gravel, exposed cliff edges, dry golden alpine grass, distant mountain ranges, a deep blue sky with thin cirrus clouds and low white cumulus clouds, illuminated by crisp late-morning sunlight. Maintain perfect environmental continuity throughout every shot. The main character is a beautiful woman, approximately 25 years old, with long thick naturally wavy blonde hair, fair skin, bright blue eyes, and an athletic feminine build. She wears a weathered brown leather medieval explorer outfit consisting of a fitted leather tunic, dark trousers, tall leather boots, leather bracers, a travel satchel, a belt, and a medieval sword. Preserve her exact facial features, hairstyle, clothing, body proportions, and identity consistently throughout the entire video. Her companion is a gigantic biologically realistic pink-red dragon with dusty reptilian scales, amber eyes, curved horns, muscular limbs, powerful claws, a long tail, and large translucent wing membranes with visible veins. The dragon behaves like a real undiscovered animal, with subtle breathing, shifting muscles beneath its scales, moist reflective eyes, realistic weight, and physically accurate interactions with the environment. The dragon always remains vastly larger than the woman. A powerful alpine crosswind acts as a third character throughout the sequence, constantly influencing the woman's flowing blonde hair, clothing, satchel straps, grass, dust, loose gravel, and the dragon's wing membranes and neck spines. Every gust behaves naturally according to the terrain and camera angle, with believable delayed secondary motion. The sequence begins with an extreme ground-level camera hidden between dry grass and sharp rocks. Wind drives dust and gravel across the lens while the woman stands confidently on the exposed ridge. A gigantic dragon shadow sweeps rapidly across the landscape before one enormous wing passes overhead, dramatically darkening the frame and creating a violent pressure gust. Cut to a dynamic forward-moving perspective traveling low toward the woman as the dragon approaches at high speed. The mountain rocks rush past with strong parallax while her long blonde hair and leather clothing whip dramatically in the wind. The dragon's heavy breathing creates subtle camera movement. Transition into a fast lateral tracking shot racing parallel to the rocky ridge. Foreground boulders repeatedly hide and reveal the action while the dragon runs beside the woman with tremendous weight. Massive claws strike loose gravel, sending rocks toward the camera as dust trails behind. The dragon suddenly brakes beside her, carving deep tracks into the rocky ground while a sweeping cloud of dust fills the frame. Move into a close reverse circular orbit around both characters as the dragon gently lowers its enormous head. The woman smiles warmly, steps closer, and softly places one hand against the dragon's snout. Their foreheads gently touch in an intimate emotional moment as the dragon's folded wing temporarily shelters them from the wind. Focus shifts naturally from her fingers resting on the scales to the dragon's amber eye and finally to her genuine smile. Cut to an unusual snout-mounted close-up beside the dragon's muzzle. The dragon gives a playful snort, blasting a gust of wind that sends the woman's long wavy blonde hair, clothing, and satchel flying backward. Laughing naturally, she briefly loses her balance before affectionately pushing the dragon's muzzle away with both hands. The dragon playfully nudges her again while the camera receives a subtle physical bump, creating an authentic documentary feel. Transition to a perfectly vertical top-down aerial shot directly above the rocky clearing. The dragon unfolds its enormous wings around the woman, nearly filling the frame. A single powerful wingbeat creates a visible expanding pressure wave across the terrain, pushing dust, grass, gravel, and clothing outward in physically accurate concentric motion. The woman crouches, shielding her face while laughing as the dragon begins its powerful takeoff run. Finish with a dramatic cliff-edge aerial shot as the dragon launches directly over the camera. Loose stones fall past the lens while one translucent wing passes overhead, revealing veins, scars, and stretched organic membranes illuminated by sunlight. The camera dives backward along the cliff before stabilizing into a sweeping cinematic reveal of the mountain summit and expansive valley. The dragon performs one fast, low fly-by above the woman, whose hair and clothing are once again swept by the powerful wake. End with a wide composition of the woman standing alone on the exposed ridge as the dragon gracefully glides across the open sky above the vast mountain landscape. Maintain absolute live-action realism throughout with consistent lighting, geography, scale, anatomy, wind direction, environmental continuity, and character identity. Negative Prompt: CGI, animation, cartoon, stylized fantasy, magical effects, glowing eyes, fire breathing, supernatural particles, unrealistic physics, weightless movement, plastic textures, synthetic skin, morphing, duplicated characters, anatomy changes, inconsistent scale, extra limbs, deformed wings, inconsistent lighting, random landscape changes, HDR look, oversaturated colors, text, captions, subtitles, logos, watermarks, interface elements, low quality, blur, noise, artifacts.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080904671754092544/img/oFbBxHT8q2kdivwn.jpg" width="600" alt="Cinematic Alpine Dragon Encounter">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7871)**
+
+**作者:** [Sharon Riley](https://x.com/Just_sharon7) | **來源:** [Link](https://x.com/Just_sharon7/status/2080906169309442468) | **發布時間:** Jul 25, 2026
+
+---
+### Martial Arts Duel Cinematic Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt for a high-intensity martial arts battle in a ruined temple, featuring realistic combat mechanics and dynamic camera work.
+
+#### 📝 提示詞
+
+```
+Style: Brutal martial arts duel, no weapons, realistic combat, elite warrior level, lightning-fast choreography, readable action, no comedy, no floating, no anime physics, every hit carries weight and momentum.
+
+Cinematic Style: ARRI Alexa Mini LF, anamorphic lens, professional action cinematography, dynamic camera language, layered composition, deep composition, high-speed action film pacing, cinematic motion blur, dramatic volumetric lighting, dust, debris, realistic body mechanics.
+
+Shot 1 (0s-2s)
+Extreme wide shot, ruined stone temple interior, foreground broken pillars framing both fighters on opposite sides of the frame using rule-of-thirds composition. Low-angle push-in. Wind blows through the temple. Both warriors instantly explode into motion and sprint toward each other at full speed.
+
+Shot 2 (2s-4s)
+Tracking side shot. @image1 launches a flying spinning kick. @image2 ducks underneath at the last second. Camera whip-pans with the movement. Dust erupts from the floor. Fast but readable action.
+
+Shot 3 (4s-6s)
+Dynamic orbit shot. @image2 grabs @image1's leg mid-air, pivots his hips, and throws him across the temple floor. @image1 lands on one hand, uses the momentum to perform a full backflip recovery without stopping. Camera follows continuously.
+
+Shot 4 (6s-8s)
+Split lens composition. @image1 sharp in foreground charging forward while @image2 remains equally sharp in the distant background preparing a counterattack. Both collide in a rapid exchange of punches, elbows, knees, and spinning strikes. Camera aggressively pushes through the action.
+
+Shot 5 (8s-10s)
+Low-angle tracking shot. @image2 attempts a devastating spinning heel kick. @image1 slides underneath the kick, grabs the supporting leg, lifts, rotates, and slams @image2 into a stone pillar. Debris explodes across the foreground creating strong depth layers.
+
+Shot 6 (10s-12s)
+Handheld-style combat intensity without excessive shake. Both fighters unleash a relentless combination of punches, elbows, knees, shoulder strikes, sweeps, and acrobatic counters. Backflip evasion, spinning recovery, rapid footwork. Every strike narrowly misses or lands with visible impact.
+
+Shot 7 (12s-14s)
+Heroic orbit shot around both fighters. They sprint toward each other simultaneously. One launches a jumping knee strike while the other performs a rotating aerial kick. Both attacks collide in mid-air. Shockwave bursts outward through dust and debris.
+
+Shot 8 (14s-15s)
+Extreme low-angle hero shot. Both land several meters apart. Silence. Dust falls from the air. Camera slowly pushes in. Neither fighter breaks eye contact. End before revealing the winner.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080905114790113280/img/0_4DK_-9vA-pvd6m.jpg" width="600" alt="Martial Arts Duel Cinematic Scene">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7864)**
+
+**作者:** [zayan](https://x.com/HustleXR) | **來源:** [Link](https://x.com/HustleXR/status/2080905186055467029) | **發布時間:** Jul 25, 2026
+
+---
 ### 一鏡到底殭屍恐怖片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -416,6 +907,44 @@
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7809)**
 
 **作者:** [Joseph](https://x.com/josephweb3) | **來源:** [Link](https://x.com/josephweb3/status/2080895825442750580) | **發布時間:** Jul 25, 2026
+
+---
+### Stock Market Crash News Broadcast
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed broadcast-style prompt for a live news report atmosphere, including reporter details, location settings, and cinematic camera cues.
+
+#### 📝 提示詞
+
+```
+BROADCAST TYPE: Live business news report covering a sudden stock market crash during trading hours.
+
+ON-AIR REPORTER: Female journalist, early 30s. Sharp blazer, earpiece, handheld mic with financial network logo. Composed but visibly tense.
+
+LIVE BROADCAST TIME: 11:20 AM. Bright daylight, glass-walled trading floor visible behind glass partition.
+
+REPORT LOCATION: Outside a stock exchange building. Digital ticker boards flashing red numbers. Traders visible through windows, gesturing anxiously. Passersby stopping to check phones.
+
+BROADCAST CAMERA: Steady tripod-mounted main shot with a secondary handheld cutaway camera. Occasional quick zoom to ticker board numbers dropping. Reflections of red digital numbers on glass.
+
+LIVE SEGMENTS:
+Opening: Reporter explains the sudden index drop and market panic.
+Update: Camera cuts to trading floor screens showing plunging graphs.
+Eyewitness Moment: A trader stepping outside briefly comments on the chaos.
+Situation Change: Ticker shows a fresh plunge, reporter reacts live to the number.
+Closing: Reporter signs off, noting market will be watched closely into afternoon.
+
+LIVE AUDIO: Muffled trading floor shouting, city traffic, notification pings from nearby phones, reporter's controlled voice, no music.
+
+BROADCAST REALISM: Genuine tension, traders ignoring camera, real-time number changes driving reactions, natural interruptions from passersby glancing at screens.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080895662833676288/img/UTqTBaflCWDNQhM2.jpg" width="600" alt="Stock Market Crash News Broadcast">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7856)**
+
+**作者:** [𝐌](https://x.com/Strength04_X) | **來源:** [Link](https://x.com/Strength04_X/status/2080895772531581198) | **發布時間:** Jul 25, 2026
 
 ---
 ### 沙漠生存動作場景
@@ -699,6 +1228,69 @@ IMAX 規模動作。
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7827)**
 
 **作者:** [BMX](https://x.com/bmx_ai13) | **來源:** [Link](https://x.com/bmx_ai13/status/2080867889952022953) | **發布時間:** Jul 25, 2026
+
+---
+### Mumbai Tsunami Emergency Smartphone Vlog
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An extensive multi-scene prompt for Seedance 2.0 designed to simulate a realistic, shaky handheld smartphone recording of a tsunami evacuation.
+
+#### 📝 提示詞
+
+```
+Super casual real smartphone home video footage of the sudden tsunami emergency in Mumbai. Natural mobile phone camera recording with slight authentic handheld shake, normal frame rate with smooth natural motion, rapid-fire montage with constant quick jump cuts every 1–2 seconds like footage captured during a real emergency. Unpolished authentic phone recording of a mixed group urgently running together, warning one another, helping each other evacuate, and moving toward higher ground. Pure raw home video feel with no cinematic polish or heavy effects.
+
+Use the provided reference photo as the STRICT ONLY visual reference for the main woman. Maintain her exact appearance with zero deviation: [her described features]. Generate a mixed group of friends of all ages around her during the evacuation.
+
+0–2.5s:
+Shaky handheld rapid cuts of the main woman suddenly running with friends away from the Mumbai shoreline after people begin shouting tsunami warnings. Wind blows through her hair. Quick flashes of feet splashing through shallow water and people rushing inland.
+
+2.5–5s:
+Abrupt jump cuts showing a close-up of her looking back toward the ocean with concern, followed by the group running through crowded streets while warning others and checking on one another.
+
+5–7.5s:
+Fast handheld footage of her helping a friend keep pace while everyone continues running toward higher ground. Natural daylight creates subtle lens reflections and realistic exposure changes as the phone moves naturally.
+
+7.5–10s:
+Quick cut to a close-up of her giving a determined look toward the camera before turning back to continue running. The footage immediately jumps to the group climbing a staircase or elevated walkway together while people continue evacuating around them.
+
+10–12.5s:
+Abrupt edit showing everyone reaching a safer elevated location, catching their breath and checking that everyone is safe. Friends point toward the distant shoreline while talking over one another.
+
+12.5–15s:
+Final rapid transition showing the main woman standing safely among her friends, breathing heavily while quietly looking back toward the ocean. The video ends naturally with a gentle phone sway as if someone simply stopped recording.
+
+VISUAL STYLE:
+
+Natural smartphone video quality.
+Slight realistic handheld shake.
+Smooth normal frame-rate motion.
+Authentic casual interactions and physics.
+Realistic daylight and exposure adaptation.
+Stable main character consistency.
+Unpolished home phone recording aesthetics.
+No professional stabilization.
+No cinematic color grading.
+No beauty filters.
+No artificial effects.
+No AI artifacts or glitches.
+
+IMPORTANT GENERATION REQUIREMENTS:
+
+Consistent identity throughout the video.
+Realistic human anatomy and hand interactions.
+Natural running and body movement.
+Authentic Mumbai ambience with distant crowd voices, wind, rushing water, and city environmental audio.
+Physically correct lighting and shadows.
+Rapid mem
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080862789116260352/img/Z71tScm64CWn_W-s.jpg" width="600" alt="Mumbai Tsunami Emergency Smartphone Vlog">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7863)**
+
+**作者:** [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | **來源:** [Link](https://x.com/Diplomeme/status/2080862907764720120) | **發布時間:** Jul 25, 2026
 
 ---
 ### 1980 年代復古科幻太空女皇場景
@@ -2743,750 +3335,6 @@ PBR 物理材質、全域光照、體積霧、電影級景深、高影格率、�
 **作者:** [FOREST ALBUM 🏳️‍🌈](https://x.com/Forestwoodwood) | **來源:** [Link](https://x.com/Forestwoodwood/status/2080156329147285657) | **發布時間:** Jul 23, 2026
 
 ---
-### 頂級飲料海灘廣告
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 製作一支以夏季海灘生活風格為主題、具備動態追蹤鏡頭的專業頂級飲料廣告。
-
-#### 📝 提示詞
-
-```
-製作一支頂級飲料廣告，主角為 Luna，一位 24 歲、外型逼真的女性，擁有蜂蜜棕色長波浪捲髮、容光煥發的肌膚、深邃的榛果色雙眸以及燦爛自然的笑容。她身穿合身白色短版上衣、高腰淺藍色牛仔短褲、白色運動鞋，配戴多層次金項鍊，頭上架著時尚太陽眼鏡。場景呈現明亮的熱帶夏季氛圍，具備頂級廣告質感、鮮豔的柑橘色調、超寫實的生活敘事以及電影級運鏡。
-
-影片開場時，Luna 已在畫面中，慵懶地坐在停靠於海濱公路旁的復古黃色敞篷車引擎蓋上。她接住從鏡頭外拋來的冰涼 Fanta，微笑著說：「夏天現在開始！」她俏皮地轉動易開罐後將其拉開。隨著陽光在冰涼的鋁罐上閃爍，清脆的氣泡聲隨之散發出來。
-
-微距特寫鏡頭展示了閃閃發光的凝結水珠、充滿活力的橘色氣泡，以及當 Luna 享受第一口飲料時，清爽的柑橘切片在空中飛濺的畫面。
-
-場景切換至熱鬧的海灘排球場，她加入朋友們進行一場有趣的比賽。比賽間隙，大家從冰桶中拿出冰涼的 Fanta，歡笑並慶祝每一分。
-
-當黃金時刻來臨，Luna 和朋友們聚集在販售漢堡和薯條的復古餐車旁。他們分享美食，舉起 Fanta 乾杯，並在附近街頭藝人的音樂聲中跳舞，頭頂上方的彩色燈飾開始閃爍。
-
-最後的場景發生在日落時分的海灘。朋友們點燃仙女棒，圍繞著營火歡笑，並奔向海岸線。Luna 將冰涼的 Fanta 舉向鏡頭並微笑，
-
-Luna：「品味陽光！」
-
-鏡頭拉遠，呈現出閃耀的海灘、拍打的浪花、溫暖的日落天空以及歡樂的夏季慶典。頂級飲料廣告、電影級生活攝影、逼真的水流與光影效果、流暢的穩定器運鏡、淺景深、鮮豔的橘色調、超寫實廣告質感、4K HDR、16:9 寬螢幕，無文字疊加或字幕。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080153905166716928/img/IUXtNd3xSwtQsiq7.jpg" width="600" alt="頂級飲料海灘廣告">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7770)**
-
-**作者:** [Smiling Khan](https://x.com/AIwithkhan) | **來源:** [Link](https://x.com/AIwithkhan/status/2080153935160262794) | **發布時間:** Jul 23, 2026
-
----
-### Pixar 風格浣熊專案
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份詳細的 9 格 Pixar 風格動畫短片專案提示詞，標題為「森林護林員浣熊」，描繪一場貓頭鷹救援任務。
-
-#### 📝 提示詞
-
-```
-請建立一份專業的 Pixar 風格動畫電影專案，用於一部名為「森林護林員浣熊」的 15 秒短片。
-
-版面配置
-
-3×3 專案網格（共 9 格）
-
-乾淨的白色專案展示板
-
-等比例畫格
-
-純影像敘事
-
-無文字
-
-無標題
-
-無對話氣泡
-
-無數字
-
-無註記
-
-無箭頭
-
-無標籤
-
-角色
-
-森林護林員浣熊，一隻勇敢且開朗的年輕浣熊，擁有柔軟的銀灰色毛髮、明亮的祖母綠眼睛、蓬鬆的環紋尾巴，穿著綠色森林護林員制服、登山靴、多功能背心、護林員帽，並背著裝滿救援裝備的背包，包括手電筒、繩索、望遠鏡和急救用品。Pixar 品質的 3D 動畫設計。
-
-故事畫格
-
-第 1 格：浣熊在森林高處的樹上發現了一隻受驚的貓頭鷹寶寶。
-
-第 2 格：他迅速抓起救援背包，堅定地觀察著樹木。
-
-第 3 格：他利用繩索和樹枝，靈活地爬上樹。
-
-第 4 格：強風吹動樹木，他小心翼翼地靠近鳥巢。
-
-第 5 格：腳下的樹枝斷裂，營造出緊張的時刻。
-
-第 6 格：他在貓頭鷹寶寶掉落前，專業地將其接住。
-
-第 7 格：在溫暖的傍晚光線照耀下，他抱著貓頭鷹安全地爬下樹。
-
-第 8 格：感激的貓頭鷹媽媽在結實的樹枝上與寶寶團聚。
-
-第 9 格：浣熊自豪地微笑，森林動物們圍繞在旁表達感謝，金色的夕陽照亮了寧靜的森林。
-
-風格
-
-Pixar 品質的 3D 動畫、電影感敘事、茂密的魔法森林環境、畫格間強烈的視覺連貫性、動態攝影角度、生動的角色表演、溫馨的家庭電影氛圍、高度細緻的自然環境、專案概念藝術品質、色彩豐富、情感豐富的視覺敘事、4K。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080152441908334592/img/gMVTrKzJ5L3l2vY7.jpg" width="600" alt="Pixar 風格浣熊專案">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7732)**
-
-**作者:** [Zara](https://x.com/ZaraIrahh) | **來源:** [Link](https://x.com/ZaraIrahh/status/2080153500063826367) | **發布時間:** Jul 23, 2026
-
----
-### 復古 IMAX 電影攝影機
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一款旨在重現 70mm IMAX 電影美學的電影級影片提示詞，採用復古綠色濾鏡與 35mm Kodak 底片質感，營造出懷舊氛圍。
-
-#### 📝 提示詞
-
-```
-IMAX 70mm 電影攝影機，復古綠色濾鏡，35mm Kodak 底片實拍質感，具備細膩均勻的底片顆粒感，帶有輕微的老電影柔焦效果，非乾淨的數位超高畫質影像。全域統一的復古調色，陰影與中間調完全飽和於冷青綠色，高光處略微保留中性白，暖色調飽和度極低。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080151924712873984/img/3OlH-T3l-xnbwQIW.jpg" width="600" alt="復古 IMAX 電影攝影機">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7741)**
-
-**作者:** [PixelAIGC](https://x.com/PixelAigc) | **來源:** [Link](https://x.com/PixelAigc/status/2080152045387145452) | **發布時間:** Jul 23, 2026
-
----
-### 韓國偶像健身 Vlog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段以寫實手持攝影機風格呈現的韓國偶像健身 Vlog 影片提示詞，包含 Vlog 旁白與多組運動畫面。
-
-#### 📝 提示詞
-
-```
-攝影機：
-DV 16mm 錄影帶攝影機手持質感。由 CHASE 以第一人稱視角親自持機拍攝，偶爾將攝影機架在長椅或置物架上。畫面帶有手震、構圖偏移、延遲對焦、笨拙的變焦、偶爾出現的人臉裁切以及不完美的鏡頭。攝影機本身不會出現在畫面中。
-視覺風格：
-柔和且略帶模糊的錄影帶畫質，帶有淡淡的雜訊，健身房燈光下有光暈效果，自動曝光閃爍，對比度柔和，膚色真實自然。
-風格：
-充滿活力、休閒的健身 Vlog 基調——組間休息時情緒高昂、呼吸急促、真誠的笑聲、輕鬆的激勵旁白。快速的手持剪輯與架設攝影機拍攝的鏡頭交替出現。
-角色：
-CHASE — 韓國偶像，20 多歲。黑色長髮紮成高馬尾，運動後的肌膚散發著自然光澤。身材苗條健美。穿著保守的長袖運動上衣、寬鬆慢跑褲或緊身褲（手臂與軀幹完全遮蓋）、運動鞋，脖子上掛著毛巾，沒有佩戴任何首飾。
-場景：
-晚間的健身房——鏡面牆、槓鈴架、臥推架、旁邊有腿部彎舉機、長椅上放著水瓶，頂部燈光柔和。
-分鏡腳本（30 秒，8 個鏡頭）：
-(~2 秒，自拍，手臂長度) 走進畫面，儘管呼吸略顯急促，臉上仍掛著燦爛笑容。CHASE：「大家，今天來拍個快速健身 Vlog！」
-(~2 秒，快速橫搖) 鏡頭掃過槓鈴架 → 鏡子 → 墊子區域，最後回到她的臉上。CHASE（畫外音）：「健身房現在挺安靜的。」
-(~3 秒，架設攝影機，臥推) 躺下，調整握姿，瞥向鏡頭，露出堅定的微笑。CHASE：「臥推時間到——開始吧！」
-(~3 秒，架設攝影機，側面角度) 進行幾次動作，呼吸沉重，將槓鈴放回架上，吐氣。CHASE：「呼——這組完成了。」
-(~2 秒，手持行走) 拿起毛巾與水，走向腿部彎舉機，攝影機隨步伐晃動。CHASE：「現在換練腿部。」
-(~3 秒，架設攝影機，腿部彎舉) 就位，調整靠墊，進行幾次動作，臉上露出些許吃力表情。CHASE：「好，這個動作已經開始燃燒了——」
-(~2 秒，微距插入，淺景深) 特寫握住機器把手的手部，汗水在燈光下閃爍。無對話，僅有健身房環境音。
-(~3 秒，手臂長度自拍結尾) 起身，搧風，毛巾掛在肩上，露出疲憊的笑容。CHASE：「兩組搞定——我需要喝水。待會兒見！」
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080151793993154560/img/HfqAAnnoViy8k06r.jpg" width="600" alt="韓國偶像健身 Vlog">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7708)**
-
-**作者:** [WasifAI](https://x.com/doctorwasif) | **來源:** [Link](https://x.com/doctorwasif/status/2080151896690737659) | **發布時間:** Jul 23, 2026
-
----
-### 夏季度假 Vlog 腳本
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> 一份針對度假 Vlog 的高細節多場景提示詞，包含角色一致性、從房間到陽台再到泳池的場景轉換，以及具體的運鏡指令。
-
-#### 📝 提示詞
-
-```
-① 來源綁定 (Source Binding)
-- <image1> : 女性主角。確保所有片段中面部特徵（眼睛、鼻子、嘴巴、輪廓）及髮色保持完全一致。即使角度變換，也要確保角色識別度。服裝不固定為 <image1> — 服裝需遵循各片段的文字指令。忽略 <image1> 的背景、姿勢及底部文字。
-
-② 主體 + 空間
-盛夏度假個人 Vlog。順序：度假房間 → 陽台 → 池畔 → 游泳池。所有地點均位於同一度假村；陽台可俯瞰下方的戶外泳池。
-
-季節為夏季。服裝分為兩個階段 — 前半段 (0–4s) 為輕便夏季休閒裝，後半段 (4–15s) 為簡約黑色比基尼。每個片段僅穿著指定的服裝；單一片段內不更換服裝。
-
-③ 時間軸 (0–15s，共 7 個片段，每段 1 個核心動作，不可合併或刪減鏡頭)
-0–2s 【抵達 / 房間】
-明亮的度假房間，白色亞麻色調，午後陽光。穿著亞麻襯衫和短褲，拉著行李箱進入。POV 自拍全身鏡頭快速推近至臉部，她說：「終於放暑假啦～」
-2–4s 【景觀揭曉 / 陽台】
-同樣的夏季休閒裝。特寫手拉開窗簾 → 焦點透過玻璃轉移至泳池 → 快速切換至她感到驚嘆的反應鏡頭。
-4–6s 【進入泳池 / 池畔】
-簡約黑色比基尼 + 頭戴太陽眼鏡。手持跟拍鏡頭走在綠松石色的泳池旁 — 畫面自然晃動，背景為遮陽傘與波光粼粼的水面。
-6–8s 【放鬆鏡頭 / 日光浴床】
-維持黑色比基尼。特寫帶有水珠的冰飲 → 鏡頭向上傾斜至臉部，倚靠在日光浴床上，喝了一口並嘆氣。呈現放鬆的「美拍」質感。
-8–10s 【泡腳 / 泳池邊緣】
-維持黑色比基尼，頭髮乾燥。坐在邊緣，雙腳戲水並濺起水花 — 特寫陽光下的雙腳 → 向上傾斜至微笑的反應。
-10–13s 【跳水 / 泳池邊緣】
-黑色比基尼，赤腳。正面全身鏡頭 — 她說：「我要下水囉！」奔跑並以炸彈跳姿勢跳入 — 巨大的水花，水滴濺到鏡頭上。
-13–15s 【結尾 / 泳池內】
-從水中浮出，撥開濕髮。正面與側面鏡頭快速切換，水珠滴落，最後定格在她微笑的畫面。鏡頭上保留水滴。
-
-④ 攝影 + 音訊
-攝影：快速的 0.5–1 秒剪輯節奏，手持 iPhone 質感，16:9 比例。結合推拉鏡頭與傾斜鏡頭，自然的晃動、對焦搜尋及曝光變化。
-音訊：無背景音樂 (BGM)。疊加環境音（行李輪聲、水聲、蟬鳴、冰塊聲、戲水聲、笑聲）。對話為韓語原音。
-
-⑤ 風格 + 約束
-鮮豔的盛夏自然光，輕膠片感，Instagram Vlog 風格。真實的皮膚紋理（毛孔、碎髮），無美顏濾鏡或 CG 感。不可合併場景。不可出現換裝過程。不可添加文字覆蓋。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080139265330274304/img/AM2mRnALZdzjOWIV.jpg" width="600" alt="夏季度假 Vlog 腳本">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7752)**
-
-**作者:** [1p(1mpal)](https://x.com/impalementd) | **來源:** [Link](https://x.com/impalementd/status/2080141180176847328) | **發布時間:** Jul 23, 2026
-
----
-### 電影感生日噴火影片
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 這是一個極其細緻且複雜的腳本提示詞，用於製作一支在吹熄蠟燭高潮處展現戲劇性噴火效果的病毒式生日影片。
-
-#### 📝 提示詞
-
-```
-[角色與服裝參考]
-請使用目前上傳的角色參考圖作為唯一的身份與服裝參考。左側的特寫鎖定臉部特徵、妝容與表情；正面與背面的全身視圖鎖定服裝結構與身體比例。必須在整個過程中保持一致性。
-
-[風格]
-寫實電影感生日派對短片。開頭呈現克制的生活紀錄感；在「吹熄蠟燭」動作時升級為噴火的對比效果；結尾以高對比度的黑白海報定格。
-
-[時長/比例]
-15 秒，9:16 直式影片。
-
-[場景]
-室內餐廳或酒吧。主角坐在桌子後方，桌上擺放著精緻的生日蛋糕。背景為深色酒櫃與暖黃色燈光。
-
-[核心道具]
-銀色皇冠、圓形生日蛋糕、白色細長彎曲蠟燭、打火機。
-
-[鏡頭摘要]
-鏡頭 1：戴上皇冠。
-鏡頭 2：像叼菸一樣將蠟燭含在嘴裡。
-鏡頭 3：像點菸一樣點燃蠟燭。
-鏡頭 4：將點燃的蠟燭從嘴裡移開。
-鏡頭 5：將蠟燭插在蛋糕上。
-鏡頭 6：湊近吹熄蠟燭。
-鏡頭 7：吹氣時，瞬間轉變為噴火效果。
-鏡頭 8：噴火高潮處的黑白海報定格畫面。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080138511609655296/img/_Bm5NFgkJxS3Fzxf.jpg" width="600" alt="電影感生日噴火影片">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7746)**
-
-**作者:** [小宇Chengzi](https://x.com/Chengzilhy) | **來源:** [Link](https://x.com/Chengzilhy/status/2080140918704029967) | **發布時間:** Jul 23, 2026
-
----
-### 80 年代復古動漫城市景觀
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個 80 年代復古動漫風格的影片提示詞，描繪了日落時分的城市天際線，並帶有 City Pop 美學。
-
-#### 📝 提示詞
-
-```
-1980 年代復古動漫風格。寬鏡頭定場鏡頭。固定攝影機。日落時分充滿活力的復古未來主義城市天際線。天空呈現粉紫色漸層
-```
-
-<img src="https://cms-assets.youmind.com/media/1784876153223_lundec_HN4lF9MaAAAHzXn.jpg" width="600" alt="80 年代復古動漫城市景觀">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7739)**
-
-**作者:** [apob](https://x.com/apob_ai) | **來源:** [Link](https://x.com/apob_ai/status/2080140918603268171) | **發布時間:** Jul 23, 2026
-
----
-### 電影感韓劇短片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個極具細節的敘事提示詞，旨在生成一部寫實風格的韓劇感短片，講述青梅竹馬在 15 年後於初雪時節重逢的故事。
-
-#### 📝 提示詞
-
-```
-製作一部 2 分鐘的超寫實電影感短片，片中始終呈現同一位年輕東亞女性與男性。確保所有場景中的面部特徵、髮型、身材比例及服裝保持一致。呈現頂級韓劇美學、溫馨的冬季氛圍、柔和的電影級燈光、寫實的表演、淺景深效果以及優雅的運鏡。故事始於 15 年前，兩位青梅竹馬在雪地中快樂地玩耍，堆雪人、打雪仗，笑聲不斷。回家前，他們坐在公園的木長椅上，男孩承諾：「等初雪落下時，我們再在這裡見面。」他們以打勾勾的方式許下約定。影片轉場至現代，年輕女子穿著溫暖的冬大衣、圍巾和靴子回到寧靜的家鄉。她走過熟悉的街道，經過舊學校、麵包店、遊樂場和結冰的河流，童年的回憶如閃回般浮現。她最終來到同一張公園長椅旁靜靜等待，心中懷疑他是否還記得約定。隨著夜幕降臨，她起身準備離開。就在那一刻，初雪開始飄落。她抬頭看著雪花在身邊飛舞。公園對面，年輕男子穿著深色羊毛大衣和圍巾，緩緩穿過雪幕出現。他們瞬間認出了彼此，含淚微笑。他輕聲說道：「我說過初雪時我會來。」他們溫暖地擁抱，隨後漫步在覆蓋白雪的街道上，分享熱巧克力、談笑風生，並重遊成長的地方。最後一幕顯示他們在同一張公園長椅旁堆了一個小雪人，隨後手牽手走進紛飛的細雪中。僅保留自然環境音，如微風聲、雪地腳步聲、遠處火車聲、孩童嬉鬧聲、輕聲交談與落雪聲。無音樂、無字幕、無 Logo、無浮水印，亦無任何螢幕文字。超寫實韓劇攝影風格，4K HDR，16:9 比例。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080133875934904320/img/SMs90OdSMgnEMbin.jpg" width="600" alt="電影感韓劇短片">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7771)**
-
-**作者:** [Synthia](https://x.com/AIwithSynthia) | **來源:** [Link](https://x.com/AIwithSynthia/status/2080133951084192122) | **發布時間:** Jul 23, 2026
-
----
-### 韓國女性逛市場
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個電影級的影片提示詞，用於製作一段 15 秒的影片，內容為一名韓國女性在早晨走過社區農產品市場。
-
-#### 📝 提示詞
-
-```
-主要人物：年輕韓國女性，20 歲出頭，自然日常造型，身穿褪色炭灰色無袖短版上衣、寬鬆高腰淺色牛仔褲、黑色帆布鞋，佩戴黑色繩項鍊，黑色波浪捲髮紮成凌亂的側邊馬尾，留著細碎瀏海。皮膚質感真實，妝容清淡，性格溫暖親切。
-
-在整段影片中，請保持人物的身分、服裝、髮型和外觀完全一致。
-
-早晨的社區市場
-地點：隱身於住宅街道間的小型在地農產品市場。
-
-00:00–00:03 她提著環保購物袋走過市場。
-
-00:03–00:06 她一邊挑選新鮮水果，一邊與攤販簡短交談。
-
-00:06–00:09 她以現金支付，並對著鏡頭外的事物發出笑聲。
-
-00:09–00:12 她提著採買好的雜貨走回家，袋子輕輕擺動。
-
-00:12–00:15 她回頭自然地微笑，隨後消失在巷弄中。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080129798924648448/img/rTzUxg0CFqD4N5S6.jpg" width="600" alt="韓國女性逛市場">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7772)**
-
-**作者:** [Zephyra Leigh](https://x.com/ZephyraLeigh) | **來源:** [Link](https://x.com/ZephyraLeigh/status/2080130212881473741) | **發布時間:** Jul 23, 2026
-
----
-### 寫實風格女性 BMX 公園賽特技連續動作
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一份詳盡的提示詞，用於生成 15 秒寫實風格的 BMX 特技影片，內容為一名女性騎士在夜間競技場進行 Peg Grind（支架磨桿）與後空翻動作。
-
-#### 📝 提示詞
-
-```
-15 秒，1:1 正方形比例，女子 BMX 公園賽現場實拍影片。場景為大型國際 BMX 錦標賽夜間場地。BMX 公園競技場內觀眾席緊鄰賽道，場地佈滿斜坡、碗池、U 型台、欄杆、跳台、階梯與間隙。混凝土表面帶有磨損、輪胎痕跡、適度使用痕跡、無文字的抽象幾何塗鴉、油漆噴濺與彩色漆點。賽道、牆面或落點區域不得出現獨立符號、圓形徽章、爪痕、可辨識文字或與企業標誌相關的品牌圖示。觀眾席座無虛席，夜間燈光呈現白色、強烈且華麗。即使在夜間也要保持明亮、中性的白光，色彩鮮豔自然，夜空呈現清澈的藍色，亮部清晰且主體分離度高。混凝土不得呈現灰暗色調；保持頂部與膚色明亮。避免畫面整體呈現海軍藍、低飽和度、灰色霧霾、低對比度、暗沉電影色調或過度的藍色偏色。主角為一名年輕女性 BMX 騎士。長腿、高腰，身材纖細且結實，具有模特兒般的運動體態。外型健康、明亮，擁有上鏡、比例勻稱的臉龐與強大的領袖氣質。避免肌肉發達或魁梧的身材；確保所有鏡頭中的人物、體型、髮型與服裝保持一致。髮型為自然的馬尾。頭盔為霧面深海軍藍色，頭頂中心有一條細細的橘色線條。任何側面均不得出現文字、標誌、品牌名稱、數字、符號、徽章或貼紙；僅保留平滑表面、自然通風孔與中心線。上半身為完全素色的插肩袖上衣，白色軀幹搭配海軍藍短袖。不得看起來像贊助商制服、比賽球衣或品牌運動服。胸前、背部、袖子或領口不得有任何文字、標誌、形狀、數字、符號、刺繡、補丁或印花。下半身為纖細的海軍藍或深炭灰色長褲，穿著白色鞋子，不戴手套。BMX 為深色小車架款式。
-
-[特技順序鎖定]
-特技 A：下坡扶手 Peg Grind（支架磨桿）
-使用支架（pegs）在下坡欄杆上進行短暫滑行。車輪、車架、曲柄與齒盤不得接觸欄杆。
-特技 B：乾淨俐落的單次後空翻
-從一個 U 型台進行 360 度單次後空翻，並回到起跳的同一個 U 型台過渡區。
-
-必要順序：
-場地簡短介紹 → 特技 A → 短距離直線騎行 → 特技 B → 清晰落地 → 微笑 → 單手握拳慶祝。不得包含額外特技、重播或位置重置。
-0–1.2 秒：
-從略高位置拍攝的穩定廣角鏡頭，呈現整個場地。同時展示完整的觀眾席、強烈的燈光、複雜的賽道、欄杆與抽象塗鴉。不要以黑色淡入開始。
-
-1.2 秒處清晰剪輯。
-1.2–3.8 秒：
-切換至女性已在高速行進的畫面；以中距離側向跟拍鏡頭執行一次特技 A。成功後，雙輪回到平地並繼續直線前進，中途不停頓。
-3.8–5.4 秒：
-自然進入同一路線上的單一 U 型台。不得進行額外的小跳躍、牆面騎行或切換至不同地點。保持中廣角鏡頭，使起跳點、邊緣與預定落點區域能在同一個畫面中被看見。
-5.4–8.0 秒：
-僅執行一次特技 B。以連續鏡頭呈現從起跳到開始下降的過程，中間無剪輯。以正常速度起跳，在雙輪離開邊緣後啟動後空翻。在完全倒立的頂點插入約 0.4 秒的短暫慢動作片段，隨後立即恢復正常速度。不得重複旋轉，完成翻轉後進入落地姿勢。不得進行雙重翻轉、重複動作、空中動作重演、長時間停頓、長時間滯空或第二次慢動作片段。保持同一個 U 型台與落點區域在畫面內。
-8.0–9.2 秒：
-以正常速度下降，在觸地前將 BMX 車架與雙輪與落地斜坡平行對齊。雙輪自然落在同一個 U 型台的中間過渡區。清晰展示落地的瞬間。不得掉落在平台、邊緣、垂直牆面或其他坡道上；不得以前輪先著地。從起跳到觸地過程中無鏡頭剪輯。
-9.2–10.8 秒：
-雙腳保持在踏板上，臀部離開車座，利用膝蓋與手肘吸收落地衝擊。保持站立姿勢繼續向下方穩定行進。不得進行額外跳躍、兔跳、牆面騎行、額外特技、停止、坐下或鏡頭剪輯。整段影片中不得坐在車座上。
-10.8–15 秒：
-保持站立姿勢穩定行進並展現自然微笑。單手握住車把，另一隻手向觀眾揮拳慶祝。以中廣角鏡頭結尾，傳達騎士、BMX、觀眾與場地的活力。構圖主要為中廣角。使用廣角開場、低位跟拍與側向跟拍，從連續的空中跟拍平滑過渡到後空翻時的低位落地角度。營造出國際 BMX 精華片段中常見的原始廣播感，可包含極短的臉部或手部特寫。聲音應清晰呈現觀眾歡呼聲、輪胎聲、鏈條聲、金屬欄杆聲、風聲與落地衝擊聲。允許背景音樂。
-
-[負面提示詞]
-玩具/遊戲/廣告感、色彩暗淡、畫面昏暗、CG 感人物、多名主角、可辨識的標誌或文字、隱藏落地的剪輯、不自然的落地、落地後坐下、跌倒、事故、多次旋轉、順序顛倒。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080129549296365568/img/VkxZqHSB9ltez3SE.jpg" width="600" alt="寫實風格女性 BMX 公園賽特技連續動作">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7789)**
-
-**作者:** [AIライフハック](https://x.com/ai_lifehack55) | **來源:** [Link](https://x.com/ai_lifehack55/status/2080129871544832001) | **發布時間:** Jul 23, 2026
-
----
-### 從專案製作 3D 動畫廣告
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個適用於 Seedance 2.0 的提示詞，利用 9 宮格專案作為參考，在保持序列順序與情感遞進的同時，生成高品質的 3D 動畫影片。
-
-#### 📝 提示詞
-
-```
-請使用上傳的 9 宮格專案作為製作高品質 3D 動畫短片的唯一參考。
-
-請遵循每個分鏡中顯示的鏡頭順序、關鍵動作、構圖、場景轉換以及情感遞進。請勿顯示該專案。
-```
-
-<img src="https://cms-assets.youmind.com/media/1784790574726_9u0015_HN4av-rbQAAQJzq.jpg" width="600" alt="從專案製作 3D 動畫廣告">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7726)**
-
-**作者:** [𝐌](https://x.com/Strength04_X) | **來源:** [Link](https://x.com/Strength04_X/status/2080129693236293790) | **發布時間:** Jul 23, 2026
-
----
-### 電影感懸疑便利商店影片提示詞
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 這是一份為 Seedance 2.0 設計的複雜多場景影片提示詞，旨在創作 15 秒高密度電影感懸疑短片，詳細描述了角色互動、燈光及具體的運鏡方式。
-
-#### 📝 提示詞
-
-```
-生成一部 15 秒的直式電影感懸疑短片。
-
-[角色]
-一位年輕的便利商店店員，穿著深色制服，表情警惕。
-一位戴著帽子的陌生人，站在收銀台外，刻意隱藏自己的表情。
-
-[場景]
-暴雨夜的便利商店。
-冷白光微微閃爍，雨水順著玻璃窗滑落，霓虹燈的倒影映在地面上。
-整體色調為冷藍灰色，安靜、壓抑且充滿懸疑感。
-
-[場景 1：0-5 秒 | 懸疑浮現]
-鏡頭以店員掌心滾動硬幣的極致特寫開場。
-硬幣反射出冷白光，鏡頭帶有輕微的呼吸式晃動。
-快速甩鏡至店員臉部，瞬間聚焦於他的雙眼。
-店員低語：「你到底想拿什麼？」
-鏡頭進行輕微的推拉變焦，營造出貨架背景中壓抑的空間變化。
-店員轉身經過冷凍櫃，一個包裝袋擦過鏡頭，完成一次自然的轉場。
-
-[場景 2：5-10 秒 | 衝突升級]
-俯拍鏡頭拍攝店員伸手去抓櫃檯下的門栓。
-貼近地面的低角度鏡頭跟隨陌生人向前邁步，鞋子踩過地上的水漬。
-鏡頭繞著兩人旋轉半圈，展現兩人之間的距離迅速縮短。
-快速切換三個鏡頭：
-門栓的特寫；
-陌生人藏在袖子裡的手；
-商店頂部監視器閃爍的紅色指示燈。
-
-[場景 3：10-15 秒 | 真相揭露]
-後退的跟拍鏡頭跟隨陌生人持續逼近。
-店內的燈光突然熄滅後又重新亮起。
-快速甩鏡回到店員臉上，他抬頭看向監視器。
-鏡頭緩慢拉遠，店員說：「別擔心，監視器一直都開著。」
-最後停在便利商店的全景鏡頭，保留電流聲、雨聲以及監視器微弱的嗶嗶聲。
-
-[視覺要求]
-角色身份與服裝保持一致。
-動作符合真實物理規律。
-運鏡連續且流暢，避免無意義的晃動。
-電影級燈光、真實的雨夜環境音，以及輕微的底片顆粒感。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080101910720475136/img/CfHrbGLwnKmeRm28.jpg" width="600" alt="電影感懸疑便利商店影片提示詞">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7781)**
-
-**作者:** [Derek Wen｜德里克文](https://x.com/derek_wall90176) | **來源:** [Link](https://x.com/derek_wall90176/status/2080102395078697076) | **發布時間:** Jul 23, 2026
-
----
-### 手持 iPhone 風格騎行影片
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 這是一個全面的多場景提示詞，用於製作一段真實的 iPhone 風格影片，展示一名東亞女性騎自行車的過程，包含自然的運鏡、對話以及光影變化。
-
-#### 📝 提示詞
-
-```
-以原始的手持 iPhone 拍攝風格呈現，所有相機設定均為自動，無後期調色或特效。視覺效果包含自然的手持抖動以及拍攝者呼吸的節奏感。自動對焦偶爾會出現搜尋、延遲或短暫失焦的情況，自動白平衡隨陽光自然偏移。畫面整體呈現平實感，保留了真實的光學瑕疵，如真實的鏡頭光暈、邊緣色差、輕微過曝以及動態模糊。僅使用自然的環境音效（風聲、自行車鏈條聲、呼吸聲），並可能帶有輕微的麥克風失真。採用隨意的路人或朋友手持跟拍視角，運鏡反應真實而非專業的平滑運鏡。主角為一名東亞女性，身穿緊身灰黑色無袖短版運動上衣，邊緣有黑色飾邊，材質為柔軟的反光布料；下身搭配同款緊身騎行短褲。場景設定在現代豪華住宅區附近的水岸公園自行車道，時間為黃金時刻。0 秒時，她坐在自行車上，身體前傾，自信地對著鏡頭微笑。2 秒時，鏡頭切換至她踩踏上坡時腰部與下半身的低角度特寫。4 秒時，她經過一個彎道，伴隨自然的平移與輕微傾斜。6 秒時，她在水果攤停下，喝著椰子水。視角切換為男性第一人稱 POV，彷彿是她的男友在拍攝。8 秒時，她將椰子遞給鏡頭，說：「你也喝一口。」10 秒時，鏡頭向後退，彷彿男性退縮了一下，他說：「不了，我怕你給我下毒。」12 秒時，她俏皮地問：「什麼毒？光天化日之下？」14 秒時，他回答：「『沒有你我好孤單』的毒。」她笑了起來，用手掩住嘴。影片在這一刻真實的生活瞬間結束。畫面呈現出原始的手持影片質感，帶有紀錄片級別的自然瑕疵。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080085355747782656/img/-pLuSDPXVmO64BYS.jpg" width="600" alt="手持 iPhone 風格騎行影片">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7738)**
-
-**作者:** [John](https://x.com/john87445528) | **來源:** [Link](https://x.com/john87445528/status/2080085385661604340) | **發布時間:** Jul 23, 2026
-
----
-### 電影級星際巡洋艦軌道造船廠
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個為 Seedance 2.0 設計的電影級影片提示詞，描述了一場發生在軌道造船廠的災難，場景為機器人工廠在鍛造星際巡洋艦時發生故障。
-
-#### 📝 提示詞
-
-```
-超寫實風格，熔融金屬特效，真實物理效果，電影級光影，無可見人臉。場景位於巨大的軌道造船廠內部。一艘星際巡洋艦正在鍛造中。數以千計的機器人機械手臂以完美的精度運作。隨後，中央 AI 崩潰。所有機械手臂突然同時失控移動。巨大的起重機毫無預警地擺動。熔融金屬從開放的通道中傾瀉而出。巨大的船體部件毫無徵兆地旋轉。飛行員在活生生的工廠中穿梭，摩天大樓般巨大的機器與飛行器擦身而過。一艘剛鍛造好的戰艦船體橫掃過出口。攔截機在千鈞一髮之際，從下方僅剩幾公分的縫隙中驚險穿過。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080076926069178368/img/1vwY9YVK7EnNauZW.jpg" width="600" alt="電影級星際巡洋艦軌道造船廠">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7722)**
-
-**作者:** [Alexandra Aisling](https://x.com/AllaAisling) | **來源:** [Link](https://x.com/AllaAisling/status/2080077269301932364) | **發布時間:** Jul 22, 2026
-
----
-### 環法自行車賽直播風格
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一種直播風格的影片提示詞，捕捉環法自行車賽中從摩托車跟拍視角進行的山路爬坡畫面。
-
-#### 📝 提示詞
-
-```
-[風格 + 鏡頭 + 氛圍] 
-環法自行車賽摩托車攝影機直播，第 14 賽段山路爬坡。連續單鏡頭跟拍，從比賽摩托車上拍攝，先與車手平行，隨後稍微落後。強烈的高海拔陽光、汗水、塵土、真實的路面震動、熱情的觀眾氛圍，以及細微的直播顆粒感與壓縮感。
-
-[圖像參考]
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079946971847196672/img/iVnye_HNWL4a4FPX.jpg" width="600" alt="環法自行車賽直播風格">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7742)**
-
-**作者:** [PixelAIGC](https://x.com/PixelAigc) | **來源:** [Link](https://x.com/PixelAigc/status/2080068458960888271) | **發布時間:** Jul 22, 2026
-
----
-### 動漫少女牆面奔跑逃脫場景
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 這是一個高預算 2D 動漫場景的精細電影級提示詞，描述了一位少女在動態重力變換中，於牆面上奔跑以逃離上漲黑水的過程。
-
-#### 📝 提示詞
-
-```
-角色：小學二年級女生，黑色鮑伯頭。
-
-影片風格：
-15 秒。日本全彩動漫。具備 5 億日圓預算感的高密度 2D 動畫。細膩的背景美術、流暢的中間畫格以及電影級後期處理。為避免視覺疲勞，請動態調整構圖、攝影角度、鏡頭尺寸及角色距離。無字幕、無浮水印、無背景音樂。包含環境音效。
-
-視覺構圖：隨著黑水從後方逼近，每當角色踩上牆面，世界便會旋轉 90 度，使牆面成為新的地面。在穿過牆面與天花板並回到原始地面後，黑水瞬間停止。
-
-[第 5-7 鏡頭必須包含]：只有牆面奔跑留下的腳印浮在黑水表面，形成一條虛線路徑。
-
-鏡頭 1（旋轉開場）：地下道。角色踩上牆面的瞬間，世界與攝影機一同旋轉 90 度，牆面變為新的地面。眼神堅定地向前看。
-鏡頭 2（追逐）：黑水從後方逼近。唯一的逃生路徑是牆面與天花板。主角保持冷靜，迅速評估情況。
-鏡頭 3（牆面衝刺）：角色在牆面上全速奔跑，跳過窗戶與招牌等障礙物。表情銳利且專注。
-鏡頭 4（前往天花板）：再次旋轉 90 度來到天花板。頭髮與衣服短暫保留了先前的重力慣性後才恢復。表情依然穩定。
-鏡頭 5（縫隙穿梭）：在逼近的黑水縫隙中穿梭。構圖上使上下變得難以分辨。在冷靜調節呼吸的同時奔跑穿過。
-鏡頭 6（最終轉場）：在最後一次轉場中回到原始地面。逼近的黑水完全停止。落地瞬間露出一抹淺笑。
-鏡頭 7（靜止）：角色整理頭髮，冷靜地說：「我的鞋子甚至沒弄濕。」身後的牆面上，只有腳印垂直排列著。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075903288772640768/img/qdbgxOMIJcbn-qSl.jpg" width="600" alt="動漫少女牆面奔跑逃脫場景">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7747)**
-
-**作者:** [妖精アーヤさん](https://x.com/aiehon_aya) | **來源:** [Link](https://x.com/aiehon_aya/status/2080050257761894907) | **發布時間:** Jul 22, 2026
-
----
-### Adidas 球鞋城市廣告
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份專業的 Adidas 球鞋電影級廣告提示詞，聚焦於街頭風格美學、產品紋理以及高端時尚造型。
-
-#### 📝 提示詞
-
-```
-製作一支 15 秒的高級電影級 Adidas 球鞋廣告，場景設定在充滿粗獷感的城市環境中，背景包含色彩鮮豔的塗鴉牆、現代混凝土建築以及大膽的街頭風格美學。開場以廣角鏡頭建立場景，一位時尚模特兒穿著現代街頭服飾與 Adidas 球鞋自信地走入畫面。接著切換至極低角度的球鞋特寫，捕捉球鞋踏在路面上的有力步伐，清晰呈現鞋底紋理、鞋帶、縫線以及真實的衝擊感。隨後跟隨模特兒在城市中自信行走的流暢全身追蹤鏡頭，捕捉自然的動作與高級時尚廣告的造型感。切換至模特兒自信眼神與臉部的編輯風格特寫，在戲劇性的電影燈光下，頭髮隨風自然飄動。轉入極致的微距產品鏡頭，以銳利的對焦與優雅的運鏡，展示球鞋的高級材質、縫線、紋理、鞋帶與鞋底設計。接著進行動態的側面追蹤鏡頭，捕捉模特兒穿梭於城市街道時的活力與自信。最後以戲劇性的低角度英雄鏡頭作結，讓球鞋佔據畫面前景，隨後過渡到放置於路面上的 Adidas 球鞋乾淨產品英雄照。攝影機進行緩慢的電影級推軌鏡頭，並為最終的活動標語留出負空間。顯示螢幕文字：「BE BOLD. BE REAL.」。使用鮮豔的電影級調色、真實的紋理、自然的膚色、高級商業燈光、流暢的攝影機運動、淺景深、動態構圖、高端時尚廣告風格、超真實 4K 畫質，並確保角色外觀一致。避免解剖結構扭曲、多餘肢體、鞋子重疊、標誌變形、閃爍、過度的動態模糊、視覺偽影以及無法辨識的文字。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080018335161634816/img/z7fY6XZIosLg8y0E.jpg" width="600" alt="Adidas 球鞋城市廣告">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7713)**
-
-**作者:** [Hania Ai](https://x.com/HaniaAi12) | **來源:** [Link](https://x.com/HaniaAi12/status/2080018358691668116) | **發布時間:** Jul 22, 2026
-
----
-### 電影級瑪格麗特披薩製作過程
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一份針對頂級美食廣告所設計、極其細緻的多鏡頭提示詞，展示了瑪格麗特披薩從零開始的神奇組裝與烹飪過程。
-
-#### 📝 提示詞
-
-```
-請使用上傳的圖片作為最終構圖、光影、色彩、食材擺放以及美食攝影的參考。
-
-[鏡頭] 完美的俯視鏡頭，背景為乾淨的白色桌面。一個空的圓形赤陶披薩盤位於中心，周圍留有充足的負空間。明亮柔和的攝影棚光線，優雅的陰影。一張方形烘焙紙優雅地在盤子上展開。伴隨輕微的紙張摩擦聲。
-
-[鏡頭] 緩慢的電影級推鏡。細緻的麵粉顆粒像閃爍的塵埃般從桌面升起，在盤子上空盤旋。它們匯聚成一個光滑的麵糰球，輕柔地落在烘焙紙上，快速旋轉並延展成圓形的披薩餅皮。外緣膨脹成厚實且充滿空氣感的餅皮。伴隨柔和的麵粉噴灑聲與麵糰落下的聲音。
-
-[鏡頭] 微距俯拍鏡頭。成熟的番茄在半空中出現，轉化為一道光澤亮麗的番茄醬流。醬料在餅皮上完美地擴散成螺旋狀，同時保持邊緣餅皮的乾淨。細小的蒜末與調味料顆粒穿過光線，自然地散落在醬料上。
-
-[鏡頭] 圍繞披薩進行平滑的 45 度環繞拍攝。新鮮的莫札瑞拉起司球漂浮進入畫面，緩慢旋轉後均勻地落在番茄醬上。羅勒葉以優雅的慢動作飄落，輕柔地落在起司之間。一條金黃色的橄欖油細流在空中劃出弧線，在表面閃爍光澤。
-
-[鏡頭] 圍繞餅皮的極致特寫跟拍。一股溫暖的烤箱熱浪像無形的火焰般掃過披薩。蒼白的麵糰迅速變為金黃色，並出現真實的深色柴燒焦斑。莫札瑞拉起司軟化融化，番茄醬開始冒泡，羅勒葉因上升的熱氣而微微顫動。伴隨酥脆的裂開聲、輕微的冒泡聲以及柔和的火焰呼嘯聲。
-
-[鏡頭] 攝影機升起，呈現與參考圖片一致的完美俯視主鏡頭。番茄、新鮮羅勒、莫札瑞拉起司、大蒜、乾辣椒、橄欖油、鹽、胡椒、迷迭香以及一小碗番茄醬優雅地滑入成品披薩周圍的最終位置。披薩釋放出細緻的熱氣，融化的起司閃耀著光澤，橄欖油反射著光線。定格在完整的瑪格麗特披薩上作為最後畫面。
-
-照片級真實感頂級美食廣告，視覺奢華，流暢的神奇組裝，平滑且受控的鏡頭運動，令人垂涎的質感，明亮的白色背景，溫暖的自然色彩，清晰的細節，真實的物理效果，無人手，無人物，無文字，無標誌，無對話，無音樂。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079999572168814592/img/6B6yBE4D6m6b06xS.jpg" width="600" alt="電影級瑪格麗特披薩製作過程">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7727)**
-
-**作者:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **來源:** [Link](https://x.com/airina_xyz/status/2079999693380051042) | **發布時間:** Jul 22, 2026
-
----
-### 女孩在大型南瓜市集場景中掙扎
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 這是一個為 Seedance 2.0 設計的高細節敘事提示詞，捕捉了一個幽默瞬間：一位女孩在戶外市集試圖搬起一顆大南瓜，過程被朋友全程錄影。
-
-#### 📝 提示詞
-
-```
-在一個陽光明媚的露天市集，一位女孩緩步走過水果攤，直到她來到一籃大南瓜前；她原本只是想拿一顆起來看看有多重。她用雙手從籃子邊緣抱起了一顆完整的大南瓜。就在她轉身想看個仔細時，重量瞬間將她的雙臂往下拉；她的表情僵住了。她彎曲膝蓋將南瓜往身體靠攏，向後退了半步，小心翼翼地將它放回原處。她甩了甩痠痛的手腕，看向旁邊的水果，假裝什麼事都沒發生，卻發現朋友把整個過程都錄了下來。她忍住笑意，瞪了鏡頭一眼。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079994052460867584/img/sLmHTq8RuXp2_scK.jpg" width="600" alt="女孩在大型南瓜市集場景中掙扎">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7744)**
-
-**作者:** [Loriel.AI](https://x.com/ou_zhen599) | **來源:** [Link](https://x.com/ou_zhen599/status/2079994340232110326) | **發布時間:** Jul 22, 2026
-
----
-### 第一人稱 MiniDV 晨間 Vlog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份詳細的提示詞，用於生成一段以 2000 年代初期 MiniDV 攝影機風格拍攝的連續、寫實的第一人稱 Vlog，捕捉從起床到公園散步的晨間日常。
-
-#### 📝 提示詞
-
-```
-概念：「晨間散步日常」
-創作一段由手持 MiniDV 攝影機拍攝的單一連續自拍 Vlog。攝影機全程由女孩手持，創造出自然的「第一人稱自拍」視角，包含細微的手部晃動、寫實的自動對焦搜尋感、輕微的曝光變化以及真實的行走動態。無剪輯、無轉場，也無電影級運鏡。
-視覺風格：柔和的 2000 年代初期 MiniDV 質感，帶有輕微的磁帶顆粒感、自然的色彩、溫和的高光暈染、真實的室內外光影，且無美顏濾鏡或過度的調色。
-角色：YEJI，一位 20 多歲的韓國女性偶像，留著黑色長髮，妝容清新自然，個性開朗。她起初穿著舒適的粉彩色睡衣，隨後換上一件時尚的運動連帽衫、緊身褲和白色運動鞋。
-場景：一間舒適的現代公寓，通往寧靜的林蔭社區及附近的公園，時間為明亮的早晨。
-Vlog 開始時，YEJI 從睡夢中醒來，伸手拿起床邊的攝影機，睡眼惺忪地微笑並說道：
-「早安……我們一起開始新的一天吧。」
-她拉開窗簾、伸懶腰、洗臉、綁頭髮、喝了一杯水，並在隨意地對著鏡頭聊天時吃了一份簡單的早餐。
-她走回房間，迅速換上運動裝，在玄關鏡子前檢查儀容，繫好鞋帶，拿起水瓶，露出微笑。
-「好啦……我們走吧。」
-她走出門，開始在寧靜的街道和綠意盎然的公園中晨間散步，偶爾將鏡頭轉向風景，隨後又轉回自己身上。
-散步途中，她笑著說：
-「這麼早出門總是讓我感覺好多了。」
-Vlog 在她抵達公園一處陽光充足的地方時結束，她對著鏡頭揮手說：
-「謝謝你們陪我一起。下次見。」
-她繼續向前走，攝影機自然地放下，錄影結束。
-生成要求：一段連續且寫實的鏡頭，需保持角色一致性、自然的肢體動作、精確的物體互動、流暢的光影轉換、可信的攝影機運鏡，且不得出現 AI 偽影、跳接、解剖結構錯誤或物體重疊。成品應呈現出真實個人晨間 Vlog 的質感。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079979035434913792/img/DjzpX9ldjZ_wO1ke.jpg" width="600" alt="第一人稱 MiniDV 晨間 Vlog">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7721)**
-
-**作者:** [Johnn](https://x.com/john_my07) | **來源:** [Link](https://x.com/john_my07/status/2079979085720388068) | **發布時間:** Jul 22, 2026
-
----
-### 音樂錄影帶編舞與角色識別
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個複雜的 Seedance 2.0 影片提示詞，用於製作多成員音樂錄影帶，並結合圖像參考以確保角色識別，以及使用影片來控制節奏。
-
-#### 📝 提示詞
-
-```
-製作一支音樂錄影帶；圖像為專屬外觀參考，@[blackout video] 為剪輯時間軸。保持四名成員各具特色、連續的編舞動作，並以向右退場的方式結束。
-
-僅使用 @[image1] 作為 Vocal 1 的最終外觀與服裝參考。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079966794878513152/img/lWmuRLvhYR4aHAvt.jpg" width="600" alt="音樂錄影帶編舞與角色識別">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7725)**
-
-**作者:** [Kōda](https://x.com/aimikoda) | **來源:** [Link](https://x.com/aimikoda/status/2079968108303818827) | **發布時間:** Jul 22, 2026
-
----
-### 西部強盜突襲 IMAX 電影
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段 1880 年代美國邊境動作場景的超寫實提示詞，採用 IMAX 電影風格，具備動態追蹤與自然光影效果。
-
-#### 📝 提示詞
-
-```
-以 IMAX 電影攝影機拍攝。超寫實真人西部動作片。非動畫。非插畫。1880 年代的美國邊境。正午時分，塵土飛揚的西部村莊，風化的木造店面，繫馬樁，遠處可見教堂尖塔。五名粗獷的強盜身穿長版防塵大衣，戴著深色頭巾，策馬奔入鎮上，馬蹄聲如雷，身後捲起濃厚的塵土。鎮民尖叫四散，店主猛力關上店門，一位母親將孩子拉到水槽後方。一名強盜從馬鞍上俯身，抓住一名身穿褪色藍色草原裙、驚恐萬分的 18 歲少女，將她拉上馬背。她尖叫著：「放開我！救命啊！」強盜們將馬頭轉向鎮邊，大聲歡呼並向空中開槍。動態追蹤攝影，馬匹全速奔馳的低角度鏡頭，塵埃粒子特效，槍口火光與硝煙，電影級調色，35mm 電影膠卷顆粒感，變形鏡頭光暈，強烈的自然日光。音效：雷鳴般的馬蹄聲、驚恐的尖叫聲、槍聲、緊張的西部管弦樂弦樂。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079962200119083009/img/6eSu_0t04D6ZNhtv.jpg" width="600" alt="西部強盜突襲 IMAX 電影">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7730)**
-
-**作者:** [God's Way Foundation](https://x.com/godswayfoundinc) | **來源:** [Link](https://x.com/godswayfoundinc/status/2079963031287537714) | **發布時間:** Jul 22, 2026
-
----
-### 高級時裝明暗對照法消融動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個精緻的單色提示詞，描繪女性臉龐緩慢消融於黑暗中，聚焦於光影與高級時裝美學。
-
-#### 📝 提示詞
-
-```
-場景與氛圍：一位匿名女性緩慢地消融於完全的黑暗中，她的臉龐與身體逐幀被吞噬，直到只剩下一道狹窄的水平光帶橫跨雙眼——這是一項關於記憶、消失與隱藏情感的研究，以極致的高級時裝明暗對照法呈現。
-
-畫面構圖：垂直構圖，主體置中，頭部與肩部，前景。她的雙眼位於上方三分之一處，即最終光帶停留的位置。負空間填滿畫面邊緣，呈現為純黑色，與虛無的背景無法區分——在消融的形體與黑暗之間沒有可見的接縫。
-
-主體鎖定：一位身分不明的女性，深邃的深色虹膜，長而分明的睫毛，輪廓鮮明的眉毛，僅在橫跨雙眼的光帶內可見微弱的皮膚質感。頭部面向鏡頭，保持靜止，下巴水平，雙肩端正。表情難以捉摸——雙眼睜開，穩定，長時間不眨眼。臉部、姿勢與方向在整個過程中保持一致；僅有周圍的光線發生變化。
-
-跨幀規則：僅限單一主體，過程中不得有其他人物進入畫面。
-
-動作：0–5 秒，女性大部分清晰可見，呈現暗灰色調，肩膀與下顎在背景中仍可辨識。5–10 秒，黑暗從畫面邊緣以及她的髮際線與下顎處向內推進，她的肩膀與軀幹完全沉入黑色，而上半臉部保持受光。10–15 秒，受光區域縮窄為僅橫跨雙眼的一條細長水平帶，其餘上下部分皆消融為純黑；在 12 秒附近出現一次緩慢的眨眼，睫毛捕捉到最後一絲光線。無其他動作——無頭髮晃動，無呼吸帶動的衣物起伏，畫面中無其他物體移動。
-
-最後一幀：全黑填滿畫面，僅剩一條橫跨雙眼的細長水平光帶，保留銳利的虹膜、長睫毛以及懸浮在黑暗中的微弱眉弓，臉部邊緣與虛無之間無明顯界線。畫面中無螢幕文字、無標題、無標示排版、無渲染文字。
-
-世界背景：無限的黑色攝影棚虛無空間，無地平線，無場景佈置。畫面中無任何色彩，純粹的黑白單色。
-
-音效底層：近乎完全的靜謐，僅有微弱的環境音與極其細微、緩慢且受控的呼吸聲。
-
-拍攝真實感：深度透過黑暗本身建立——受光眉骨與吞噬黑暗之間的過渡柔和且漸進，絕非生硬的圖形邊緣，因此消融效果呈現為光線的減弱而非遮罩剪輯。在唯一受光的光帶內，皮膚呈現真實的電影級霧面質感，額頭與眉骨的可見區域無任何油光，具備真實細膩的毛孔紋理，真實的細長睫毛能個別捕捉光線，即使在單色中也能呈現如真實次表面散射般的光線吸收效果。黑色本身作為概念的核心，允許呈現為純粹的黑色，但受光帶周圍的邊界保持柔和的漸層，絕無乾淨的向量邊緣。所有高光反射皆...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079660278959222785/img/DNTARK1pUZ9-uC0m.jpg" width="600" alt="高級時裝明暗對照法消融動畫">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7731)**
-
-**作者:** [BMX](https://x.com/bmx_ai13) | **來源:** [Link](https://x.com/bmx_ai13/status/2079961166047236596) | **發布時間:** Jul 22, 2026
-
----
-### 未來競技場科幻戰鬥
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段電影級科幻影片提示詞，描述一名金髮女性運動員在充滿全息元素的未來競技場中，與人形機器人進行激烈戰鬥。
-
-#### 📝 提示詞
-
-```
-這是一段充滿動感的電影級動作場景，背景設定在未來科幻競技場中，場景包含流線型金屬牆面、幾何混凝土障礙物、發光的藍色全息元素，以及透過大型窗戶射入的戲劇性耶穌光，營造出朦朧感與鏡頭光暈。一位留著金色波浪長髮並紮成高馬尾的絕美西方女性，擁有白皙皮膚與健美體態，身穿合身白色背心與黑色緊身褲，正在與多個配備閃亮銀色裝甲及發光藍色面罩/眼睛的先進人形戰鬥機器人搏鬥。
-
-開場為中景特寫，她自信地站立並面向鏡頭，機器人在她身後列隊。隨後切換至快節奏動作：她以高速在競技場中衝刺閃避（帶有動態模糊），並進行跳躍與特技動作。激烈的近身肉搏戰中，她揮拳踢腿攻擊機器人，迸發出耀眼的火花與金屬碎片。她繳械了一台機器人，奪過其大型未來感步槍並在閃避的同時反擊。畫面在近身格鬥、廣角追蹤鏡頭與慢動作衝擊之間快速切換。高潮部分展現她勝利地站在競技場中央，被擊敗的機器人破碎並冒著煙散落在她周圍，採用戲劇性的低角度廣角鏡頭，搭配強烈的背光與環境煙霧。高能量、好萊塢風格的動作場面，如同《Atomic Blonde》遇上科幻題材，8 秒可循環片段，真實光影，細節豐富，具備 4K 電影級畫質。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079945944586481664/img/FIpC9A1Sh89CTV5Q.jpg" width="600" alt="未來競技場科幻戰鬥">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=7719)**
-
-**作者:** [Sharon Riley](https://x.com/Just_sharon7) | **來源:** [Link](https://x.com/Just_sharon7/status/2079946481801236893) | **發布時間:** Jul 22, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -3548,6 +3396,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-26T03:04:03.049Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-26T06:59:58.933Z</sub>
 
 </div>
