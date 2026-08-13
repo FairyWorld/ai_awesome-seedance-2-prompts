@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **5853** |
+| 📝 Toplam İstem | **5852** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-08-13** |
 
@@ -2527,101 +2527,6 @@ Style: Photorealistic, premium automotive commercial, cinematic lighting, realis
 **Yazar:** [Isabel White](https://x.com/IsabelWhite24) | **Kaynak:** [Link](https://x.com/IsabelWhite24/status/2085992953227424046) | **Yayınlandı:** Aug 8, 2026
 
 ---
-### Japanese Water Obstacle Show
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A nostalgic and energetic prompt for a Japanese TV-style water obstacle course challenge, with multiple camera angles and energetic commentary.
-
-#### 📝 İstem
-
-```
-[Style] Large-scale Japanese variety show water obstacle challenge special program (Japanese TV Game Show, Live-Action Broadcast), multi-camera real-time broadcast, 4K photorealistic photography, high-saturation summer colors, real-time throughout without slow motion.
-
-[Duration] 30 seconds
-
-[Scene] Sunny outdoor large leisure pool obstacle course, five stages lined up from left to right. Stage 1: 5-meter high wooden jumping platform, Tarzan rope with pulley on overhead cable. Stage 2: 3-meter diameter red and yellow circular floating disc on the water, rotating continuously at a constant speed on an underwater axis, slippery surface. Stage 3: Four square floating blocks of varying distances, bobbing up and down with the waves. Stage 4: A slanted blue slippery climbing wall with grab ropes hanging from the top. Stage 5: A huge yellow cylindrical pipe spanning the water, wet reflective vinyl surface printed with red flame patterns, rotating continuously at a constant speed by a motor, just thick enough to be hugged by arms and legs, the right end connected to a small finish platform, directly below is a clear pool with no safety mats. Background includes palm trees, large water slides, light stands, commentary booth, temporary stands full of spectators. The entire film moves from left to right.
-
-[Character] Challenger (adult Japanese female, strong and healthy athletic build, wearing clothes).
-
-[Fixed Items] The position, size, color, and connection of the five stages remain unchanged throughout the film; only one challenger is always in the frame; hair and clothes are dry at the start and only naturally soaked after falling into the water; the circular floating disc and yellow pipe must be continuously rotating in all shots where they appear.
-
-[00:00-00:03] Shot 1: Tarzan rope launch (Eye-level Medium → Wide Pull-back, ENG Camera)
-Visual: She stands on the edge of the 5-meter platform holding the rope, toes gripping the edge.
-Dialogue: "Zettai clear shimasu!" (I will definitely clear it!)
-Action: When the buzzer sounds, she kicks off forcefully, the pulley slides right along the cable, her body swings over the water in a pendulum arc, hair blown back by the wind.
-Commentary: "Mazu wa Tarzan Rope!" (First is the Tarzan Rope!)
-SFX: Start buzzer, pulley sliding, crowd cheering.
-
-[00:03-00:07] Shot 2: Landing on rotating disc (Fixed Side Shot)
-Visual: Fixed camera on the side of the floating disc, showing the person, rope, and disc.
-Scene: The red and yellow circular floating disc is rotating continuously at a constant speed on the water, the slippery surface reflecting light.
-Action: She releases the rope and lands on the disc; as soon as her feet touch, she is carried sideways and backwards by the rotation. She spreads her arms and takes small, rapid steps in the opposite direction to offset the rotation, knees bent and center of gravity low, stabilizing after a few wobbles.
-Expression: Eyebrows fly up, teeth clenched, then a quick grin.
-Commentary: "Kaitenban da! Taeta!" (It's the turntable! She held on!)
-SFX: Low-frequency hum of the turntable axis, sound of soles rubbing, a burst of cheers.
-
-[00:07-00:12] Shot 3: Floating board jumps (Dolly Track L→R)
-Camera: Dolly camera moving parallel to the direction of progress, tracking from left to right.
-Visual: Four square floating blocks bobbing up and down with the waves, unevenly spaced.
-Action: She jumps from the edge of the turntable, crossing the floating blocks with four consecutive single-foot jumps. On the second block she missteps, the block sinks sharply, her upper body lunges forward and arms circle wildly for balance. Her right foot splashes in the water before she manages to step onto the third block, and the final jump lands both feet on the fourth block.
-Dialogue: "Abuna...!" (That was close...!)
-Commentary: "Nimaime de kuzureta! Demo tsunaida!" (She faltered on the second one! But she recovered!)
-SFX: Muffled sound of blocks hitting water, splashing, intermittent gasps from the audience.
-
-[00:12-00:17] Shot 4: Slippery climbing wall (Front 3/4 Medium Shot)
-Visual: Front diagonal medium shot, showing the person, the sloped wall, and the grab ropes at the top.
-Scene: The blue slanted wall is covered in running water, reflecting light.
-Action: She runs up the wall, takes three steps, then her soles slip and she slides down a bit. She immediately drops her body to grab the wall, fingertips digging into the surface texture, and climbs again, right hand grabbing the rope hanging from the top, pulling herself up with arm strength.
-Expression: Neck muscles tensed, forehead creased, breathing heavily.
-Dialogue: "Yoisho, yoisho...!" (Heave-ho, heave-ho...!)
-Commentary: "Suberu kabe! Ude dake de nobotta!" (The slippery wall! She climbed it using only her arms!)
-SFX: Friction on the wet wall, rope tightening, applause from the crowd.
-
-[00:17-00:21] Shot 5: Hugging the rotating log (Rear Side Fixed Shot)
-Visual: Slightly rear fixed side shot, clearly showing the pipe is rotating.
-Scene: The yellow cylindrical pipe rotates continuously by a motor, a layer of water on the wet vinyl surface, red flame patterns rolling across the screen as it turns.
-Action: She jumps from the top of the slope and straddles the base of the pipe, clamping it with her chest, stomach, arms, and legs. The rotation immediately carries her to the right; she adjusts her center of gravity in the opposite direction and shuffles toward the finish by moving her arms and legs in small increments.
-Dialogue: "Ehh, mawatteru!?" (Eh, it's rotating!?)
-Commentary: "Kaiten maruta da! Kore ga sainankan!" (It's the rotating log! This is the hardest part!)
-SFX: Low-frequency motor sound, wet vinyl friction.
-
-[00:21-00:26] Shot 6: Flipped over - Limit before finish (Front Close-up → Medium Pull-back)
-Camera: Front close-up at the finish side slowly pulling back to a medium shot, camera axis remains unchanged.
-Action: The pipe continues to rotate, slowly flipping her body to the right. Her center of gravity passes the highest point of the pipe and she can't pull it back. Her right leg detaches first, flailing in the air, then her right hand releases to reach for the finish platform, her full weight hanging by her left arm and leg as the pipe continues to rotate right.
-Expression: Veins bulging at temples, arm muscles shaking, eyes wide.
-Dialogue: "Mou dame, matte...!" (I can't, wait...!)
-Commentary: "Kaiten ni maketa! Ato sukoshi!" (Beaten by the rotation! Just a little more!)
-Connection: Right fingertips are about 20cm from the finish platform, left hand still clinging to the rotating pipe.
-
-[00:26-00:28] Shot 7: Falling into water before finish (Fixed Side Shot)
-Visual: Fixed side shot of the pipe, showing the pipe, outstretched right hand, finish platform, and the water surface directly below.
-Action: As the pipe rotates further, the supporting left hand is turned to the underside and slips. Her body falls sideways into the pool under gravity, creating a large splash. The pipe continues to rotate in place after she falls.
-Dialogue: "Ahhh!"
-Commentary: "Ochita! Maruta ni mawasareta—!" (She fell! Spun off by the log!)
-SFX: Loud splash, gasps from the audience.
-
-[00:28-00:30] Shot 8: Water surface reaction ending (Water-level Close-up, Static)
-Visual: Water-level front close-up, static camera, focusing on the face.
-Action: She emerges from the water, wet hair sticking to her cheeks, wipes her face, looks toward the finish with a frown, and splashes the water with her hands.
-Dialogue: "Kuyashii!" (How frustrating!)
-Action: Turns her gaze back to the camera, frown relaxes into a shy smile, shoulders shrugging slightly. In the background, the yellow pipe is still slowly rotating.
-SFX: Huge cheers and applause peaking.
-
-[Audio] High-paced game show style BGM. Synchronized sound effects: crowd cheering, applause, laughter, start buzzer, pulley, rotating motor, splashes, friction, water drops. Clear natural Japanese dialogue, no other voices, lipsyncing. BGM lowers during dialogue.
-
-[Camera and Editing] Natural multi-camera TV broadcast, hard cuts only. Mix of ENG, wire, dolly, water-level, and telephoto shots. Maintain 180-degree rule and left-to-right progression. No high-speed camera moves, spinning, crash zooms, or drones. No slow motion, replays, freezes, or time jumps.
-
-[Prohibitions] Maintain consistency of face, hair, body, clothing, skin color, and number of limbs. Physics must be realistic (gravity, inertia, slipping, rotation). No teleporting, backwards movement, static air, body deformation, or background replacement. Healthy athletic variety show style, no clothing malfunctions. No real brand names, logos, watermarks, or gibberish text.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085990389702426625/img/UOKjGuuoGwlaXXrW.jpg" width="600" alt="Japanese Water Obstacle Show">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=8736)**
-
-**Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2085990609777471651) | **Yayınlandı:** Aug 8, 2026
-
----
 ### Funny Cartoon Cat with High-Tech Toy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3578,6 +3483,37 @@ A cinematic product commercial featuring a luxury smartwatch on a reflective bla
 **Yazar:** [Shan | Imagvio AI](https://x.com/ShanBuildsAI) | **Kaynak:** [Link](https://x.com/ShanBuildsAI/status/2085401238716527068) | **Yayınlandı:** Aug 6, 2026
 
 ---
+### Townhouse Reading Physical Comedy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A photorealistic comedy scene of an East Asian woman reading a book, involving physics-based chaos with a medicine ball in a townhouse.
+
+#### 📝 İstem
+
+```
+Create a 15 second photorealistic live action comedy in a horizontal 16:9 frame, 4K detail, 30 frames per second. The lead is a strikingly attractive adult East Asian woman in her late twenties with long glossy black hair in loose waves, elegant natural makeup, expressive dark eyes, and a confident sensual screen presence. She wears a fitted midnight blue satin lounge dress with a tasteful neckline and turquoise socks. She holds an ornate navy and gold hardcover book respectfully against her chest. The cover has decorative geometry only, with no readable writing.
+
+The location is a real lived in townhouse bedroom connected to a narrow hallway. Show warm honey oak floors, cream walls, framed art, a beige patterned bed, a grey velvet bench, a faded Persian rug, sheer curtains glowing with daylight, a cast iron radiator, and a vintage brass and white ceiling fan. Place one heavy black medicine ball in the hallway. Keep every object, facial feature, garment, and room detail consistent through all cuts.
+
+From 0 to 3 seconds, use a locked wide camera at waist height with a natural 24 millimeter phone lens look. She walks toward camera while calmly reading, centered in the hallway. Her socked foot clips the medicine ball. She stumbles with believable weight and momentum, instinctively protects the book, and falls sideways onto the bed. Show realistic hair inertia, fabric folds, foot placement, motion blur, and mattress compression.
+
+From 3 to 6 seconds, cut to a close side angle near the bed. She sits upright without losing her place, still reading with total focus. The medicine ball rebounds through the room. She leans back just before it passes, then calmly pulls the blanket over herself while keeping the book open. Use quick hard cuts and one brief imperfect whip pan timed to the impacts.
+
+From 6 to 10 seconds, cut to a low upward angle of the slowly rotating ceiling fan. The ball arcs into the blade path and is redirected through a chain of physically believable collisions. The fan wobbles subtly, dust shakes loose, and each impact has accurate contact, spin, gravity, and rebound. Cut to the radiator as the ball strikes the metal ribs, drops to the wooden floor, and rolls out of frame.
+
+From 10 to 15 seconds, return to a wider bedside composition. She lies comfortably under the blanket, still reading and completely unbothered. The ball rolls back into the foreground, lightly bumps the bed frame, and stops. She gives the camera one brief deadpan glance, then returns to the page. Hold the final image for one second.
+
+Use soft window daylight, gentle bounced fill, realistic shadow falloff, small phone auto exposure shifts, natural skin texture, slight lens distortion, deep focus, and restrained handheld vibration. Avoid polished commercial perfection. Edit with fast impact cuts while preserving screen direction. Add playful music
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085339623019180032/img/QB3vbbxXB07xzkP1.jpg" width="600" alt="Townhouse Reading Physical Comedy">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=8633)**
+
+**Yazar:** [BMX](https://x.com/bmx_ai13) | **Kaynak:** [Link](https://x.com/bmx_ai13/status/2085396229811216701) | **Yayınlandı:** Aug 6, 2026
+
+---
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -3639,6 +3575,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-13T02:11:44.543Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-13T05:58:37.654Z</sub>
 
 </div>
