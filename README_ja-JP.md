@@ -70,7 +70,7 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 |--------|-------|
 | 📝 プロンプト総数 | **5973** |
 | ⭐ おすすめプロンプト | **6** |
-| 🔄 最終更新 | **2026-08-15** |
+| 🔄 最終更新 | **2026-08-16** |
 
 ---
 
@@ -4451,6 +4451,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-15T20:38:08.023Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-16T01:32:18.720Z</sub>
 
 </div>
