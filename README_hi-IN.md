@@ -68,7 +68,7 @@ ByteDance के Seedance 2.0 के लिए उच्च गुणवत्�
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **6065** |
+| 📝 कुल प्रॉम्पट्स | **6062** |
 | ⭐ विशेष प्रॉम्पट्स | **6** |
 | 🔄 अंतिम अपडेट | **2026-08-18** |
 
@@ -3857,25 +3857,6 @@ Seedance प्रॉम्प्ट | पहचान, विश्वास �
 **लेखक:** [harryskomi](https://x.com/HarrysKomi) | **स्रोत:** [Link](https://x.com/HarrysKomi/status/2088634089423389140) | **प्रकाशित:** Aug 15, 2026
 
 ---
-### सिगार रूम फेशियल एक्सप्रेशन ट्रांजिशन
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2.0 के लिए एक जटिल वीडियो प्रॉम्प्ट, जो एक हाई-एंड सिगार रूम में जुनून से ठंडी उदासीनता तक के सूक्ष्म चेहरे के हाव-भाव के बदलाव को दर्शाता है।
-
-#### 📝 प्रॉम्पट
-
-```
-अवधि: 15 सेकंड। फॉर्मेट: 9:16 वर्टिकल। स्टाइल: हाई-एंड सिगार रूम में शूट किया गया अनप्रोसेस्ड iPhone हैंडहेल्ड सेल्फी पर्सपेक्टिव। ऑटोमैटिक सेटिंग्स, फर्स्ट-पर्सन बॉयफ्रेंड पर्सपेक्टिव। कोई कृत्रिम लाइटिंग या ग्रेडिंग नहीं। यथार्थवाद के लिए हल्का हैंडहेल्ड शेकिंग। सिंगल टेक, कोई एडिट नहीं। कैरेक्टर: इमेज रेफरेंस पर आधारित मैच्योर महिला, चश्मा, काले दस्ताने और हाई हील्स पहने हुए। इंटरेक्शन के सिद्धांत: सोशल डिस्टेंस (1.5-2 मीटर), केवल फुल और अपर बॉडी शॉट्स, कोई एक्सट्रीम फेस-फिलिंग क्लोज-अप नहीं। पर्यावरणीय विवरण: गर्म पीली लाइटिंग, बैकग्राउंड में सिगार कैबिनेट और सॉफ्ट गोल्डन बोकेह। स्क्रिप्टेड बीट्स: 0-3 सेकंड: सीनियर सिगार ट्रे पेश करती है, एक संयमित ठंडी मुस्कान देती है। 3-6 सेकंड: बॉयफ्रेंड की टिप्पणी पर प्रतिक्रिया, ठंडी और सवालिया नजर। 6-9 सेकंड: दबी हुई हंसी का बाहर आना। 9-11 सेकंड: होंठ पर राख होने की बात सुनकर हंसी रोकना। 11-13 सेकंड: कैमरे को आईने के रूप में इस्तेमाल करके खुद को चेक करना। 13-14 सेकंड: एक हल्की टिप्पणी पर 1 सेकंड के लिए फ्रीज होना। 14-15 सेकंड: आंखों का खतरनाक तरीके से सिकुड़ना और वापस ठंडे संयम में बदलना। कोई सबटाइटल, फिल्टर या बैकग्राउंड म्यूजिक नहीं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088609541457870848/img/yx0Jh0_YPCmWuVXp.jpg" width="600" alt="सिगार रूम फेशियल एक्सप्रेशन ट्रांजिशन">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=9212)**
-
-**लेखक:** [John](https://x.com/john87445528) | **स्रोत:** [Link](https://x.com/john87445528/status/2088609585535885319) | **प्रकाशित:** Aug 15, 2026
-
----
 ### रोमांटिक एक्शन कॉमेडी ऑफिस सीन
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -5221,6 +5202,35 @@ ACTION & CAMERA: कैमरा पूरी तरह स्थिर है�
 **लेखक:** [Borderless 🌐](https://x.com/Borderless_DeFi) | **स्रोत:** [Link](https://x.com/Borderless_DeFi/status/2088384246813511908) | **प्रकाशित:** Aug 14, 2026
 
 ---
+### Crying Medusa Girl Video Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An emotional video sequence of a Medusa girl trying to hold back tears before breaking down, with handheld camera movement.
+
+#### 📝 प्रॉम्पट
+
+```
+the reference image as the first frame.
+Maintain a subtle, continuous shake from the handheld camera. Throughout the scene, the subject’s hair gently sways in the breeze.
+Sequence of Actions:
+The subject is holding back her sobs. She is desperately trying not to cry. Her lips are tightly pursed, her jaw is trembling, and her chest rises and falls rapidly as she takes sharp breaths. Tears well up in her eyes but do not spill over.
+After a brief pause
+Despite her desperate efforts to hold back, her emotions erupt. She closes her eyes tightly, opens her mouth, and sobs quietly. Tears stream down both cheeks. She tilts her head down slightly.
+(Hands, fingers, and arms must not appear in the frame.)
+The snakes in her hair also hang their heads sadly, as if sensing the girl’s emotions.
+Her eyes are slightly open and looking downward; her mouth remains open as she breathes heavily, exhausted.
+A sob escapes her.
+The camera follows the girl and slowly circles around to face her directly, with a backlit lens flare shimmering beautifully.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088372387071102976/img/nmn7tH-8YW5ue91Y.jpg" width="600" alt="Crying Medusa Girl Video Sequence">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=9139)**
+
+**लेखक:** [おちゃばなし | tea_and_stories](https://x.com/tea_story_hoshi) | **स्रोत:** [Link](https://x.com/tea_story_hoshi/status/2088373387039211877) | **प्रकाशित:** Aug 14, 2026
+
+---
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
@@ -5282,6 +5292,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-18T13:02:26.469Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-18T16:54:00.944Z</sub>
 
 </div>

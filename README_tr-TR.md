@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6065** |
+| 📝 Toplam İstem | **6062** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-08-18** |
 
@@ -3820,25 +3820,6 @@ Ultra fotogerçekçi pratik aksiyon film yapımı, Panavision anamorfik, 35mm ve
 **Yazar:** [harryskomi](https://x.com/HarrysKomi) | **Kaynak:** [Link](https://x.com/HarrysKomi/status/2088634089423389140) | **Yayınlandı:** Aug 15, 2026
 
 ---
-### Puro Odası Yüz İfadesi Geçişi
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2.0 için, lüks bir puro odasında tutkudan soğuk bir kayıtsızlığa geçiş yapan incelikli bir yüz ifadesini sergileyen karmaşık bir video istemi.
-
-#### 📝 İstem
-
-```
-Süre: 15 sn. Format: 9:16 dikey. Stil: Lüks bir puro odasında çekilmiş, işlenmemiş iPhone el tipi selfie perspektifi. Otomatik ayarlar, birinci şahıs erkek arkadaş bakış açısı. Yapay ışıklandırma veya renk düzenlemesi yok. Gerçekçilik için hafif el titremesi. Tek çekim, düzenleme yok. Karakter: Görsel referansına dayalı, gözlüklü, siyah eldivenli ve yüksek topuklu ayakkabılı olgun kadın. Etkileşim prensipleri: sosyal mesafe (1,5-2m), sadece tam ve üst vücut çekimleri, aşırı yakın yüz çekimleri yok. Çevresel detaylar: Sıcak sarı ışıklandırma, arka planda yumuşak altın rengi bokeh efektli puro dolapları. Senaryo akışı: 0-3 sn: Kadın puro tepsisini sunar, kontrollü ve soğuk bir gülümseme sergiler. 3-6 sn: Erkek arkadaşının yorumuna tepki olarak soğuk ve sorgulayıcı bir ifadeye bürünür. 6-9 sn: Bastırılmış kahkaha patlaması. 9-11 sn: Dudağında kül olduğu söylendiğinde gülmeyi keser. 11-13 sn: Kamerayı ayna olarak kullanarak kendini kontrol eder. 13-14 sn: Yumuşak bir yorum üzerine 1 saniyeliğine donup kalır. 14-15 sn: Gözlerini tehlikeli bir şekilde kısarak tekrar soğuk ve kontrollü ifadesine döner. Altyazı, filtre veya arka plan müziği yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088609541457870848/img/yx0Jh0_YPCmWuVXp.jpg" width="600" alt="Puro Odası Yüz İfadesi Geçişi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9212)**
-
-**Yazar:** [John](https://x.com/john87445528) | **Kaynak:** [Link](https://x.com/john87445528/status/2088609585535885319) | **Yayınlandı:** Aug 15, 2026
-
----
 ### Romantik Aksiyon Komedi Ofis Sahnesi
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -5185,6 +5166,35 @@ AKSİYON & KAMERA: Kamera sabitlenmiştir. Kesme, yakınlaştırma, kaydırma, e
 **Yazar:** [Borderless 🌐](https://x.com/Borderless_DeFi) | **Kaynak:** [Link](https://x.com/Borderless_DeFi/status/2088384246813511908) | **Yayınlandı:** Aug 14, 2026
 
 ---
+### Ağlayan Medusa Kızı Video Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gözyaşlarını tutmaya çalışırken sonunda kendini bırakan bir Medusa kızının, el kamerası hareketiyle çekilmiş duygusal video sekansı.
+
+#### 📝 İstem
+
+```
+Referans görseli ilk kare olarak kullanın.
+El kamerasından gelen hafif ve sürekli bir sarsıntıyı koruyun. Sahne boyunca, öznenin saçları esintide nazikçe dalgalanıyor.
+Eylem Sıralaması:
+Özne hıçkırıklarını tutmaya çalışıyor. Ağlamamak için çaresizce direniyor. Dudakları sıkıca büzülmüş, çenesi titriyor ve keskin nefesler alırken göğsü hızla inip kalkıyor. Gözleri yaşarıyor ancak gözyaşları henüz akmıyor.
+Kısa bir duraksamanın ardından
+Kendini tutmak için gösterdiği tüm çabaya rağmen duyguları patlak veriyor. Gözlerini sıkıca kapatıyor, ağzını açıyor ve sessizce hıçkırıyor. Gözyaşları her iki yanağından aşağı süzülüyor. Başını hafifçe aşağı eğiyor.
+(Eller, parmaklar ve kollar kadrajda görünmemelidir.)
+Saçındaki yılanlar da kızın duygularını hissediyormuş gibi başlarını hüzünle öne eğiyor.
+Gözleri hafifçe açık ve aşağıya bakıyor; yorgun bir şekilde ağır nefes alırken ağzı açık kalıyor.
+Bir hıçkırık kaçıyor.
+Kamera kızı takip ediyor ve yavaşça etrafında dönerek tam karşısına geçiyor; arkadan gelen ışıkla lens parlaması güzel bir şekilde parlıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088372387071102976/img/nmn7tH-8YW5ue91Y.jpg" width="600" alt="Ağlayan Medusa Kızı Video Sekansı">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9139)**
+
+**Yazar:** [おちゃばなし | tea_and_stories](https://x.com/tea_story_hoshi) | **Kaynak:** [Link](https://x.com/tea_story_hoshi/status/2088373387039211877) | **Yayınlandı:** Aug 14, 2026
+
+---
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -5246,6 +5256,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-18T13:02:43.468Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-18T16:54:15.868Z</sub>
 
 </div>

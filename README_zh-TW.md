@@ -68,7 +68,7 @@
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **6065** |
+| 📝 提示詞總數 | **6062** |
 | ⭐ 精選提示詞 | **6** |
 | 🔄 最後更新 | **2026-08-18** |
 
@@ -3957,25 +3957,6 @@ Seedance Prompt | 身分、信任與尊嚴 I. 核心定位 電影級寫實質感
 **作者:** [harryskomi](https://x.com/HarrysKomi) | **來源:** [Link](https://x.com/HarrysKomi/status/2088634089423389140) | **發布時間:** Aug 15, 2026
 
 ---
-### 雪茄室面部表情轉換
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一個為 Seedance 2.0 設計的複雜影片提示詞，展示了在高端雪茄室中，從熱情到冷漠的微妙面部表情轉換。
-
-#### 📝 提示詞
-
-```
-時長：15 秒。格式：9:16 直式。風格：高端雪茄室內拍攝，未經處理的 iPhone 手持自拍視角。自動設定，第一人稱男友視角。無人工照明或調色。輕微的手持晃動以增加真實感。一鏡到底，無剪輯。角色：基於圖像參考的成熟女性，佩戴眼鏡，穿戴黑色手套與高跟鞋。互動原則：社交距離（1.5-2 公尺），僅限全身與上半身鏡頭，無極端面部特寫。環境細節：暖黃色燈光，背景為帶有柔和金色散景的雪茄櫃。腳本節奏：0-3 秒：女士展示雪茄托盤，露出克制的冷笑。3-6 秒：對男友的評論做出反應，轉為冷漠並帶有質疑。6-9 秒：壓抑的笑聲流露出來。9-11 秒：被告知嘴唇上有菸灰後停止笑聲。11-13 秒：將鏡頭當作鏡子進行自我檢查。13-14 秒：聽到一句輕柔的評論後僵住 1 秒。14-15 秒：危險地瞇起眼睛，隨後轉回冷漠的克制狀態。無字幕、濾鏡或背景音樂。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088609541457870848/img/yx0Jh0_YPCmWuVXp.jpg" width="600" alt="雪茄室面部表情轉換">
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=9212)**
-
-**作者:** [John](https://x.com/john87445528) | **來源:** [Link](https://x.com/john87445528/status/2088609585535885319) | **發布時間:** Aug 15, 2026
-
----
 ### 浪漫動作喜劇辦公室場景
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -5321,6 +5302,35 @@ VIII-XII. 表演與技術
 **作者:** [Borderless 🌐](https://x.com/Borderless_DeFi) | **來源:** [Link](https://x.com/Borderless_DeFi/status/2088384246813511908) | **發布時間:** Aug 14, 2026
 
 ---
+### Crying Medusa Girl Video Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An emotional video sequence of a Medusa girl trying to hold back tears before breaking down, with handheld camera movement.
+
+#### 📝 提示詞
+
+```
+the reference image as the first frame.
+Maintain a subtle, continuous shake from the handheld camera. Throughout the scene, the subject’s hair gently sways in the breeze.
+Sequence of Actions:
+The subject is holding back her sobs. She is desperately trying not to cry. Her lips are tightly pursed, her jaw is trembling, and her chest rises and falls rapidly as she takes sharp breaths. Tears well up in her eyes but do not spill over.
+After a brief pause
+Despite her desperate efforts to hold back, her emotions erupt. She closes her eyes tightly, opens her mouth, and sobs quietly. Tears stream down both cheeks. She tilts her head down slightly.
+(Hands, fingers, and arms must not appear in the frame.)
+The snakes in her hair also hang their heads sadly, as if sensing the girl’s emotions.
+Her eyes are slightly open and looking downward; her mouth remains open as she breathes heavily, exhausted.
+A sob escapes her.
+The camera follows the girl and slowly circles around to face her directly, with a backlit lens flare shimmering beautifully.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088372387071102976/img/nmn7tH-8YW5ue91Y.jpg" width="600" alt="Crying Medusa Girl Video Sequence">
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=9139)**
+
+**作者:** [おちゃばなし | tea_and_stories](https://x.com/tea_story_hoshi) | **來源:** [Link](https://x.com/tea_story_hoshi/status/2088373387039211877) | **發布時間:** Aug 14, 2026
+
+---
 ---
 
 ## 📚 更多提示詞
@@ -5382,6 +5392,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-08-18T13:02:19.281Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-08-18T16:53:50.557Z</sub>
 
 </div>

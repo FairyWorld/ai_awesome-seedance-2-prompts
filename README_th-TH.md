@@ -68,7 +68,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **6065** |
+| 📝 พรอมต์ทั้งหมด | **6062** |
 | ⭐ พรอมต์แนะนำ | **6** |
 | 🔄 อัปเดตล่าสุด | **2026-08-18** |
 
@@ -3864,25 +3864,6 @@ CINEMATOGRAPHY
 **ผู้เขียน:** [harryskomi](https://x.com/HarrysKomi) | **แหล่งที่มา:** [Link](https://x.com/HarrysKomi/status/2088634089423389140) | **เผยแพร่เมื่อ:** Aug 15, 2026
 
 ---
-### การเปลี่ยนผ่านสีหน้าในห้องซิการ์
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> พรอมต์วิดีโอที่ซับซ้อนสำหรับ Seedance 2.0 เพื่อสาธิตการเปลี่ยนผ่านสีหน้าอย่างแนบเนียนจากความหลงใหลไปสู่ความเย็นชาในห้องซิการ์สุดหรู
-
-#### 📝 พรอมต์
-
-```
-ระยะเวลา: 15 วินาที รูปแบบ: แนวตั้ง 9:16 สไตล์: ภาพถ่ายมุมมองเซลฟี่แบบถือด้วยมือจาก iPhone โดยไม่มีการปรับแต่ง ถ่ายในห้องซิการ์สุดหรู ตั้งค่าอัตโนมัติ มุมมองบุคคลที่หนึ่งแบบแฟนหนุ่ม ไม่มีแสงประดิษฐ์หรือการปรับเกรดสี มีการสั่นไหวเล็กน้อยจากการถือด้วยมือเพื่อให้ดูสมจริง ถ่ายต่อเนื่องช็อตเดียว ไม่มีการตัดต่อ ตัวละคร: หญิงสาววัยผู้ใหญ่ตามภาพอ้างอิง สวมแว่นตา ถุงมือสีดำ และรองเท้าส้นสูง หลักการโต้ตอบ: ระยะห่างทางสังคม (1.5-2 เมตร) ถ่ายเฉพาะภาพเต็มตัวและครึ่งตัวบนเท่านั้น ไม่มีการถ่ายโคลสอัพใบหน้าแบบใกล้เกินไป รายละเอียดสภาพแวดล้อม: แสงสีเหลืองอบอุ่น มีตู้เก็บซิการ์เป็นฉากหลังพร้อมโบเก้สีทองนุ่มนวล ลำดับเหตุการณ์: 0-3 วินาที: หญิงสาวนำถาดซิการ์มาให้ พร้อมยิ้มแบบเย็นชาและสำรวม 3-6 วินาที: ปฏิกิริยาต่อคำพูดของแฟนหนุ่ม เปลี่ยนเป็นเย็นชาและตั้งคำถาม 6-9 วินาที: หลุดขำออกมาเล็กน้อย 9-11 วินาที: หยุดขำเมื่อถูกบอกว่ามีขี้เถ้าติดที่ริมฝีปาก 11-13 วินาที: ตรวจเช็กตัวเองโดยใช้กล้องแทนกระจก 13-14 วินาที: นิ่งค้างไป 1 วินาทีเมื่อได้ยินคำพูดเบาๆ 14-15 วินาที: หรี่ตาลงอย่างมีเลศนัยก่อนจะกลับไปเย็นชาและสำรวมดังเดิม ไม่มีคำบรรยาย ฟิลเตอร์ หรือดนตรีประกอบ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088609541457870848/img/yx0Jh0_YPCmWuVXp.jpg" width="600" alt="การเปลี่ยนผ่านสีหน้าในห้องซิการ์">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=9212)**
-
-**ผู้เขียน:** [John](https://x.com/john87445528) | **แหล่งที่มา:** [Link](https://x.com/john87445528/status/2088609585535885319) | **เผยแพร่เมื่อ:** Aug 15, 2026
-
----
 ### ฉากแอ็กชันคอมเมดี้สุดโรแมนติกในออฟฟิศ
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -5226,6 +5207,35 @@ VIII-XII. การแสดงและเทคนิค
 **ผู้เขียน:** [Borderless 🌐](https://x.com/Borderless_DeFi) | **แหล่งที่มา:** [Link](https://x.com/Borderless_DeFi/status/2088384246813511908) | **เผยแพร่เมื่อ:** Aug 14, 2026
 
 ---
+### Crying Medusa Girl Video Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An emotional video sequence of a Medusa girl trying to hold back tears before breaking down, with handheld camera movement.
+
+#### 📝 พรอมต์
+
+```
+the reference image as the first frame.
+Maintain a subtle, continuous shake from the handheld camera. Throughout the scene, the subject’s hair gently sways in the breeze.
+Sequence of Actions:
+The subject is holding back her sobs. She is desperately trying not to cry. Her lips are tightly pursed, her jaw is trembling, and her chest rises and falls rapidly as she takes sharp breaths. Tears well up in her eyes but do not spill over.
+After a brief pause
+Despite her desperate efforts to hold back, her emotions erupt. She closes her eyes tightly, opens her mouth, and sobs quietly. Tears stream down both cheeks. She tilts her head down slightly.
+(Hands, fingers, and arms must not appear in the frame.)
+The snakes in her hair also hang their heads sadly, as if sensing the girl’s emotions.
+Her eyes are slightly open and looking downward; her mouth remains open as she breathes heavily, exhausted.
+A sob escapes her.
+The camera follows the girl and slowly circles around to face her directly, with a backlit lens flare shimmering beautifully.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088372387071102976/img/nmn7tH-8YW5ue91Y.jpg" width="600" alt="Crying Medusa Girl Video Sequence">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=9139)**
+
+**ผู้เขียน:** [おちゃばなし | tea_and_stories](https://x.com/tea_story_hoshi) | **แหล่งที่มา:** [Link](https://x.com/tea_story_hoshi/status/2088373387039211877) | **เผยแพร่เมื่อ:** Aug 14, 2026
+
+---
 ---
 
 ## 📚 มีพรอมต์เพิ่มเติม
@@ -5287,6 +5297,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-18T13:02:23.258Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-18T16:53:56.599Z</sub>
 
 </div>

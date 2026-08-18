@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6065** |
+| 📝 Total de prompts | **6062** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-08-18** |
 
@@ -3877,25 +3877,6 @@ Filmagens de ação prática ultra-fotorrealistas, anamórficas Panavision, lent
 **Autor:** [harryskomi](https://x.com/HarrysKomi) | **Fonte:** [Link](https://x.com/HarrysKomi/status/2088634089423389140) | **Publicado:** Aug 15, 2026
 
 ---
-### Transição de Expressão Facial em Sala de Charutos
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt de vídeo complexo para o Seedance 2.0 demonstrando uma transição sutil de expressão facial, da paixão à indiferença fria, em uma sala de charutos de alto padrão.
-
-#### 📝 Prompt
-
-```
-Duração: 15s. Formato: 9:16 vertical. Estilo: Filmagem em perspectiva de selfie com iPhone, sem processamento, em uma sala de charutos de alto padrão. Configurações automáticas, perspectiva de primeira pessoa (namorado). Sem iluminação artificial ou tratamento de cor. Leve tremor de mão para realismo. Tomada única, sem edições. Personagem: Mulher madura baseada na referência de imagem, usando óculos, luvas pretas e salto alto. Princípios de interação: distância social (1,5-2m), apenas planos de corpo inteiro e meio corpo, sem closes extremos no rosto. Detalhes do ambiente: Iluminação amarela quente, armários de charutos ao fundo com um suave bokeh dourado. Roteiro: 0-3s: A mulher apresenta a bandeja de charutos, dá um sorriso contido e frio. 3-6s: Reação ao comentário do namorado, tornando-se fria e questionadora. 6-9s: Riso contido que acaba escapando. 9-11s: Para de rir ao ser avisada de que há cinzas em seu lábio. 11-13s: Verifica a si mesma usando a câmera como espelho. 13-14s: Congela por 1 segundo após um comentário suave. 14-15s: Estreitamento perigoso dos olhos, retornando à contenção fria. Sem legendas, filtros ou música de fundo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088609541457870848/img/yx0Jh0_YPCmWuVXp.jpg" width="600" alt="Transição de Expressão Facial em Sala de Charutos">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=9212)**
-
-**Autor:** [John](https://x.com/john87445528) | **Fonte:** [Link](https://x.com/john87445528/status/2088609585535885319) | **Publicado:** Aug 15, 2026
-
----
 ### Cena de Comédia Romântica de Ação no Escritório
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -5239,6 +5220,35 @@ AÇÃO E CÂMERA: a câmera está travada. Sem cortes, sem zoom, sem pan, sem ti
 **Autor:** [Borderless 🌐](https://x.com/Borderless_DeFi) | **Fonte:** [Link](https://x.com/Borderless_DeFi/status/2088384246813511908) | **Publicado:** Aug 14, 2026
 
 ---
+### Sequência de vídeo de garota Medusa chorando
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma sequência de vídeo emocionante de uma garota Medusa tentando conter as lágrimas antes de desabar, com movimento de câmera na mão.
+
+#### 📝 Prompt
+
+```
+a imagem de referência como o primeiro quadro.
+Mantenha um tremor sutil e contínuo da câmera na mão. Durante toda a cena, o cabelo da personagem balança suavemente com a brisa.
+Sequência de Ações:
+A personagem está contendo seus soluços. Ela tenta desesperadamente não chorar. Seus lábios estão fortemente cerrados, seu maxilar está tremendo e seu peito sobe e desce rapidamente enquanto ela respira de forma ofegante. As lágrimas se acumulam em seus olhos, mas não transbordam.
+Após uma breve pausa
+Apesar de seus esforços desesperados para se conter, suas emoções explodem. Ela fecha os olhos com força, abre a boca e soluça baixinho. Lágrimas escorrem por ambas as bochechas. Ela inclina a cabeça levemente para baixo.
+(Mãos, dedos e braços não devem aparecer no quadro.)
+As cobras em seu cabelo também abaixam a cabeça tristemente, como se sentissem as emoções da garota.
+Seus olhos estão levemente abertos e olhando para baixo; sua boca permanece aberta enquanto ela respira pesadamente, exausta.
+Um soluço escapa dela.
+A câmera segue a garota e circula lentamente para ficar de frente para ela, com um reflexo de lente (lens flare) retroiluminado brilhando lindamente.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088372387071102976/img/nmn7tH-8YW5ue91Y.jpg" width="600" alt="Sequência de vídeo de garota Medusa chorando">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=9139)**
+
+**Autor:** [おちゃばなし | tea_and_stories](https://x.com/tea_story_hoshi) | **Fonte:** [Link](https://x.com/tea_story_hoshi/status/2088373387039211877) | **Publicado:** Aug 14, 2026
+
+---
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -5300,6 +5310,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-18T13:02:40.219Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-18T16:54:14.731Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **6065** |
+| 📝 プロンプト総数 | **6062** |
 | ⭐ おすすめプロンプト | **6** |
 | 🔄 最終更新 | **2026-08-18** |
 
@@ -3916,25 +3916,6 @@ Seedance プロンプト | アイデンティティ、信頼、そして尊厳 I
 **作者:** [harryskomi](https://x.com/HarrysKomi) | **ソース:** [Link](https://x.com/HarrysKomi/status/2088634089423389140) | **公開日:** Aug 15, 2026
 
 ---
-### シガールームでの表情変化
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 高級シガールームを舞台に、情熱から冷淡な無関心へと変化する繊細な表情を捉えた、Seedance 2.0 向けの高度なビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-動画の長さ：15 秒。フォーマット：9:16 縦型。スタイル：高級シガールームで撮影された、未加工の iPhone 手持ちセルフィー視点。自動設定、一人称のボーイフレンド視点。人工照明やカラーグレーディングはなし。リアリティを出すためのわずかな手ブレ。ワンカット、編集なし。キャラクター：画像参照に基づく成熟した女性、メガネ、黒い手袋、ハイヒールを着用。インタラクションの原則：社会的距離（1.5 ～ 2 m）、全身および上半身ショットのみ、顔を極端にアップにするのは禁止。環境の詳細：暖色系の照明、背景には柔らかな黄金色のボケ味があるシガーキャビネット。構成案：0 ～ 3 秒：シガートレイを差し出し、控えめで冷ややかな微笑みを浮かべる。3 ～ 6 秒：ボーイフレンドのコメントに反応し、冷淡で疑わしげな表情に変わる。6 ～ 9 秒：こらえきれずに笑い出す。9 ～ 11 秒：唇に灰がついていると指摘され、笑いを止める。11 ～ 13 秒：カメラを鏡代わりにして身だしなみをチェックする。13 ～ 14 秒：何気ない一言に対し、1 秒間フリーズする。14 ～ 15 秒：危険なほど目を細め、再び冷淡で抑制された表情に戻る。字幕、フィルター、BGM はなし。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088609541457870848/img/yx0Jh0_YPCmWuVXp.jpg" width="600" alt="シガールームでの表情変化">
-
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=9212)**
-
-**作者:** [John](https://x.com/john87445528) | **ソース:** [Link](https://x.com/john87445528/status/2088609585535885319) | **公開日:** Aug 15, 2026
-
----
 ### ロマンティック・アクション・コメディ オフィスシーン
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -5265,6 +5246,35 @@ VIII-XII. パフォーマンスと技術
 **作者:** [Borderless 🌐](https://x.com/Borderless_DeFi) | **ソース:** [Link](https://x.com/Borderless_DeFi/status/2088384246813511908) | **公開日:** Aug 14, 2026
 
 ---
+### Crying Medusa Girl Video Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An emotional video sequence of a Medusa girl trying to hold back tears before breaking down, with handheld camera movement.
+
+#### 📝 プロンプト
+
+```
+the reference image as the first frame.
+Maintain a subtle, continuous shake from the handheld camera. Throughout the scene, the subject’s hair gently sways in the breeze.
+Sequence of Actions:
+The subject is holding back her sobs. She is desperately trying not to cry. Her lips are tightly pursed, her jaw is trembling, and her chest rises and falls rapidly as she takes sharp breaths. Tears well up in her eyes but do not spill over.
+After a brief pause
+Despite her desperate efforts to hold back, her emotions erupt. She closes her eyes tightly, opens her mouth, and sobs quietly. Tears stream down both cheeks. She tilts her head down slightly.
+(Hands, fingers, and arms must not appear in the frame.)
+The snakes in her hair also hang their heads sadly, as if sensing the girl’s emotions.
+Her eyes are slightly open and looking downward; her mouth remains open as she breathes heavily, exhausted.
+A sob escapes her.
+The camera follows the girl and slowly circles around to face her directly, with a backlit lens flare shimmering beautifully.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088372387071102976/img/nmn7tH-8YW5ue91Y.jpg" width="600" alt="Crying Medusa Girl Video Sequence">
+
+**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=9139)**
+
+**作者:** [おちゃばなし | tea_and_stories](https://x.com/tea_story_hoshi) | **ソース:** [Link](https://x.com/tea_story_hoshi/status/2088373387039211877) | **公開日:** Aug 14, 2026
+
+---
 ---
 
 ## 📚 その他のプロンプト
@@ -5326,6 +5336,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-18T13:02:20.319Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-18T16:53:53.181Z</sub>
 
 </div>

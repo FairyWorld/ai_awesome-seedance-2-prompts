@@ -68,7 +68,7 @@ ByteDance Seedance 2.0을 위한 고품질 비디오 생성 프롬프트 컬렉�
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **6065** |
+| 📝 총 프롬프트 수 | **6062** |
 | ⭐ 추천 프롬프트 | **6** |
 | 🔄 마지막 업데이트 | **2026-08-18** |
 
@@ -3852,25 +3852,6 @@ Seedance 프롬프트 | 정체성, 신뢰, 그리고 존엄 I. 핵심 포지셔�
 **작성자:** [harryskomi](https://x.com/HarrysKomi) | **출처:** [Link](https://x.com/HarrysKomi/status/2088634089423389140) | **게시일:** Aug 15, 2026
 
 ---
-### 시가 룸 표정 변화
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 고급 시가 룸에서 열정적인 표정에서 차가운 무관심으로 미묘하게 변화하는 과정을 담은 Seedance 2.0용 복합 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-길이: 15초. 형식: 9:16 세로. 스타일: 고급 시가 룸에서 촬영한 무보정 iPhone 핸드헬드 셀카 시점. 자동 설정, 1인칭 남자친구 시점. 인공 조명이나 색 보정 없음. 사실감을 위한 약간의 핸드헬드 흔들림. 편집 없는 원테이크 촬영. 캐릭터: 이미지 참조를 기반으로 한 성숙한 여성, 안경, 검은색 장갑, 하이힐 착용. 상호작용 원칙: 사회적 거리(1.5~2m), 전신 및 상반신 샷만 사용, 얼굴을 가득 채우는 익스트림 클로즈업 금지. 환경 세부 사항: 따뜻한 노란색 조명, 배경에는 부드러운 황금빛 보케가 있는 시가 캐비닛. 스크립트 비트: 0~3초: 시가 트레이를 제시하며 절제된 차가운 미소를 지음. 3~6초: 남자친구의 말에 반응하며 차갑고 의구심 어린 표정으로 변함. 6~9초: 참았던 웃음이 터져 나옴. 9~11초: 입술에 재가 묻었다는 말에 웃음을 멈춤. 11~13초: 카메라를 거울 삼아 스스로 확인. 13~14초: 부드러운 코멘트에 1초간 멈춤. 14~15초: 눈을 가늘게 뜨며 위험한 분위기를 풍기다 다시 차가운 절제 상태로 복귀. 자막, 필터, 배경 음악 없음.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088609541457870848/img/yx0Jh0_YPCmWuVXp.jpg" width="600" alt="시가 룸 표정 변화">
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=9212)**
-
-**작성자:** [John](https://x.com/john87445528) | **출처:** [Link](https://x.com/john87445528/status/2088609585535885319) | **게시일:** Aug 15, 2026
-
----
 ### 로맨틱 액션 코미디 오피스 씬
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -5218,6 +5199,35 @@ VIII~XII. 연기 및 기술
 **작성자:** [Borderless 🌐](https://x.com/Borderless_DeFi) | **출처:** [Link](https://x.com/Borderless_DeFi/status/2088384246813511908) | **게시일:** Aug 14, 2026
 
 ---
+### Crying Medusa Girl Video Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An emotional video sequence of a Medusa girl trying to hold back tears before breaking down, with handheld camera movement.
+
+#### 📝 프롬프트
+
+```
+the reference image as the first frame.
+Maintain a subtle, continuous shake from the handheld camera. Throughout the scene, the subject’s hair gently sways in the breeze.
+Sequence of Actions:
+The subject is holding back her sobs. She is desperately trying not to cry. Her lips are tightly pursed, her jaw is trembling, and her chest rises and falls rapidly as she takes sharp breaths. Tears well up in her eyes but do not spill over.
+After a brief pause
+Despite her desperate efforts to hold back, her emotions erupt. She closes her eyes tightly, opens her mouth, and sobs quietly. Tears stream down both cheeks. She tilts her head down slightly.
+(Hands, fingers, and arms must not appear in the frame.)
+The snakes in her hair also hang their heads sadly, as if sensing the girl’s emotions.
+Her eyes are slightly open and looking downward; her mouth remains open as she breathes heavily, exhausted.
+A sob escapes her.
+The camera follows the girl and slowly circles around to face her directly, with a backlit lens flare shimmering beautifully.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088372387071102976/img/nmn7tH-8YW5ue91Y.jpg" width="600" alt="Crying Medusa Girl Video Sequence">
+
+**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=9139)**
+
+**작성자:** [おちゃばなし | tea_and_stories](https://x.com/tea_story_hoshi) | **출처:** [Link](https://x.com/tea_story_hoshi/status/2088373387039211877) | **게시일:** Aug 14, 2026
+
+---
 ---
 
 ## 📚 더 많은 프롬프트
@@ -5279,6 +5289,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-18T13:02:22.217Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-18T16:53:55.523Z</sub>
 
 </div>

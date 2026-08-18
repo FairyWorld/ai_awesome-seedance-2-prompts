@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6065** |
+| 📝 Total des prompts | **6062** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-08-18** |
 
@@ -3862,25 +3862,6 @@ Cinéma d'action ultra-photoréaliste, format anamorphique Panavision, objectifs
 **Auteur:** [harryskomi](https://x.com/HarrysKomi) | **Source:** [Link](https://x.com/HarrysKomi/status/2088634089423389140) | **Publié:** Aug 15, 2026
 
 ---
-### Transition d'expression faciale dans un fumoir à cigares
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt vidéo complexe pour Seedance 2.0 illustrant une transition subtile d'expression faciale, passant de la passion à une indifférence froide dans un fumoir à cigares haut de gamme.
-
-#### 📝 Prompt
-
-```
-Durée : 15 s. Format : 9:16 vertical. Style : Prise de vue en mode selfie à la main avec un iPhone, sans traitement, dans un fumoir à cigares haut de gamme. Réglages automatiques, perspective à la première personne (type « petit ami »). Aucun éclairage artificiel ni étalonnage. Léger tremblement de la main pour plus de réalisme. Plan-séquence unique, sans montage. Personnage : Femme mûre basée sur la référence d'image, portant des lunettes, des gants noirs et des talons hauts. Principes d'interaction : distance sociale (1,5-2 m), plans larges et plans taille uniquement, pas de gros plans extrêmes sur le visage. Détails environnementaux : Éclairage jaune chaud, armoires à cigares en arrière-plan avec un bokeh doré doux. Séquençage : 0-3 s : La femme présente le plateau à cigares, esquisse un sourire froid et contenu. 3-6 s : Réaction au commentaire du petit ami, devient froide et interrogatrice. 6-9 s : Un rire réprimé finit par percer. 9-11 s : Arrêt du rire lorsqu'on lui signale de la cendre sur sa lèvre. 11-13 s : Vérification personnelle en utilisant l'appareil photo comme miroir. 13-14 s : Figée pendant 1 seconde suite à une remarque douce. 14-15 s : Regard qui se plisse dangereusement avant de revenir à une retenue froide. Aucun sous-titre, filtre ou musique de fond.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088609541457870848/img/yx0Jh0_YPCmWuVXp.jpg" width="600" alt="Transition d'expression faciale dans un fumoir à cigares">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=9212)**
-
-**Auteur:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2088609585535885319) | **Publié:** Aug 15, 2026
-
----
 ### Scène de bureau : comédie d'action romantique
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -5224,6 +5205,35 @@ ACTION & CAMÉRA : la caméra est verrouillée. Pas de coupes, pas de zoom, pas 
 **Auteur:** [Borderless 🌐](https://x.com/Borderless_DeFi) | **Source:** [Link](https://x.com/Borderless_DeFi/status/2088384246813511908) | **Publié:** Aug 14, 2026
 
 ---
+### Séquence vidéo d'une Méduse en pleurs
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une séquence vidéo riche en émotions montrant une Méduse tentant de retenir ses larmes avant de craquer, avec un mouvement de caméra à l'épaule.
+
+#### 📝 Prompt
+
+```
+l'image de référence comme première image.
+Maintenez un léger tremblement continu propre à une caméra à l'épaule. Tout au long de la scène, les cheveux du sujet ondulent doucement dans la brise.
+Séquence d'actions :
+Le sujet retient ses sanglots. Elle essaie désespérément de ne pas pleurer. Ses lèvres sont pincées, sa mâchoire tremble et sa poitrine se soulève rapidement alors qu'elle prend des inspirations saccadées. Les larmes montent aux yeux sans toutefois couler.
+Après une brève pause
+Malgré ses efforts désespérés pour se contenir, ses émotions éclatent. Elle ferme les yeux avec force, ouvre la bouche et sanglote doucement. Des larmes coulent sur ses deux joues. Elle incline légèrement la tête vers le bas.
+(Les mains, les doigts et les bras ne doivent pas apparaître dans le cadre.)
+Les serpents dans ses cheveux inclinent également la tête tristement, comme s'ils ressentaient les émotions de la jeune fille.
+Ses yeux sont entrouverts et fixés vers le bas ; sa bouche reste ouverte alors qu'elle respire difficilement, épuisée.
+Un sanglot lui échappe.
+La caméra suit la jeune fille et tourne lentement autour d'elle pour lui faire face directement, avec un reflet d'objectif en contre-jour scintillant magnifiquement.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088372387071102976/img/nmn7tH-8YW5ue91Y.jpg" width="600" alt="Séquence vidéo d'une Méduse en pleurs">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=9139)**
+
+**Auteur:** [おちゃばなし | tea_and_stories](https://x.com/tea_story_hoshi) | **Source:** [Link](https://x.com/tea_story_hoshi/status/2088373387039211877) | **Publié:** Aug 14, 2026
+
+---
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -5285,6 +5295,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-08-18T13:02:32.923Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-08-18T16:54:08.567Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6065** |
+| 📝 Tổng số prompt | **6062** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-08-18** |
 
@@ -3849,25 +3849,6 @@ Làm phim hành động thực tế siêu chân thực, ống kính Panavision a
 **Tác giả:** [harryskomi](https://x.com/HarrysKomi) | **Nguồn:** [Link](https://x.com/HarrysKomi/status/2088634089423389140) | **Đã xuất bản:** Aug 15, 2026
 
 ---
-### Chuyển đổi biểu cảm khuôn mặt trong phòng xì gà
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một câu lệnh video phức tạp dành cho Seedance 2.0, thể hiện sự chuyển đổi biểu cảm khuôn mặt tinh tế từ đam mê sang lạnh lùng thờ ơ trong một phòng xì gà cao cấp.
-
-#### 📝 Prompt
-
-```
-Thời lượng: 15 giây. Định dạng: dọc 9:16. Phong cách: Góc quay selfie cầm tay bằng iPhone chân thực, không qua xử lý, bối cảnh phòng xì gà cao cấp. Cài đặt tự động, góc nhìn thứ nhất (boyfriend perspective). Không sử dụng ánh sáng nhân tạo hay chỉnh màu. Có độ rung nhẹ của tay cầm để tăng tính chân thực. Quay một lần duy nhất, không cắt ghép. Nhân vật: Nữ giới trưởng thành dựa trên hình ảnh tham chiếu, đeo kính, găng tay đen và đi giày cao gót. Nguyên tắc tương tác: khoảng cách xã hội (1,5 - 2m), chỉ quay toàn thân và nửa thân trên, không quay cận cảnh khuôn mặt quá mức. Chi tiết môi trường: Ánh sáng vàng ấm, tủ xì gà ở phía sau với hiệu ứng bokeh vàng dịu. Kịch bản chi tiết: 0-3 giây: Nhân vật nữ đưa khay xì gà, nở nụ cười lạnh lùng, kiềm chế. 3-6 giây: Phản ứng với bình luận của bạn trai, chuyển sang thái độ lạnh lùng và chất vấn. 6-9 giây: Cười khúc khích rồi cố nén lại. 9-11 giây: Ngừng cười khi được nhắc có tàn thuốc trên môi. 11-13 giây: Tự kiểm tra bằng cách dùng camera làm gương. 13-14 giây: Đứng hình trong 1 giây sau một lời nhận xét nhẹ nhàng. 14-15 giây: Ánh mắt nheo lại đầy nguy hiểm rồi chuyển về trạng thái lạnh lùng, kiềm chế. Không phụ đề, không bộ lọc, không nhạc nền.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088609541457870848/img/yx0Jh0_YPCmWuVXp.jpg" width="600" alt="Chuyển đổi biểu cảm khuôn mặt trong phòng xì gà">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9212)**
-
-**Tác giả:** [John](https://x.com/john87445528) | **Nguồn:** [Link](https://x.com/john87445528/status/2088609585535885319) | **Đã xuất bản:** Aug 15, 2026
-
----
 ### Cảnh văn phòng hài hành động lãng mạn
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -5214,6 +5195,35 @@ HÀNH ĐỘNG & MÁY QUAY: máy quay được cố định tại chỗ. Không c
 **Tác giả:** [Borderless 🌐](https://x.com/Borderless_DeFi) | **Nguồn:** [Link](https://x.com/Borderless_DeFi/status/2088384246813511908) | **Đã xuất bản:** Aug 14, 2026
 
 ---
+### Crying Medusa Girl Video Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An emotional video sequence of a Medusa girl trying to hold back tears before breaking down, with handheld camera movement.
+
+#### 📝 Prompt
+
+```
+the reference image as the first frame.
+Maintain a subtle, continuous shake from the handheld camera. Throughout the scene, the subject’s hair gently sways in the breeze.
+Sequence of Actions:
+The subject is holding back her sobs. She is desperately trying not to cry. Her lips are tightly pursed, her jaw is trembling, and her chest rises and falls rapidly as she takes sharp breaths. Tears well up in her eyes but do not spill over.
+After a brief pause
+Despite her desperate efforts to hold back, her emotions erupt. She closes her eyes tightly, opens her mouth, and sobs quietly. Tears stream down both cheeks. She tilts her head down slightly.
+(Hands, fingers, and arms must not appear in the frame.)
+The snakes in her hair also hang their heads sadly, as if sensing the girl’s emotions.
+Her eyes are slightly open and looking downward; her mouth remains open as she breathes heavily, exhausted.
+A sob escapes her.
+The camera follows the girl and slowly circles around to face her directly, with a backlit lens flare shimmering beautifully.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088372387071102976/img/nmn7tH-8YW5ue91Y.jpg" width="600" alt="Crying Medusa Girl Video Sequence">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9139)**
+
+**Tác giả:** [おちゃばなし | tea_and_stories](https://x.com/tea_story_hoshi) | **Nguồn:** [Link](https://x.com/tea_story_hoshi/status/2088373387039211877) | **Đã xuất bản:** Aug 14, 2026
+
+---
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -5275,6 +5285,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-18T13:02:24.286Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-18T16:53:58.700Z</sub>
 
 </div>

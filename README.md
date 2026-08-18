@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6065** |
+| 📝 Total Prompts | **6062** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-08-18** |
 
@@ -3711,25 +3711,6 @@ Ultra-photorealistic practical action filmmaking, Panavision anamorphic, 35mm an
 **Author:** [harryskomi](https://x.com/HarrysKomi) | **Source:** [Link](https://x.com/HarrysKomi/status/2088634089423389140) | **Published:** Aug 15, 2026
 
 ---
-### Cigar Room Facial Expression Transition
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A complex video prompt for Seedance 2.0 demonstrating a subtle facial expression transition from passion to cold indifference in a high-end cigar room.
-
-#### 📝 Prompt
-
-```
-Duration: 15s. Format: 9:16 vertical. Style: Unprocessed iPhone handheld selfie perspective shot in a high-end cigar room. Automatic settings, first-person boyfriend perspective. No artificial lighting or grading. Slight handheld shaking for realism. Single take, no edits. Character: Mature female based on image reference, wearing glasses, black gloves, and high heels. Interaction principles: social distance (1.5-2m), full and upper body shots only, no extreme face-filling close-ups. Environmental details: Warm yellow lighting, cigar cabinets in background with soft golden bokeh. Scripted beats: 0-3s: Senior presents cigar tray, gives a restrained cold smile. 3-6s: Reaction to boyfriend's comment, turning cold and questioning. 6-9s: Suppressed laughter breaking through. 9-11s: Stop laughing when told there's ash on her lip. 11-13s: Self-check by using the camera as a mirror. 13-14s: Freezing for 1 second upon a soft comment. 14-15s: Dangerous narrowing of eyes transitioning back to cold restraint. No subtitles, filters, or background music.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088609541457870848/img/yx0Jh0_YPCmWuVXp.jpg" width="600" alt="Cigar Room Facial Expression Transition">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9212)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2088609585535885319) | **Published:** Aug 15, 2026
-
----
 ### Romantic Action Comedy Office Scene
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -5124,6 +5105,35 @@ ACTION & CAMERA: the camera is bolted down. No cuts, no zoom, no pan, no tilt, n
 **Author:** [Borderless 🌐](https://x.com/Borderless_DeFi) | **Source:** [Link](https://x.com/Borderless_DeFi/status/2088384246813511908) | **Published:** Aug 14, 2026
 
 ---
+### Crying Medusa Girl Video Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An emotional video sequence of a Medusa girl trying to hold back tears before breaking down, with handheld camera movement.
+
+#### 📝 Prompt
+
+```
+the reference image as the first frame.
+Maintain a subtle, continuous shake from the handheld camera. Throughout the scene, the subject’s hair gently sways in the breeze.
+Sequence of Actions:
+The subject is holding back her sobs. She is desperately trying not to cry. Her lips are tightly pursed, her jaw is trembling, and her chest rises and falls rapidly as she takes sharp breaths. Tears well up in her eyes but do not spill over.
+After a brief pause
+Despite her desperate efforts to hold back, her emotions erupt. She closes her eyes tightly, opens her mouth, and sobs quietly. Tears stream down both cheeks. She tilts her head down slightly.
+(Hands, fingers, and arms must not appear in the frame.)
+The snakes in her hair also hang their heads sadly, as if sensing the girl’s emotions.
+Her eyes are slightly open and looking downward; her mouth remains open as she breathes heavily, exhausted.
+A sob escapes her.
+The camera follows the girl and slowly circles around to face her directly, with a backlit lens flare shimmering beautifully.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088372387071102976/img/nmn7tH-8YW5ue91Y.jpg" width="600" alt="Crying Medusa Girl Video Sequence">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9139)**
+
+**Author:** [おちゃばなし | tea_and_stories](https://x.com/tea_story_hoshi) | **Source:** [Link](https://x.com/tea_story_hoshi/status/2088373387039211877) | **Published:** Aug 14, 2026
+
+---
 ---
 
 ## 📚 More Prompts Available
@@ -5185,6 +5195,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-18T13:02:17.185Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-18T16:53:46.281Z</sub>
 
 </div>

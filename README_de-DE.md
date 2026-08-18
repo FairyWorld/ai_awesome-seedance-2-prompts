@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6065** |
+| 📝 Gesamtanzahl Prompts | **6062** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-08-18** |
 
@@ -3860,25 +3860,6 @@ Ultra-fotorealistischer Actionfilm, Panavision-Anamorphot, 35mm- und 50mm-Objekt
 **Autor:** [harryskomi](https://x.com/HarrysKomi) | **Quelle:** [Link](https://x.com/HarrysKomi/status/2088634089423389140) | **Veröffentlicht:** Aug 15, 2026
 
 ---
-### Übergang des Gesichtsausdrucks im Zigarrenzimmer
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein komplexer Video-Prompt für Seedance 2.0, der einen subtilen Übergang des Gesichtsausdrucks von Leidenschaft zu kalter Gleichgültigkeit in einem exklusiven Zigarrenzimmer demonstriert.
-
-#### 📝 Prompt
-
-```
-Dauer: 15s. Format: 9:16 vertikal. Stil: Unbearbeitete iPhone-Handheld-Selfie-Perspektive, aufgenommen in einem exklusiven Zigarrenzimmer. Automatische Einstellungen, Ich-Perspektive aus Sicht des Freundes. Keine künstliche Beleuchtung oder Farbkorrektur. Leichtes Handheld-Wackeln für mehr Realismus. Einmalige Aufnahme, keine Schnitte. Charakter: Reife Frau basierend auf Bildreferenz, trägt Brille, schwarze Handschuhe und High Heels. Interaktionsprinzipien: soziale Distanz (1,5-2m), nur Ganzkörper- und Oberkörperaufnahmen, keine extremen Nahaufnahmen des Gesichts. Umgebungsdetails: Warme gelbe Beleuchtung, Zigarrenschränke im Hintergrund mit weichem goldenen Bokeh. Skript-Ablauf: 0-3s: Die Frau präsentiert das Zigarrentablett, zeigt ein zurückhaltendes, kaltes Lächeln. 3-6s: Reaktion auf den Kommentar des Freundes, wird kalt und fragend. 6-9s: Unterdrücktes Lachen bricht hervor. 9-11s: Hört auf zu lachen, als ihr gesagt wird, dass Asche auf ihrer Lippe ist. 11-13s: Selbstkontrolle, indem sie die Kamera als Spiegel benutzt. 13-14s: Erstarrt für 1 Sekunde bei einem sanften Kommentar. 14-15s: Gefährliches Zusammenkneifen der Augen, Übergang zurück zu kalter Zurückhaltung. Keine Untertitel, Filter oder Hintergrundmusik.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088609541457870848/img/yx0Jh0_YPCmWuVXp.jpg" width="600" alt="Übergang des Gesichtsausdrucks im Zigarrenzimmer">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9212)**
-
-**Autor:** [John](https://x.com/john87445528) | **Quelle:** [Link](https://x.com/john87445528/status/2088609585535885319) | **Veröffentlicht:** Aug 15, 2026
-
----
 ### Romantische Action-Komödie im Büro
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -5220,6 +5201,35 @@ AKTION & KAMERA: Die Kamera ist fixiert. Keine Schnitte, kein Zoom, kein Schwenk
 **Autor:** [Borderless 🌐](https://x.com/Borderless_DeFi) | **Quelle:** [Link](https://x.com/Borderless_DeFi/status/2088384246813511908) | **Veröffentlicht:** Aug 14, 2026
 
 ---
+### Crying Medusa Girl Video Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An emotional video sequence of a Medusa girl trying to hold back tears before breaking down, with handheld camera movement.
+
+#### 📝 Prompt
+
+```
+the reference image as the first frame.
+Maintain a subtle, continuous shake from the handheld camera. Throughout the scene, the subject’s hair gently sways in the breeze.
+Sequence of Actions:
+The subject is holding back her sobs. She is desperately trying not to cry. Her lips are tightly pursed, her jaw is trembling, and her chest rises and falls rapidly as she takes sharp breaths. Tears well up in her eyes but do not spill over.
+After a brief pause
+Despite her desperate efforts to hold back, her emotions erupt. She closes her eyes tightly, opens her mouth, and sobs quietly. Tears stream down both cheeks. She tilts her head down slightly.
+(Hands, fingers, and arms must not appear in the frame.)
+The snakes in her hair also hang their heads sadly, as if sensing the girl’s emotions.
+Her eyes are slightly open and looking downward; her mouth remains open as she breathes heavily, exhausted.
+A sob escapes her.
+The camera follows the girl and slowly circles around to face her directly, with a backlit lens flare shimmering beautifully.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088372387071102976/img/nmn7tH-8YW5ue91Y.jpg" width="600" alt="Crying Medusa Girl Video Sequence">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9139)**
+
+**Autor:** [おちゃばなし | tea_and_stories](https://x.com/tea_story_hoshi) | **Quelle:** [Link](https://x.com/tea_story_hoshi/status/2088373387039211877) | **Veröffentlicht:** Aug 14, 2026
+
+---
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -5281,6 +5291,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-18T13:02:31.816Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-18T16:54:06.578Z</sub>
 
 </div>

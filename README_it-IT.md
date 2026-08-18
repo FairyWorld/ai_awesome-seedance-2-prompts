@@ -68,7 +68,7 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6065** |
+| 📝 Totale prompt | **6062** |
 | ⭐ Prompt in evidenza | **6** |
 | 🔄 Ultimo aggiornamento | **2026-08-18** |
 
@@ -3845,25 +3845,6 @@ Riprese d'azione pratiche ultra-fotorealistiche, anamorfico Panavision, lenti da
 **Autore:** [harryskomi](https://x.com/HarrysKomi) | **Fonte:** [Link](https://x.com/HarrysKomi/status/2088634089423389140) | **Pubblicato:** Aug 15, 2026
 
 ---
-### Transizione dell'espressione facciale in una Cigar Room
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un complesso prompt video per Seedance 2.0 che mostra una sottile transizione dell'espressione facciale, dalla passione alla fredda indifferenza, in una cigar room di alto livello.
-
-#### 📝 Prompt
-
-```
-Durata: 15s. Formato: 9:16 verticale. Stile: Ripresa in soggettiva, stile selfie a mano con iPhone, non elaborata, girata in una cigar room di alto livello. Impostazioni automatiche, prospettiva in prima persona (fidanzato). Nessuna illuminazione artificiale o color grading. Leggero tremolio della mano per un maggiore realismo. Ripresa singola, senza tagli. Personaggio: Donna matura basata sul riferimento dell'immagine, indossa occhiali, guanti neri e tacchi alti. Principi di interazione: distanza sociale (1,5-2m), solo inquadrature a figura intera o mezzo busto, nessun primo piano estremo che riempia il volto. Dettagli ambientali: Illuminazione giallo caldo, armadietti per sigari sullo sfondo con morbido bokeh dorato. Sequenza temporale: 0-3s: La donna presenta il vassoio dei sigari, accennando un sorriso freddo e trattenuto. 3-6s: Reazione al commento del fidanzato, diventando fredda e interrogativa. 6-9s: Una risata repressa che esplode. 9-11s: Smette di ridere quando le viene detto che ha della cenere sul labbro. 11-13s: Si controlla usando la fotocamera come uno specchio. 13-14s: Si blocca per 1 secondo dopo un commento sussurrato. 14-15s: Sguardo che si restringe pericolosamente, tornando a una fredda compostezza. Nessun sottotitolo, filtro o musica di sottofondo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088609541457870848/img/yx0Jh0_YPCmWuVXp.jpg" width="600" alt="Transizione dell'espressione facciale in una Cigar Room">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=9212)**
-
-**Autore:** [John](https://x.com/john87445528) | **Fonte:** [Link](https://x.com/john87445528/status/2088609585535885319) | **Pubblicato:** Aug 15, 2026
-
----
 ### Scena d'ufficio: commedia d'azione romantica
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -5209,6 +5190,35 @@ AZIONE & TELECAMERA: la telecamera è fissata. Nessun taglio, nessuno zoom, ness
 **Autore:** [Borderless 🌐](https://x.com/Borderless_DeFi) | **Fonte:** [Link](https://x.com/Borderless_DeFi/status/2088384246813511908) | **Pubblicato:** Aug 14, 2026
 
 ---
+### Sequenza video della ragazza Medusa in lacrime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un'emozionante sequenza video di una ragazza Medusa che cerca di trattenere le lacrime prima di crollare, con movimento di camera a mano.
+
+#### 📝 Prompt
+
+```
+l'immagine di riferimento come primo fotogramma.
+Mantieni un leggero e continuo tremolio tipico della camera a mano. Per tutta la durata della scena, i capelli del soggetto ondeggiano delicatamente nella brezza.
+Sequenza di azioni:
+Il soggetto trattiene i singhiozzi. Cerca disperatamente di non piangere. Le sue labbra sono serrate, la mascella trema e il petto si alza e si abbassa rapidamente mentre respira affannosamente. Le lacrime le riempiono gli occhi ma non scendono.
+Dopo una breve pausa
+Nonostante i suoi disperati tentativi di trattenersi, le sue emozioni esplodono. Chiude gli occhi con forza, apre la bocca e singhiozza piano. Le lacrime le rigano entrambe le guance. Inclina leggermente la testa verso il basso.
+(Mani, dita e braccia non devono apparire nell'inquadratura.)
+Anche i serpenti tra i suoi capelli abbassano tristemente la testa, come se percepissero le emozioni della ragazza.
+I suoi occhi sono leggermente aperti e rivolti verso il basso; la bocca rimane aperta mentre respira pesantemente, esausta.
+Le sfugge un singhiozzo.
+La telecamera segue la ragazza e le gira lentamente intorno per inquadrarla frontalmente, con uno splendido riflesso di luce (lens flare) in controluce.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088372387071102976/img/nmn7tH-8YW5ue91Y.jpg" width="600" alt="Sequenza video della ragazza Medusa in lacrime">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=9139)**
+
+**Autore:** [おちゃばなし | tea_and_stories](https://x.com/tea_story_hoshi) | **Fonte:** [Link](https://x.com/tea_story_hoshi/status/2088373387039211877) | **Pubblicato:** Aug 14, 2026
+
+---
 ---
 
 ## 📚 Altri prompt disponibili
@@ -5270,6 +5280,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-08-18T13:02:36.751Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-08-18T16:54:10.573Z</sub>
 
 </div>

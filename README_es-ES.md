@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6065** |
+| 📝 Total de prompts | **6062** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-08-18** |
 
@@ -3853,25 +3853,6 @@ Cine de acción práctico ultra fotorrealista, anamórfico Panavision, lentes de
 **Autor:** [harryskomi](https://x.com/HarrysKomi) | **Fuente:** [Link](https://x.com/HarrysKomi/status/2088634089423389140) | **Publicado:** Aug 15, 2026
 
 ---
-### Transición de expresión facial en sala de puros
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt de video complejo para Seedance 2.0 que demuestra una sutil transición de expresión facial, pasando de la pasión a la indiferencia fría en una sala de puros de alta gama.
-
-#### 📝 Prompt
-
-```
-Duración: 15s. Formato: vertical 9:16. Estilo: Toma sin procesar desde una perspectiva de selfie con iPhone en mano, grabada en una sala de puros de alta gama. Ajustes automáticos, perspectiva en primera persona de novio. Sin iluminación artificial ni corrección de color. Ligero movimiento de cámara en mano para mayor realismo. Toma única, sin ediciones. Personaje: Mujer madura basada en la referencia de imagen, usando gafas, guantes negros y tacones altos. Principios de interacción: distancia social (1.5-2m), solo planos de cuerpo completo y medio, sin primeros planos extremos que llenen la pantalla. Detalles ambientales: Iluminación amarilla cálida, armarios de puros al fondo con un suave bokeh dorado. Tiempos del guion: 0-3s: La mujer presenta la bandeja de puros, ofrece una sonrisa fría y contenida. 3-6s: Reacción al comentario del novio, volviéndose fría y cuestionadora. 6-9s: Risa contenida que termina por salir. 9-11s: Deja de reír al decirle que tiene ceniza en el labio. 11-13s: Se revisa a sí misma usando la cámara como espejo. 13-14s: Se congela durante 1 segundo ante un comentario suave. 14-15s: Mirada entrecerrada peligrosa que vuelve a la frialdad contenida. Sin subtítulos, filtros ni música de fondo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088609541457870848/img/yx0Jh0_YPCmWuVXp.jpg" width="600" alt="Transición de expresión facial en sala de puros">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=9212)**
-
-**Autor:** [John](https://x.com/john87445528) | **Fuente:** [Link](https://x.com/john87445528/status/2088609585535885319) | **Publicado:** Aug 15, 2026
-
----
 ### Escena de oficina de comedia de acción romántica
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -5215,6 +5196,35 @@ ACCIÓN Y CÁMARA: la cámara está fija. Sin cortes, sin zoom, sin paneo, sin i
 **Autor:** [Borderless 🌐](https://x.com/Borderless_DeFi) | **Fuente:** [Link](https://x.com/Borderless_DeFi/status/2088384246813511908) | **Publicado:** Aug 14, 2026
 
 ---
+### Crying Medusa Girl Video Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An emotional video sequence of a Medusa girl trying to hold back tears before breaking down, with handheld camera movement.
+
+#### 📝 Prompt
+
+```
+the reference image as the first frame.
+Maintain a subtle, continuous shake from the handheld camera. Throughout the scene, the subject’s hair gently sways in the breeze.
+Sequence of Actions:
+The subject is holding back her sobs. She is desperately trying not to cry. Her lips are tightly pursed, her jaw is trembling, and her chest rises and falls rapidly as she takes sharp breaths. Tears well up in her eyes but do not spill over.
+After a brief pause
+Despite her desperate efforts to hold back, her emotions erupt. She closes her eyes tightly, opens her mouth, and sobs quietly. Tears stream down both cheeks. She tilts her head down slightly.
+(Hands, fingers, and arms must not appear in the frame.)
+The snakes in her hair also hang their heads sadly, as if sensing the girl’s emotions.
+Her eyes are slightly open and looking downward; her mouth remains open as she breathes heavily, exhausted.
+A sob escapes her.
+The camera follows the girl and slowly circles around to face her directly, with a backlit lens flare shimmering beautifully.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088372387071102976/img/nmn7tH-8YW5ue91Y.jpg" width="600" alt="Crying Medusa Girl Video Sequence">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=9139)**
+
+**Autor:** [おちゃばなし | tea_and_stories](https://x.com/tea_story_hoshi) | **Fuente:** [Link](https://x.com/tea_story_hoshi/status/2088373387039211877) | **Publicado:** Aug 14, 2026
+
+---
 ---
 
 ## 📚 Más prompts disponibles
@@ -5276,6 +5286,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-08-18T13:02:29.015Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-08-18T16:54:02.985Z</sub>
 
 </div>
