@@ -70,7 +70,7 @@ Por que usar nossa galeria?
 |--------|-------|
 | 📝 Total de prompts | **6256** |
 | ⭐ Prompts em destaque | **6** |
-| 🔄 Última atualização | **2026-09-01** |
+| 🔄 Última atualização | **2026-09-02** |
 
 ---
 
@@ -3335,6 +3335,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-01T22:46:23.681Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-02T03:23:59.306Z</sub>
 
 </div>
