@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6403** |
+| 📝 Gesamtanzahl Prompts | **6405** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-09-20** |
 
@@ -361,6 +361,110 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Cinematic Character Reference Sheet Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein umfassender Prompt zur Erstellung ultra-realistischer, kinoreifer Charakter-Referenzblätter aus hochgeladenen Bildern unter Verwendung von Seedance 2.0 Fast.
+
+#### 📝 Prompt
+
+```
+ERSTELLEN SIE EIN PREMIUM, ULTRA-REALISTISCHES KINOREIFES CHARAKTER-REFERENZBLATT – PROFESSIONELLES FILMPRODUKTIONS-DESIGN.
+
+REFERENZSPERRE:
+Verwenden Sie das hochgeladene Referenzbild als EINEZIGE Quelle für die Identität des Motivs.
+
+Bewahren Sie mit maximaler Genauigkeit exakt die Gesichtsidentität, Gesichtsform, Augen, Augenbrauen, Nase, Lippen, Kieferlinie, Hautfarbe, Frisur, Haarfarbe, Körperproportionen, das Alter und das erkennbare Erscheinungsbild bei.
+
+Passen Sie sich natürlich an JEDE PERSON an, unabhängig von Geschlecht, Alter, Frisur, Körpertyp oder persönlichem Aussehen.
+
+KERNKONZEPT:
+Verwandeln Sie die hochgeladene Person in einen vollständig entwickelten kinoreifen Charakter, inspiriert durch ihr Aussehen, ihre Persönlichkeit und ihre visuelle Präsenz.
+
+Entwerfen Sie automatisch ein einzigartiges Charakterkonzept, Outfit, Accessoires, Frisur, Farbpalette und visuelle Identität, die zum Motiv passen.
+
+CHARAKTERDESIGN:
+Erstellen Sie einen visuell kraftvollen, originellen Charakter, der für eine Premium-Hollywood- oder Netflix-Stil-Filmproduktion geeignet ist.
+
+Der Charakter kann sein: EIN KRIEGER, BÖSEWICHT, HELD, HEXE, ADLIGER CHARAKTER, SCI-FI-EXPLORER, ATTENTÄTER, DETEKTIV, ÜBERLEBENDER, FANTASIECHARAKTER ODER MODERNER KINOREIFER CHARAKTER.
+
+Wählen Sie die am besten geeignete Charakterrundrichtung basierend auf dem hochgeladenen Referenzbild und dem beabsichtigten visuellen Stil.
+
+CHARAKTERBLATT-LAYOUT:
+
+1. HERO-PORTRAIT:
+Erstellen Sie ein großes, dramatisches, ultra-realistisches kinoreifes Porträt, das das Gesicht, die Frisur, das Outfit und die allgemeine Persönlichkeit des Charakters zeigt.
+
+2. GESICHTSAUSDRÜCKE:
+Erstellen Sie ein professionelles Raster für Gesichtsausdrücke, einschließlich: NEUTRAL, SERIÖS, INTENSIV, SANFT, LÄCHELN, WÜTEND, TRAUERIG, MYSTERIÖS.
+Wahren Sie die konsistente Gesichtsidentität in jedem Panel.
+
+3. TURNAROUND / GANZKÖRPERANSICHTEN:
+Zeigen Sie den Charakter in: VORDERANSICHT SEITENANSICHT RÜCKANSICHT DREIVIERTELANSICHT
+Wahren Sie konsistentes Outfit, Körperproportionen, Accessoires und Frisur über alle Ansichten hinweg.
+
+4. PORTRÄTVARIANTEN:
+Enthalten Sie kinoreife Nahaufnahmen aus verschiedenen Blickwinkeln: FRONTALE PORTRÄTDREIVIERTEL-PORTRÄTSEITLICHPORTRÄTDRAMATISCHES SCHATTENPORTRÄT.
+
+5. KOSTÜM & DETAILNAHAUFNAHMEN:
+Zeigen Sie hochdetaillierte Nahaufnahmen von: KOPFSCHMUCK ODER FRISURKOSTÜMDETAILSZUBEHÖRGÜRTEL ODER TAILLENDETAILSHANDSCHUHE ODER HANDDETAILSGEWEBETEXTURNKETTE ODER SIGNATURATTRIBUT.
+
+6. FARBPALETTE:
+Stellen Sie eine professionelle Farbpalette dar, die zum Kostüm und kinoreifen Thema des Charakters passt.
+
+7. CHARAKTERINFORMATIONEN:
+Enthalten Sie einen sauberen, professionellen Abschnitt mit: CHARAKTERNAMEROLLEALIASPERSÖNLICHKEITSTILTHEMASIGNATURELEMENT
+
+8. KINOREIFE WELTENBAU:
+Fügen Sie einen subtilen atmosphärischen Hintergrund oder eine Umweltillustration hinzu, die die Welt des Charakters ergänzt.
+
+VISUELLER STIL:
+Premium-Hollywood-Konzeptkunst. Ultra-realistische Fotografie. Hochwertiges Kostümdesign. Kinoreife Beleuchtung. Natürliche Hauttextur. Realistische Stoff- und Materialdetails. Professionelles Filmproduktions-Referenzblatt. Elegantes redaktionelles Layout. Subtile kinoreife Atmosphäre. Scharfe Gesichtsdetails. Fotorealistische Darstellung.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789883473619_5iildl_HSnCVWybwAAnaFA.jpg" width="600" alt="Cinematic Character Reference Sheet Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11053)**
+
+**Autor:** [M. Asif](https://x.com/meAsifAi) | **Quelle:** [Link](https://x.com/meAsifAi/status/2101515191158542788) | **Veröffentlicht:** Sep 20, 2026
+
+---
+### Zug, Lawine und Drachenrettung – Animationskurzfilm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt für einen 15-sekündigen kinematografischen Animationskurzfilm mit einem Zug, einer Lawine und einer Drachenrettung, erstellt mit Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+15-sekündiger kinematografischer Animationskurzfilm.
+Ein Personenzug rast durch ein schneebedecktes Gebirgstal.
+Vor ihm löst sich plötzlich eine gewaltige Lawine und donnert auf die Gleise zu.
+Der Zug bremst scharf.
+Die Passagiere blicken aus den Fenstern, während Schnee und Felsen den Berg hinunterkrachen.
+Plötzlich bricht ein riesiger Drache aus dem Wald hervor.
+Er landet direkt neben den Gleisen und breitet seine enormen Schwingen aus.
+Die Lawine trifft ein.
+Der Drache stemmt sich gegen den Boden und schützt den Zug vor den schlimmsten herabfallenden Trümmern.
+Schnee explodiert um ihn herum.
+Der Zug kommt nur Zentimeter vor der blockierten Strecke zum Stehen.
+Im vorderen Waggon drückt ein kleines Mädchen ihre Hand gegen das Fenster.
+Der erschöpfte Drache blickt zurück zu ihr.
+Sie lächelt.
+Der Drache senkt sanft einen Flügel, bevor er im schneebedeckten Wald verschwindet.
+
+Stilisierte kinematografische Animation, anspruchsvolles Kreaturen-Design, malerische Texturen, realistische Umgebungen, dramatische physische Action, dynamische Kamerabewegung, starkes Größenverhältnis, warmes emotionales Ende, natürliche Farben, kinematografisches Licht, kein Dialog, keine magischen Kräfte, kein Horror, keine Gewalt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101414099632422912/img/vPUySBkizJaVP6E5.jpg" width="600" alt="Zug, Lawine und Drachenrettung – Animationskurzfilm">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11052)**
+
+**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Quelle:** [Link](https://x.com/AllaAisling/status/2101429374755262628) | **Veröffentlicht:** Sep 19, 2026
+
+---
 ### Video-Prompt: Dunkler Krieger auf regnerischem Dach
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5322,60 +5426,6 @@ Erstelle ein 30-sekündiges, ultra-realistisches, filmisches Sci-Fi-Evolutionsvi
 **Autor:** [Elaine Wright](https://x.com/ElaineWrigari1) | **Quelle:** [Link](https://x.com/ElaineWrigari1/status/2096821611240538456) | **Veröffentlicht:** Sep 7, 2026
 
 ---
-### Ästhetik von MiniDV-Heimvideos der frühen 2000er Jahre
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein 15-sekündiger Video-Prompt mit Timecode, der ein authentisches MiniDV-Heimvideo aus den frühen 2000ern imitiert, inklusive realistischer Kamerabewegungen, Autofokus-Pumpen und natürlicher Bewegungsabläufe.
-
-#### 📝 Prompt
-
-```
-15-sekündiger Seedance-Prompt — 5 Einstellungen
-
-Stil: Authentisches MiniDV-Heimvideo der frühen 2000er Jahre. Junge Koreanerin, 24 Jahre alt, natürlich attraktiv, langes dunkles Haar, dezentes Make-up, cremefarbene Strickjacke über weißem T-Shirt, lockere blaue Jeans, weiße Sneaker. Gemütliches Wohnzimmer, warmes Licht am späten Nachmittag. 4:3-Format, Handkamera-Wackeln, Autofokus-Pumpen, Bandrauschen/Kompression, natürliche Belichtung. Konsistenz bei Person, Outfit, Frisur und Umgebung beibehalten.
-
-EINSTELLUNG 1 — 0:00–0:03
-Nahe Handkamera-Aufnahme: Sie stellt die MiniDV-Kamera auf einen kleinen Tisch, justiert den Bildausschnitt, drückt auf Aufnahme und tritt schnell aus dem Bild.
-EINSTELLUNG 2 — 0:03–0:06
-Weite POV-Kamera. Sie eilt ins Bild, um ihre Position einzunehmen, bleibt in der Mitte stehen und richtet kurz ihre Haare.
-
-EINSTELLUNG 3 — 0:06–0:09
-Sie posiert mit einem süßen, natürlichen Lächeln, neigt den Kopf und legt eine Hand an ihr Gesicht. Während sie ihr Gewicht verlagert, bleibt ihr Fuß leicht am Teppich hängen.
-EINSTELLUNG 4 — 0:09–0:12
-Sie stolpert leicht nach vorne, fängt sich wieder, erstarrt für einen Moment und kehrt dann sofort in genau dieselbe Pose zurück, als wäre nichts passiert.
-
-EINSTELLUNG 5 — 0:12–0:15
-Sie hält die Pose und versucht ernst zu bleiben, muss dann aber leise lachen. Sie schaut mit einem verlegenen Grinsen in die Kamera.
-Ende: Natürlich auf ihrem lachenden Ausdruck verweilen, mit leichtem MiniDV-Wackeln. Subtiles, realistisches Stolpern, kein dramatischer Sturz, kein filmischer Hochglanz, keine Zeitlupe.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096667325953196032/img/a5g7r77sU2NnskNB.jpg" width="600" alt="Ästhetik von MiniDV-Heimvideos der frühen 2000er Jahre">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10500)**
-
-**Autor:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Quelle:** [Link](https://x.com/iamahmedfaraz66/status/2096808174556954911) | **Veröffentlicht:** Sep 7, 2026
-
----
-### Malerische Gouache-Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein stilisierter 2,5D-Animations-Prompt, der die Textur und das Licht von Gouache-Konzeptkunst imitiert.
-
-#### 📝 Prompt
-
-```
-Filmische 2,5D-Animation im Stil eines vollständig malerischen Renderings; Charaktere und Umgebungen wirken wie bewegte Gouache-Konzeptkunst, sichtbare Pinseltexturen auf Haut, Kleidung und Gebäuden, flache, posterisierte Farbflächen mit hartem Licht
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096795599895252992/img/Pu7P2w9YjQAOREfg.jpg" width="600" alt="Malerische Gouache-Animation">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10447)**
-
-**Autor:** [PixieVerse](https://x.com/itsPixieVerse) | **Quelle:** [Link](https://x.com/itsPixieVerse/status/2096801780697030939) | **Veröffentlicht:** Sep 7, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -5437,6 +5487,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-20T03:53:22.687Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-20T09:24:11.470Z</sub>
 
 </div>

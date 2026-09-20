@@ -68,7 +68,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6403** |
+| 📝 Tổng số prompt | **6405** |
 | ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-09-20** |
 
@@ -361,6 +361,110 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Cinematic Character Reference Sheet Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive prompt for creating ultra-realistic cinematic character reference sheets from uploaded images using Seedance 2.0 Fast.
+
+#### 📝 Prompt
+
+```
+CREATE A PREMIUM, ULTRA-REALISTIC CINEMATIC CHARACTER REFERENCE SHEET — PROFESSIONAL FILM PRODUCTION DESIGN.
+
+REFERENCE LOCK:
+Use the uploaded reference image as the ONLY source of the subject's identity.
+
+Preserve the exact facial identity, face shape, eyes, eyebrows, nose, lips, jawline, skin tone, hairstyle, hair color, body proportions, age, and recognizable appearance with maximum accuracy.
+
+Adapt naturally to ANY PERSON, regardless of gender, age, hairstyle, body type, or personal appearance.
+
+CORE CONCEPT:
+Transform the uploaded person into a fully developed cinematic character inspired by their appearance, personality, and visual presence.
+
+Automatically design a unique character concept, outfit, accessories, hairstyle, color palette, and visual identity that suits the subject.
+
+CHARACTER DESIGN:
+Create a visually powerful, original character suitable for a premium Hollywood or Netflix-style film production.
+
+The character may be: A WARRIOR, VILLAIN, HERO, WITCH, ROYAL CHARACTER, SCI-FI EXPLORER, ASSASSIN, DETECTIVE, SURVIVOR, FANTASY CHARACTER, OR MODERN CINEMATIC PERSON.
+
+Choose the most suitable character direction based on the uploaded reference and the intended visual style.
+
+CHARACTER SHEET LAYOUT:
+
+1. HERO PORTRAIT:
+Create one large, dramatic, ultra-realistic cinematic portrait showing the character's face, hairstyle, outfit, and overall personality.
+
+2. FACIAL EXPRESSIONS:
+Create a professional facial expression grid including: NEUTRAL, SERIOUS, INTENSE, SOFT, SMILE, ANGRY, SAD, MYSTERIOUS.
+Maintain consistent facial identity in every panel.
+
+3. TURNAROUND / FULL BODY VIEWS:
+Show the character in: FRONT VIEW SIDE VIEW BACK VIEW THREE-QUARTER VIEW
+Maintain consistent outfit, body proportions, accessories, and hairstyle across all views.
+
+4. PORTRAIT VARIATIONS:
+Include cinematic close-ups from different angles: FRONT PORTRAIT THREE-QUARTER PORTRAIT SIDE PORTRAIT DRAMATIC SHADOW PORTRAIT.
+
+5. COSTUME & DETAIL CLOSE-UPS:
+Show highly detailed close-ups of: HEADPIECE OR HAIRSTYLE COSTUME DETAILS ACCESSORIES BELT OR WAIST DETAILS GLOVES OR HAND DETAILS FABRIC TEXTURE NECKLACE OR SIGNATURE PROP.
+
+6. COLOR PALETTE:
+Display a professional color palette matching the character's costume and cinematic theme.
+
+7. CHARACTER INFORMATION:
+Include a clean professional section containing: CHARACTER NAME ROLE ALIAS PERSONALITY STYLE THEME SIGNATURE ELEMENT
+
+8. CINEMATIC WORLD-BUILDING:
+Add a subtle atmospheric background or environmental illustration that complements the character's world.
+
+VISUAL STYLE:
+Premium Hollywood concept art. Ultra-realistic photography. High-end costume design. Cinematic lighting. Natural skin texture. Realistic fabric and material details. Professional film production reference sheet. Elegant editorial layout. Subtle cinematic atmosphere. Sharp facial details. Photorealistic rendering.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789883473619_5iildl_HSnCVWybwAAnaFA.jpg" width="600" alt="Cinematic Character Reference Sheet Prompt">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11053)**
+
+**Tác giả:** [M. Asif](https://x.com/meAsifAi) | **Nguồn:** [Link](https://x.com/meAsifAi/status/2101515191158542788) | **Đã xuất bản:** Sep 20, 2026
+
+---
+### Hướng dẫn tạo hoạt cảnh giải cứu tàu hỏa khỏi tuyết lở bằng rồng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chi tiết cho đoạn phim hoạt hình điện ảnh dài 15 giây, kết hợp giữa tàu hỏa, tuyết lở và màn giải cứu của một con rồng, được tạo ra với Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Đoạn phim hoạt hình điện ảnh dài 15 giây.
+Một đoàn tàu chở khách lao nhanh qua thung lũng núi phủ đầy tuyết.
+Phía trước, một trận tuyết lở khổng lồ bất ngờ đổ xuống, ập thẳng về phía đường ray.
+Tàu phanh gấp.
+Hành khách nhìn qua cửa sổ khi tuyết và đá tảng ầm ầm lăn xuống sườn núi.
+Bất ngờ, một con rồng khổng lồ lao ra từ khu rừng.
+Nó hạ cánh ngay cạnh đường ray và dang rộng đôi cánh vĩ đại.
+Trận tuyết lở ập tới.
+Con rồng trụ vững trên mặt đất, che chắn cho đoàn tàu khỏi những mảnh vụn rơi nặng nhất.
+Tuyết bắn tung tóe xung quanh nó.
+Đoàn tàu dừng lại cách đường ray bị chặn chỉ vài centimet.
+Trong toa đầu tiên, một cô bé áp tay lên cửa sổ.
+Con rồng kiệt sức quay đầu nhìn lại em.
+Em mỉm cười.
+Con rồng nhẹ nhàng hạ một bên cánh trước khi biến mất vào khu rừng tuyết phủ.
+
+Hoạt họa phong cách điện ảnh tinh tế, thiết kế sinh vật phức tạp, kết cấu vẽ tranh sơn dầu, môi trường chân thực, hành động vật lý kịch tính, chuyển động camera năng động, cảm giác quy mô mạnh mẽ, kết thúc giàu cảm xúc, màu sắc tự nhiên, ánh sáng điện ảnh, không có lời thoại, không có phép thuật, không kinh dị, không bạo lực.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101414099632422912/img/vPUySBkizJaVP6E5.jpg" width="600" alt="Hướng dẫn tạo hoạt cảnh giải cứu tàu hỏa khỏi tuyết lở bằng rồng">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11052)**
+
+**Tác giả:** [Alexandra Aisling](https://x.com/AllaAisling) | **Nguồn:** [Link](https://x.com/AllaAisling/status/2101429374755262628) | **Đã xuất bản:** Sep 19, 2026
+
+---
 ### Nhắc nhở video Chiến binh Bóng tối trên Sân thượng Bão tố
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5393,60 +5497,6 @@ Tạo một video tiến hóa khoa học viễn tưởng điện ảnh siêu th�
 **Tác giả:** [Elaine Wright](https://x.com/ElaineWrigari1) | **Nguồn:** [Link](https://x.com/ElaineWrigari1/status/2096821611240538456) | **Đã xuất bản:** Sep 7, 2026
 
 ---
-### Phong cách video gia đình MiniDV đầu những năm 2000
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt 15 giây có mã thời gian được thiết kế để mô phỏng chân thực video gia đình MiniDV đầu những năm 2000, bao gồm các chuyển động máy quay thực tế, hiệu ứng lấy nét tự động và các hành động vật lý.
-
-#### 📝 Prompt
-
-```
-Prompt 15 giây cho Seedance — 5 cảnh quay
-
-Phong cách: Video gia đình MiniDV chân thực đầu những năm 2000. Một phụ nữ trẻ người Hàn Quốc, 24 tuổi, vẻ đẹp tự nhiên, tóc đen dài, trang điểm tối giản, mặc áo cardigan màu kem khoác ngoài áo phông trắng, quần jean xanh ống rộng, giày thể thao trắng. Phòng khách căn hộ ấm cúng, ánh sáng chiều muộn ấm áp. Tỷ lệ 4:3, rung lắc kiểu cầm tay, hiệu ứng lấy nét tự động, nhiễu hạt băng/nén, độ phơi sáng tự nhiên. Giữ nhất quán về nhân vật, trang phục, kiểu tóc và bối cảnh.
-
-CẢNH 1 — 0:00–0:03
-Cận cảnh cầm tay khi cô ấy đặt máy quay MiniDV lên một chiếc bàn nhỏ, điều chỉnh khung hình, nhấn nút ghi hình rồi nhanh chóng bước ra khỏi khung hình.
-CẢNH 2 — 0:03–0:06
-Góc quay rộng. Cô ấy vội vã bước vào khung hình để vào vị trí, dừng lại ở giữa và nhanh chóng chỉnh lại tóc.
-
-CẢNH 3 — 0:06–0:09
-Cô ấy tạo dáng với nụ cười tự nhiên dễ thương, nghiêng đầu và đặt một tay gần mặt. Trong khi thay đổi trọng tâm, chân cô ấy hơi vấp vào tấm thảm.
-CẢNH 4 — 0:09–0:12
-Cô ấy hơi loạng choạng về phía trước, lấy lại thăng bằng, khựng lại một chút rồi ngay lập tức trở lại đúng tư thế cũ, giả vờ như không có chuyện gì xảy ra.
-
-CẢNH 5 — 0:12–0:15
-Cô ấy giữ tư thế, cố gắng giữ vẻ nghiêm túc nhưng rồi bật cười khúc khích. Cô ấy nhìn vào máy quay với nụ cười bẽn lẽn.
-Kết thúc: Giữ nguyên biểu cảm đang cười một cách tự nhiên với độ rung nhẹ kiểu MiniDV. Cú vấp chân thực tinh tế, không ngã kịch tính, không bóng bẩy kiểu điện ảnh, không quay chậm.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096667325953196032/img/a5g7r77sU2NnskNB.jpg" width="600" alt="Phong cách video gia đình MiniDV đầu những năm 2000">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10500)**
-
-**Tác giả:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Nguồn:** [Link](https://x.com/iamahmedfaraz66/status/2096808174556954911) | **Đã xuất bản:** Sep 7, 2026
-
----
-### Hoạt hình Gouache phong cách hội họa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo hoạt hình 2.5D cách điệu, mô phỏng kết cấu và ánh sáng của các bức tranh concept art bằng màu gouache.
-
-#### 📝 Prompt
-
-```
-Hoạt hình 2.5D điện ảnh theo phong cách kết xuất hội họa hoàn toàn, nhân vật và môi trường trông giống như những bức tranh concept art bằng màu gouache đang chuyển động, có thể nhìn thấy kết cấu cọ vẽ trên da, vải và các tòa nhà, các khối màu phẳng được poster hóa với ánh sáng sắc nét
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096795599895252992/img/Pu7P2w9YjQAOREfg.jpg" width="600" alt="Hoạt hình Gouache phong cách hội họa">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10447)**
-
-**Tác giả:** [PixieVerse](https://x.com/itsPixieVerse) | **Nguồn:** [Link](https://x.com/itsPixieVerse/status/2096801780697030939) | **Đã xuất bản:** Sep 7, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -5508,6 +5558,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-20T03:53:16.572Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-20T09:24:05.316Z</sub>
 
 </div>

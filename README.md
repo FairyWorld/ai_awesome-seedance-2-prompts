@@ -68,7 +68,7 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6403** |
+| 📝 Total Prompts | **6405** |
 | ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-09-20** |
 
@@ -365,11 +365,115 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Cinematic Character Reference Sheet Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive prompt for creating ultra-realistic cinematic character reference sheets from uploaded images using Seedance 2.0 Fast.
+
+#### 📝 Prompt
+
+```
+CREATE A PREMIUM, ULTRA-REALISTIC CINEMATIC CHARACTER REFERENCE SHEET — PROFESSIONAL FILM PRODUCTION DESIGN.
+
+REFERENCE LOCK:
+Use the uploaded reference image as the ONLY source of the subject's identity.
+
+Preserve the exact facial identity, face shape, eyes, eyebrows, nose, lips, jawline, skin tone, hairstyle, hair color, body proportions, age, and recognizable appearance with maximum accuracy.
+
+Adapt naturally to ANY PERSON, regardless of gender, age, hairstyle, body type, or personal appearance.
+
+CORE CONCEPT:
+Transform the uploaded person into a fully developed cinematic character inspired by their appearance, personality, and visual presence.
+
+Automatically design a unique character concept, outfit, accessories, hairstyle, color palette, and visual identity that suits the subject.
+
+CHARACTER DESIGN:
+Create a visually powerful, original character suitable for a premium Hollywood or Netflix-style film production.
+
+The character may be: A WARRIOR, VILLAIN, HERO, WITCH, ROYAL CHARACTER, SCI-FI EXPLORER, ASSASSIN, DETECTIVE, SURVIVOR, FANTASY CHARACTER, OR MODERN CINEMATIC PERSON.
+
+Choose the most suitable character direction based on the uploaded reference and the intended visual style.
+
+CHARACTER SHEET LAYOUT:
+
+1. HERO PORTRAIT:
+Create one large, dramatic, ultra-realistic cinematic portrait showing the character's face, hairstyle, outfit, and overall personality.
+
+2. FACIAL EXPRESSIONS:
+Create a professional facial expression grid including: NEUTRAL, SERIOUS, INTENSE, SOFT, SMILE, ANGRY, SAD, MYSTERIOUS.
+Maintain consistent facial identity in every panel.
+
+3. TURNAROUND / FULL BODY VIEWS:
+Show the character in: FRONT VIEW SIDE VIEW BACK VIEW THREE-QUARTER VIEW
+Maintain consistent outfit, body proportions, accessories, and hairstyle across all views.
+
+4. PORTRAIT VARIATIONS:
+Include cinematic close-ups from different angles: FRONT PORTRAIT THREE-QUARTER PORTRAIT SIDE PORTRAIT DRAMATIC SHADOW PORTRAIT.
+
+5. COSTUME & DETAIL CLOSE-UPS:
+Show highly detailed close-ups of: HEADPIECE OR HAIRSTYLE COSTUME DETAILS ACCESSORIES BELT OR WAIST DETAILS GLOVES OR HAND DETAILS FABRIC TEXTURE NECKLACE OR SIGNATURE PROP.
+
+6. COLOR PALETTE:
+Display a professional color palette matching the character's costume and cinematic theme.
+
+7. CHARACTER INFORMATION:
+Include a clean professional section containing: CHARACTER NAME ROLE ALIAS PERSONALITY STYLE THEME SIGNATURE ELEMENT
+
+8. CINEMATIC WORLD-BUILDING:
+Add a subtle atmospheric background or environmental illustration that complements the character's world.
+
+VISUAL STYLE:
+Premium Hollywood concept art. Ultra-realistic photography. High-end costume design. Cinematic lighting. Natural skin texture. Realistic fabric and material details. Professional film production reference sheet. Elegant editorial layout. Subtle cinematic atmosphere. Sharp facial details. Photorealistic rendering.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789883473619_5iildl_HSnCVWybwAAnaFA.jpg" width="600" alt="Cinematic Character Reference Sheet Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11053)**
+
+**Author:** [M. Asif](https://x.com/meAsifAi) | **Source:** [Link](https://x.com/meAsifAi/status/2101515191158542788) | **Published:** Sep 20, 2026
+
+---
+### Train Avalanche Dragon Rescue Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for a 15-second cinematic animated short featuring a train, an avalanche, and a dragon rescue, created with Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+15-second cinematic animated short.
+A passenger train races through a snowy mountain valley.
+Ahead, a huge avalanche suddenly breaks loose and begins crashing down toward the tracks.
+The train brakes hard.
+Passengers look through the windows as snow and rocks thunder down the mountain.
+Suddenly a massive dragon bursts from the forest.
+It lands directly beside the tracks and spreads its enormous wings.
+The avalanche hits.
+The dragon braces itself against the ground, shielding the train from the worst of the falling debris.
+Snow explodes around it.
+The train comes to a stop inches from the blocked track.
+Inside the front carriage, a little girl presses her hand against the window.
+The exhausted dragon looks back at her.
+She smiles.
+The dragon gently lowers one wing before disappearing into the snowy forest.
+
+Stylized cinematic animation, sophisticated creature design, painterly textures, grounded environments, dramatic physical action, dynamic camera movement, strong sense of scale, warm emotional ending, natural colors, cinematic lighting, no dialogue, no magic powers, no horror, no violence.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101414099632422912/img/vPUySBkizJaVP6E5.jpg" width="600" alt="Train Avalanche Dragon Rescue Animation">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11052)**
+
+**Author:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2101429374755262628) | **Published:** Sep 19, 2026
+
+---
 ### Dark Warrior Storm Rooftop Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a cinematic action scene of a warrior in armor on a rainy rooftop with dramatic lighting and water effects.
+> A detailed prompt for an ultra-realistic cinematic scene of a dark warrior on a wet rooftop during a storm, generated with Seedance 2.0.
 
 #### 📝 Prompt
 
@@ -4913,61 +5017,6 @@ Create a 30-second ultra-realistic cinematic sci-fi evolution video, 16:9, Holly
 **Author:** [Elaine Wright](https://x.com/ElaineWrigari1) | **Source:** [Link](https://x.com/ElaineWrigari1/status/2096821611240538456) | **Published:** Sep 7, 2026
 
 ---
-### Early 2000s MiniDV home video aesthetic style
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A 15-second timecoded video prompt designed to mimic an authentic early-2000s MiniDV home video, containing realistic camera movements, autofocus hunting, and physical actions.
-
-#### 📝 Prompt
-
-```
-15-sec Seedance prompt — 5 shots
-
-Style: Authentic early-2000s MiniDV home video. Young Korean woman, 24, naturally attractive, long dark hair, minimal makeup, cream cardigan over white T-shirt, loose blue jeans, white sneakers. Cozy apartment living room, warm late-afternoon light. 4:3, handheld shake, autofocus hunting, tape grain/compression, natural exposure. Keep woman, outfit, hair and environment consistent.
-
-SHOT 1 — 0:00–0:03
-Close handheld shot as she places the MiniDV camera on a small table, adjusts framing, presses record, then quickly steps out of frame.
-SHOT 2 — 0:03–0:06
-Wide camera POV. She hurries into frame to get into position, stops in the center and quickly fixes her hair.
-
-SHOT 3 — 0:06–0:09
-She poses with a cute natural smile, tilting her head and placing one hand near her face. While shifting her weight, her foot slightly catches the rug.
-SHOT 4 — 0:09–0:12
-She stumbles forward slightly, catches herself, freezes for a moment, then immediately returns to the exact same pose, pretending nothing happened.
-
-SHOT 5 — 0:12–0:15
-She holds the pose, trying to stay serious, but breaks into a small laugh. She looks at the camera with an embarrassed grin.
-End: Naturally hold on her laughing expression with slight MiniDV shake. Subtle realistic stumble, no dramatic fall, no cinematic polish, no slow motion.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096667325953196032/img/a5g7r77sU2NnskNB.jpg" width="600" alt="Early 2000s MiniDV home video aesthetic style">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10500)**
-
-**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2096808174556954911) | **Published:** Sep 7, 2026
-
----
-### Gouache Concept Art Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic 2.5D painterly animation style prompt featuring gouache concept-art aesthetics with visible brush texture and posterized color blocks.
-
-#### 📝 Prompt
-
-```
-#1:
-Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture on skin, cloth and buildings, flat posterized color blocks with hard-edged light
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096795599895252992/img/Pu7P2w9YjQAOREfg.jpg" width="600" alt="Gouache Concept Art Animation">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10447)**
-
-**Author:** [PixieVerse](https://x.com/itsPixieVerse) | **Source:** [Link](https://x.com/itsPixieVerse/status/2096801780697030939) | **Published:** Sep 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -5029,6 +5078,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-20T03:53:07.878Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-20T09:23:55.387Z</sub>
 
 </div>

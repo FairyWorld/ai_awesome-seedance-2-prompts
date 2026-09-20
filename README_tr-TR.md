@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6403** |
+| 📝 Toplam İstem | **6405** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-09-20** |
 
@@ -361,6 +361,110 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Sinematik Karakter Referans Sayfası İstemcisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 Fast kullanılarak yüklenen görsellerden ultra gerçekçi sinematik karakter referans sayfaları oluşturmak için kapsamlı bir istem.
+
+#### 📝 İstem
+
+```
+PREMİUM, ULTRA GERÇEKÇİ SİNEMATİK KARAKTER REFERANS SAYFASI OLUŞTUR — PROFESYONEL FİM PRODÜKSİYONU TASARIMI.
+
+REFERANS KİLİDİ:
+Yüklenen referans görseli, öznenin kimliği için TEK kaynak olarak kullan.
+
+Yüz kimliğini, yüz şeklini, gözleri, kaşları, burnu, dudakları, çene hattını, ten rengini, saç stilini, saç rengini, vücut oranlarını, yaşı ve tanınabilir görünümü maksimum doğrulukla koru.
+
+Cinsiyet, yaş, saç stili, vücut tipi veya kişisel görünüm ne olursa olsun HERHANGİ BİR KİŞİYE doğal şekilde uyum sağla.
+
+TEMEL KONSEPT:
+Yüklenen kişiyi; görünüşlerinden, kişiliklerinden ve görsel varlıklarından ilham alan tam gelişmiş bir sinematik karaktere dönüştür.
+
+Özneye uygun benzersiz bir karakter konsepti, kıyafet, aksesuar, saç stili, renk paleti ve görsel kimlik otomatik olarak tasarla.
+
+KARAKTER TASARIMI:
+Premium Hollywood veya Netflix tarzı film prodüksiyonu için uygun, görsel açıdan güçlü, özgün bir karakter yarat.
+
+Karakter şunlardan biri olabilir: BİR SAVAŞÇI, KÖTÜ ADAM, KAHRAMAN, CADILAR, KRALLIK ÜYESİ, BİLİM KURGU KEŞİFÇİSİ, SUİKASTÇI, DETEKTİF, HAYATTA KALAN, FANTASTİK KARAKTER VEYA MODERN SİNEMATİK KİŞİLİK.
+
+Yüklenen referansa ve amaçlanan görsel stile göre en uygun karakter yönünü seç.
+
+KARAKTER SAYFASI DÜZENİ:
+
+1. HERO PORTRAIT (KAHRAMAN PORTRESİ):
+Karakterin yüzünü, saç stilini, kıyafetini ve genel kişiliğini gösteren tek büyük, dramatik, ultra gerçekçi sinematik portre oluştur.
+
+2. FACIAL EXPRESSIONS (YÜZ İFADELERİ):
+Şunları içeren profesyonel bir yüz ifadesi gridi oluştur: NÖTR, CİDDİ, YOĞUN, YUMUŞAK, GÜLÜMSEME, ÖFKELİ, ÜZGÜN, GİZEMLİ.
+Her panelde tutarlı yüz kimliğini koru.
+
+3. TURNAROUND / FULL BODY VIEWS (TURNAOUT / TAM GÖRÜNÜM):
+Karakteri şu açılardan göster: ÖN GÖRÜNÜM YAN GÖRÜNÜM ARKA GÖRÜNÜM ÜÇ ÇEYREK GÖRÜNÜM
+Tüm görünümlerde tutarlı kıyafet, vücut oranları, aksesuarlar ve saç stilini koru.
+
+4. PORTRAIT VARIATIONS (PORTRE VARYASYONLARI):
+Farklı açılardan sinematik yakın çekimler dahil et: ÖN PORTRE ÜÇ ÇEYREK PORTRE YAN PORTRE DRAMATİK GÖLGE PORTRESİ.
+
+5. COSTUME & DETAIL CLOSE-UPS (KIYAFET & DETAY YAKIN ÇEKİMLERİ):
+Şunların yüksek detaylı yakın çekimlerini göster: BAŞLIK VEYA SAÇ STİLİ KIYAFET DETAYLARI AKSESUARLAR KEMER VEYA BEL DETAYLARI ELDİVEN VEYA EL DETAYLARI KUMAŞ DOKUSU KOLYE VEYA İMZALI PROP.
+
+6. COLOR PALETTE (RENK PALETİ):
+Karakterin kıyafeti ve sinematik temasıyla eşleşen profesyonel bir renk paleti görüntüle.
+
+7. CHARACTER INFORMATION (KARAKTER BİLGİLERİ):
+Şunları içeren temiz, profesyonel bir bölüm ekle: KARAKTER ADI ROL TAKMA AD KİŞİLİK STİL TEMA İMZALI ÖĞE
+
+8. CINEMATIC WORLD-BUILDING (SİNEMATİK DÜNYA İNŞASI):
+Karakterin dünyasını tamamlayan ince atmosferik bir arka plan veya çevresel illüstrasyon ekle.
+
+GÖRSEL STİL:
+Premium Hollywood konsept sanatı. Ultra gerçekçi fotoğrafçılık. Yüksek kaliteli kostüm tasarımı. Sinematik aydınlatma. Doğal cilt dokusu. Gerçekçi kumaş ve malzeme detayları. Profesyonel film prodüksiyon referans sayfası. Zarif editoryal düzen. İnce sinematik atmosfer. Keskin yüz detayları. Fotogerçekçi render.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789883473619_5iildl_HSnCVWybwAAnaFA.jpg" width="600" alt="Sinematik Karakter Referans Sayfası İstemcisi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11053)**
+
+**Yazar:** [M. Asif](https://x.com/meAsifAi) | **Kaynak:** [Link](https://x.com/meAsifAi/status/2101515191158542788) | **Yayınlandı:** Sep 20, 2026
+
+---
+### Tren Çığ Can Kurtarma Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 ile oluşturulan, bir treni, çığı ve ejderha kurtarmasını içeren 15 saniyelik sinematik animasyon kısa filmi için detaylı istem.
+
+#### 📝 İstem
+
+```
+15 saniyelik sinematik animasyon kısa filmi.
+Bir yolcu treni karlı bir dağ vadisinde hızla ilerler.
+Önde, devasa bir çığ aniden kopar ve raylara doğru gürleyerek inmeye başlar.
+Tren sert fren yapar.
+Yolcular, kar ve kayaların dağdan aşağıya doğru gümbürdeyişini pencerelerden izler.
+Aniden ormandan devasa bir ejderha fırlar.
+Doğrudan rayların yanına iner ve kanatlarını sonuna kadar açar.
+Çığ vurur.
+Ejderha kendini yere sabitler ve düşen molozların en kötüsünden treni korur.
+Etrafında kar patlamaları olur.
+Tren, kapalı raylara santimetreler mesafede durur.
+Ön vagonda küçük bir kız elini pencereye bastırır.
+Bitkin ejderha ona geri bakar.
+Kız gülümser.
+Ejderha nazikçe bir kanadını indirir ve karlı ormanda kaybolur.
+
+Stilize sinematik animasyon, sofistike yaratık tasarımı, resimsel dokular, gerçekçi ortamlar, dramatik fiziksel aksiyon, dinamik kamera hareketleri, güçlü ölçek hissi, sıcak duygusal son, doğal renkler, sinematik ışıklandırma, diyalog yok, sihirli güçler yok, korku yok, şiddet yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101414099632422912/img/vPUySBkizJaVP6E5.jpg" width="600" alt="Tren Çığ Can Kurtarma Animasyonu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11052)**
+
+**Yazar:** [Alexandra Aisling](https://x.com/AllaAisling) | **Kaynak:** [Link](https://x.com/AllaAisling/status/2101429374755262628) | **Yayınlandı:** Sep 19, 2026
+
+---
 ### Karanlık Savaşçı Fırtına Çatı Video İstemi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5333,60 +5437,6 @@ MEKAN: Bench press, omuz pres makinesi, dip istasyonu, aynalar, su şişesi ve y
 **Yazar:** [Elaine Wright](https://x.com/ElaineWrigari1) | **Kaynak:** [Link](https://x.com/ElaineWrigari1/status/2096821611240538456) | **Yayınlandı:** Sep 7, 2026
 
 ---
-### 2000'lerin başı MiniDV ev videosu estetiği
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gerçekçi kamera hareketleri, otomatik odaklama arayışı ve fiziksel eylemler içeren, 2000'lerin başındaki otantik MiniDV ev videolarını taklit etmek için tasarlanmış 15 saniyelik zaman kodlu video istemi.
-
-#### 📝 İstem
-
-```
-15 saniyelik Seedance istemi — 5 çekim
-
-Stil: 2000'lerin başından kalma otantik MiniDV ev videosu. 24 yaşında, doğal çekici, uzun koyu saçlı, hafif makyajlı, beyaz tişört üzerine krem rengi hırka, bol mavi kot pantolon ve beyaz spor ayakkabı giyen genç Koreli kadın. Rahat bir apartman dairesi oturma odası, sıcak ikindi güneşi. 4:3 formatı, elde çekim sarsıntısı, otomatik odaklama arayışı, kaset greni/sıkıştırması, doğal pozlama. Kadını, kıyafeti, saçı ve ortamı tutarlı tutun.
-
-1. ÇEKİM — 0:00–0:03
-MiniDV kamerasını küçük bir masaya yerleştirirken, kadrajı ayarlarken, kayıt tuşuna basarken ve ardından hızla kadrajdan çıkarken yakın çekim elde çekim.
-2. ÇEKİM — 0:03–0:06
-Geniş kamera bakış açısı. Pozisyon almak için hızla kadraja girer, merkezde durur ve hızlıca saçını düzeltir.
-
-3. ÇEKİM — 0:06–0:09
-Başını yana eğip bir elini yüzüne yakın tutarak sevimli ve doğal bir gülümsemeyle poz verir. Ağırlığını değiştirirken ayağı hafifçe halıya takılır.
-4. ÇEKİM — 0:09–0:12
-Hafifçe öne doğru sendeler, kendini toparlar, bir anlığına donup kalır ve ardından hiçbir şey olmamış gibi hemen aynı poza geri döner.
-
-5. ÇEKİM — 0:12–0:15
-Pozunu korur, ciddi kalmaya çalışır ancak hafifçe gülmeye başlar. Utangaç bir gülümsemeyle kameraya bakar.
-Bitiş: Hafif MiniDV sarsıntısıyla gülümseyen ifadesini doğal bir şekilde koruyun. Hafif ve gerçekçi bir sendeleme olsun; dramatik bir düşüş, sinematik bir cila veya ağır çekim olmasın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096667325953196032/img/a5g7r77sU2NnskNB.jpg" width="600" alt="2000'lerin başı MiniDV ev videosu estetiği">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10500)**
-
-**Yazar:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Kaynak:** [Link](https://x.com/iamahmedfaraz66/status/2096808174556954911) | **Yayınlandı:** Sep 7, 2026
-
----
-### Guaş Boya Tarzında Animasyon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Guaş boya konsept sanatının dokusunu ve ışığını taklit eden stilize 2.5D animasyon istemi.
-
-#### 📝 İstem
-
-```
-Tamamen resimsel işleme tarzında sinematik 2.5D animasyon; karakterler ve ortamlar hareket halindeyken guaş boya konsept sanat tabloları gibi görünür, cilt, kumaş ve binalar üzerinde belirgin fırça dokusu, sert kenarlı ışıkla düz posterize renk blokları
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096795599895252992/img/Pu7P2w9YjQAOREfg.jpg" width="600" alt="Guaş Boya Tarzında Animasyon">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10447)**
-
-**Yazar:** [PixieVerse](https://x.com/itsPixieVerse) | **Kaynak:** [Link](https://x.com/itsPixieVerse/status/2096801780697030939) | **Yayınlandı:** Sep 7, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -5448,6 +5498,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-20T03:53:29.509Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-20T09:24:22.001Z</sub>
 
 </div>

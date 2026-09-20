@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6403** |
+| 📝 Total des prompts | **6405** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-09-20** |
 
@@ -361,6 +361,110 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Prompt pour Fiche de Référence de Personnage Cinématographique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt complet pour créer des fiches de référence de personnages cinématographiques ultra-réalistes à partir d'images téléversées en utilisant Seedance 2.0 Fast.
+
+#### 📝 Prompt
+
+```
+CRÉER UNE FICHE DE RÉFÉRENCE DE PERSONNAGE CINÉMATOGRAPHIQUE PREMIUM, ULTRA-RÉALISTE — DESIGN DE PRODUCTION FILM PROFESSIONNEL.
+
+VERROUILLAGE DE LA RÉFÉRENCE :
+Utilisez l'image de référence téléversée comme SEULE source de l'identité du sujet.
+
+Préservez avec une précision maximale l'identité faciale exacte, la forme du visage, les yeux, les sourcils, le nez, les lèvres, la mâchoire, le teint, la coiffure, la couleur des cheveux, les proportions corporelles, l'âge et l'apparence reconnaissable.
+
+Adaptez naturellement À TOUTE PERSONNE, indépendamment du genre, de l'âge, de la coiffure, de la morphologie ou de l'apparence personnelle.
+
+CONCEPT CENTRAL :
+Transformez la personne téléversée en un personnage cinématographique entièrement développé, inspiré par son apparence, sa personnalité et sa présence visuelle.
+
+Concevez automatiquement un concept de personnage unique, une tenue, des accessoires, une coiffure, une palette de couleurs et une identité visuelle qui conviennent au sujet.
+
+DESIGN DU PERSONNAGE :
+Créez un personnage original et visuellement puissant, adapté à une production de film premium de style Hollywood ou Netflix.
+
+Le personnage peut être : UN GUERRIER, UN VILAIN, UN HÉROS, UNE SORCIÈRE, UN PERSONNAGE ROYAL, UN EXPLORATEUR SCIENCE-FICTION, UN ASSASSIN, UN DÉTECTIVE, UN SURVIVANT, UN PERSONNAGE FANTAISISTE OU UNE PERSONNE CINÉMATOGRAPHIQUE MODERNE.
+
+Choisissez la direction de personnage la plus adaptée en fonction de la référence téléversée et du style visuel souhaité.
+
+DISPOSITION DE LA FICHE DE PERSONNAGE :
+
+1. PORTRAIT PRINCIPAL (HERO PORTRAIT) :
+Créez un grand portrait cinématographique dramatique et ultra-réaliste montrant le visage du personnage, sa coiffure, sa tenue et sa personnalité globale.
+
+2. EXPRESSIONS FACIALES :
+Créez une grille professionnelle d'expressions faciales incluant : NEUTRE, SÉRIEUX, INTENSE, DOUX, SOURIRE, EN COLÈRE, TRISTE, MYSTÉRIEUX.
+Maintenez une identité faciale cohérente dans chaque panneau.
+
+3. VUES TOUT AUTOUR / CORPS ENTIER :
+Montrez le personnage en : VUE DE FACE, VUE DE PROFIL, VUE DE DOS, VUE TROIS-QUARTS.
+Maintenez une tenue, des proportions corporelles, des accessoires et une coiffure cohérents sur toutes les vues.
+
+4. VARIATIONS DE PORTRAITS :
+Incluez des gros plans cinématographiques sous différents angles : PORTRAIT DE FACE, PORTRAIT TROIS-QUARTS, PORTRAIT DE PROFIL, PORTRAIT DRAMATIQUE AVEC OMBRES.
+
+5. GROS PLANS SUR LES COSTUMES ET LES DÉTAILS :
+Montrez des gros plans très détaillés de : COIFFE OU COIFFURE, DÉTAILS DU COSTUME, ACCESSOIRES, DÉTAILS DE CEINTURE OU DE TAILLE, DÉTAILS DES GANTS OU DES MAINS, TEXTURE DU TISSU, COLIER OU PROPRIÉTÉ SIGNATURE.
+
+6. PALETTE DE COULEURS :
+Affichez une palette de couleurs professionnelle correspondant au costume du personnage et au thème cinématographique.
+
+7. INFORMATIONS SUR LE PERSONNAGE :
+Incluez une section professionnelle épurée contenant : NOM DU PERSONNAGE, RÔLE, ALIAS, PERSONNALITÉ, STYLE, THÈME, ÉLÉMENT SIGNATURE.
+
+8. CONSTRUCTION D'UNIVERS CINÉMATOGRAPHIQUE :
+Ajoutez un arrière-plan atmosphérique subtil ou une illustration environnementale qui complète l'univers du personnage.
+
+STYLE VISUEL :
+Concept art premium hollywoodien. Photographie ultra-réaliste. Design de costumes haut de gamme. Éclairage cinématographique. Texture naturelle de la peau. Détails réalistes des tissus et des matériaux. Fiche de référence de production de film professionnelle. Mise en page éditoriale élégante. Atmosphère cinématographique subtile. Détails faciaux nets. Rendu photoréaliste.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789883473619_5iildl_HSnCVWybwAAnaFA.jpg" width="600" alt="Prompt pour Fiche de Référence de Personnage Cinématographique">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11053)**
+
+**Auteur:** [M. Asif](https://x.com/meAsifAi) | **Source:** [Link](https://x.com/meAsifAi/status/2101515191158542788) | **Publié:** Sep 20, 2026
+
+---
+### Animation de sauvetage par un dragon lors d'une avalanche de train
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour un court-métrage d'animation cinématographique de 15 secondes mettant en scène un train, une avalanche et un sauvetage par un dragon, créé avec Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Court-métrage d'animation cinématographique de 15 secondes.
+Un train de passagers file à toute vitesse dans une vallée montagneuse enneigée.
+Devant lui, une immense avalanche se déclenche soudainement et commence à dévaler la pente vers les rails.
+Le train freine brusquement.
+Les passagers regardent par les fenêtres alors que la neige et les roches s'abattent sur la montagne dans un fracas assourdissant.
+Soudain, un dragon massif jaillit de la forêt.
+Il atterrit juste à côté des rails et déploie ses immenses ailes.
+L'avalanche frappe.
+Le dragon s'arc-boute contre le sol, protégeant le train des pires débris qui tombent.
+La neige explose autour de lui.
+Le train s'arrête à quelques centimètres seulement de la voie obstruée.
+Dans le premier wagon, une petite fille colle sa main contre la vitre.
+Le dragon épuisé se retourne vers elle.
+Elle sourit.
+Le dragon abaisse doucement une aile avant de disparaître dans la forêt enneigée.
+
+Animation cinématographique stylisée, design de créature sophistiqué, textures picturales, environnements réalistes, action physique dramatique, mouvement de caméra dynamique, forte sensation d'échelle, fin émotionnelle chaleureuse, couleurs naturelles, éclairage cinématographique, sans dialogue, sans pouvoirs magiques, sans horreur, sans violence.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101414099632422912/img/vPUySBkizJaVP6E5.jpg" width="600" alt="Animation de sauvetage par un dragon lors d'une avalanche de train">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11052)**
+
+**Auteur:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2101429374755262628) | **Publié:** Sep 19, 2026
+
+---
 ### Prompt vidéo : Guerrier des Ténèbres sur le Toit sous l'Orage
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5313,60 +5417,6 @@ Créez une vidéo cinématographique de science-fiction ultra-réaliste de 30 se
 **Auteur:** [Elaine Wright](https://x.com/ElaineWrigari1) | **Source:** [Link](https://x.com/ElaineWrigari1/status/2096821611240538456) | **Publié:** Sep 7, 2026
 
 ---
-### Style esthétique de vidéo amateur MiniDV du début des années 2000
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo de 15 secondes avec timecode conçu pour imiter une authentique vidéo amateur MiniDV du début des années 2000, incluant des mouvements de caméra réalistes, des hésitations d'autofocus et des actions physiques.
-
-#### 📝 Prompt
-
-```
-Prompt Seedance de 15 secondes — 5 plans
-
-Style : Vidéo amateur authentique MiniDV du début des années 2000. Jeune femme coréenne, 24 ans, naturellement attirante, longs cheveux bruns, maquillage minimal, gilet crème sur t-shirt blanc, jean bleu ample, baskets blanches. Salon d'appartement chaleureux, lumière chaude de fin d'après-midi. Format 4:3, tremblements caméra à l'épaule, hésitations d'autofocus, grain/compression de bande, exposition naturelle. Maintenir la cohérence de la femme, de la tenue, des cheveux et de l'environnement.
-
-PLAN 1 — 0:00–0:03
-Plan serré caméra à l'épaule alors qu'elle pose la caméra MiniDV sur une petite table, ajuste le cadrage, appuie sur enregistrer, puis sort rapidement du cadre.
-PLAN 2 — 0:03–0:06
-Plan large en vue subjective. Elle se précipite dans le cadre pour se mettre en position, s'arrête au centre et ajuste rapidement ses cheveux.
-
-PLAN 3 — 0:06–0:09
-Elle prend la pose avec un sourire naturel et mignon, penchant la tête et plaçant une main près de son visage. En changeant d'appui, son pied accroche légèrement le tapis.
-PLAN 4 — 0:09–0:12
-Elle trébuche légèrement vers l'avant, se rattrape, se fige un instant, puis reprend immédiatement exactement la même pose, faisant comme si de rien n'était.
-
-PLAN 5 — 0:12–0:15
-Elle maintient la pose, essayant de rester sérieuse, mais finit par éclater d'un petit rire. Elle regarde la caméra avec un sourire embarrassé.
-Fin : Maintenir naturellement son expression de rire avec un léger tremblement MiniDV. Trébuchement réaliste subtil, pas de chute dramatique, pas de rendu cinématographique, pas de ralenti.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096667325953196032/img/a5g7r77sU2NnskNB.jpg" width="600" alt="Style esthétique de vidéo amateur MiniDV du début des années 2000">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10500)**
-
-**Auteur:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2096808174556954911) | **Publié:** Sep 7, 2026
-
----
-### Animation style gouache picturale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt d'animation 2.5D stylisé qui imite la texture et la lumière des peintures conceptuelles à la gouache.
-
-#### 📝 Prompt
-
-```
-Animation 2.5D cinématographique dans le style d'un rendu entièrement pictural, les personnages et les environnements ressemblent à des peintures conceptuelles à la gouache en mouvement, texture de pinceau visible sur la peau, les vêtements et les bâtiments, blocs de couleurs plates et posterisées avec une lumière aux contours nets
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096795599895252992/img/Pu7P2w9YjQAOREfg.jpg" width="600" alt="Animation style gouache picturale">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10447)**
-
-**Auteur:** [PixieVerse](https://x.com/itsPixieVerse) | **Source:** [Link](https://x.com/itsPixieVerse/status/2096801780697030939) | **Publié:** Sep 7, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -5428,6 +5478,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-20T03:53:24.068Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-20T09:24:12.973Z</sub>
 
 </div>

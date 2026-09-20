@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6403** |
+| 📝 Total de prompts | **6405** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-09-20** |
 
@@ -361,6 +361,110 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Prompt para Ficha de Referencia de Personaje Cinematográfico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt integral para crear fichas de referencia de personajes cinematográficos ultra realistas a partir de imágenes subidas utilizando Seedance 2.0 Fast.
+
+#### 📝 Prompt
+
+```
+CREA UNA FICHA DE REFERENCIA DE PERSONAJE CINEMATOGRÁFICO PREMIUM Y ULTRA REALISTA — DISEÑO PROFESIONAL DE PRODUCCIÓN DE CINE.
+
+BLOQUEO DE REFERENCIA:
+Utiliza la imagen de referencia subida como ÚNICA fuente de la identidad del sujeto.
+
+Preserva con máxima precisión la identidad facial exacta, forma del rostro, ojos, cejas, nariz, labios, mandíbula, tono de piel, peinado, color de cabello, proporciones corporales, edad y apariencia reconocible.
+
+Adapta naturalmente a CUALQUIER PERSONA, independientemente de su género, edad, peinado, tipo de cuerpo o apariencia personal.
+
+CONCEPTO CENTRAL:
+Transforma a la persona subida en un personaje cinematográfico completamente desarrollado, inspirado en su apariencia, personalidad y presencia visual.
+
+Diseña automáticamente un concepto de personaje único, atuendo, accesorios, peinado, paleta de colores e identidad visual que se adapte al sujeto.
+
+DISEÑO DEL PERSONAJE:
+Crea un personaje original y visualmente impactante, adecuado para una producción cinematográfica premium estilo Hollywood o Netflix.
+
+El personaje puede ser: GUERRERO, VILLANO, HÉROE, BRUJA, PERSONAJE REAL, EXPLORADOR SCI-FI, ASESINO, DETECTIVE, SUPERVIVIENTE, PERSONAJE DE FANTASÍA O PERSONA CINEMATOGRÁFICA MODERNA.
+
+Elige la dirección de personaje más adecuada basándote en la referencia subida y el estilo visual pretendido.
+
+DISEÑO DE LA FICHA DE PERSONAJE:
+
+1. RETRATO PRINCIPAL (HERO PORTRAIT):
+Crea un retrato cinematográfico grande, dramático y ultra realista que muestre el rostro del personaje, su peinado, atuendo y personalidad general.
+
+2. EXPRESIONES FACIALES:
+Crea una cuadrícula profesional de expresiones faciales que incluya: NEUTRAL, SERIO, INTENSO, SUAVE, SONRISA, ENOJADO, TRISTE, MISTERIOSO.
+Mantén una identidad facial consistente en cada panel.
+
+3. VISTAS DE GIRO / CUERPO COMPLETO (TURNAROUND):
+Muestra al personaje en: VISTA FRONTAL VISTA LATERAL VISTA TRASERA VISTA TRES CUARTOS
+Mantén consistencia en el atuendo, proporciones corporales, accesorios y peinado en todas las vistas.
+
+4. VARIACIONES DE RETRATO:
+Incluye primeros planos cinematográficos desde diferentes ángulos: RETRATO FRONTAL RETRATO TRES CUARTOS RETRATO LATERAL RETRATO CON SOMBRA DRAMÁTICA.
+
+5. PRIMEROS PLANOS DE VESTUARIO Y DETALLES:
+Muestra primeros planos altamente detallados de: TOCADO O PEINADO DETALLES DEL VESTUARIO ACCESORIOS DETALLES DEL CINTURÓN O CINTURA DETALLES DE GUANTES O MANOS TEXTURA DE LA TELA COLLAR O ACCESORIO DISTINTIVO.
+
+6. PALETA DE COLORES:
+Muestra una paleta de colores profesional que coincida con el vestuario del personaje y el tema cinematográfico.
+
+7. INFORMACIÓN DEL PERSONAJE:
+Incluye una sección limpia y profesional que contenga: NOMBRE DEL PERSONAJE ROL ALIAS PERSONALIDAD ESTILO TEMA ELEMENTO DISTINTIVO
+
+8. CREACIÓN DE MUNDO CINEMATOGRÁFICO:
+Añade un fondo atmosférico sutil o ilustración ambiental que complemente el mundo del personaje.
+
+ESTILO VISUAL:
+Arte conceptual premium de Hollywood. Fotografía ultra realista. Diseño de vestuario de alta gama. Iluminación cinematográfica. Textura natural de la piel. Detalles realistas de telas y materiales. Ficha de referencia de producción cinematográfica profesional. Diseño editorial elegante. Atmósfera cinematográfica sutil. Detalles faciales nítidos. Renderizado fotorrealista.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789883473619_5iildl_HSnCVWybwAAnaFA.jpg" width="600" alt="Prompt para Ficha de Referencia de Personaje Cinematográfico">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=11053)**
+
+**Autor:** [M. Asif](https://x.com/meAsifAi) | **Fuente:** [Link](https://x.com/meAsifAi/status/2101515191158542788) | **Publicado:** Sep 20, 2026
+
+---
+### Animación de rescate por dragón en avalancha de tren
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt detallado para un cortometraje animado cinematográfico de 15 segundos que presenta un tren, una avalancha y un rescate con dragón, creado con Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Cortometraje animado cinematográfico de 15 segundos.
+Un tren de pasajeros se precipita a través de un valle montañoso nevado.
+Al frente, una enorme avalancha se desprende repentinamente y comienza a caer estrepitosamente hacia las vías.
+El tren frena bruscamente.
+Los pasajeros miran por las ventanas mientras la nieve y las rocas rugen montaña abajo.
+De repente, un dragón masivo emerge del bosque.
+Aterriza justo al lado de las vías y extiende sus enormes alas.
+La avalancha impacta.
+El dragón se afianza contra el suelo, protegiendo el tren de los peores escombros que caen.
+La nieve explota a su alrededor.
+El tren se detiene a centímetros de la vía bloqueada.
+Dentro del primer vagón, una niña pequeña apoya su mano contra la ventana.
+El dragón exhaustivo mira hacia ella.
+Ella sonríe.
+El dragón baja suavemente un ala antes de desaparecer en el bosque nevado.
+
+Animación cinematográfica estilizada, diseño sofisticado de criaturas, texturas pictóricas, entornos realistas, acción física dramática, movimiento dinámico de cámara, fuerte sentido de escala, final emocional cálido, colores naturales, iluminación cinematográfica, sin diálogo, sin poderes mágicos, sin terror, sin violencia.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101414099632422912/img/vPUySBkizJaVP6E5.jpg" width="600" alt="Animación de rescate por dragón en avalancha de tren">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=11052)**
+
+**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fuente:** [Link](https://x.com/AllaAisling/status/2101429374755262628) | **Publicado:** Sep 19, 2026
+
+---
 ### Prompt de Video: Guerrero Oscuro en la Tormenta sobre el Tejado
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5355,60 +5459,6 @@ Crea un video de evolución de ciencia ficción cinematográfica ultra realista 
 **Autor:** [Elaine Wright](https://x.com/ElaineWrigari1) | **Fuente:** [Link](https://x.com/ElaineWrigari1/status/2096821611240538456) | **Publicado:** Sep 7, 2026
 
 ---
-### Estilo estético de video casero MiniDV de principios de los 2000
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video de 15 segundos con código de tiempo diseñado para imitar un auténtico video casero MiniDV de principios de los 2000, que incluye movimientos de cámara realistas, búsqueda de enfoque automático y acciones físicas.
-
-#### 📝 Prompt
-
-```
-Prompt de Seedance de 15 segundos — 5 tomas
-
-Estilo: Auténtico video casero MiniDV de principios de los 2000. Mujer coreana joven, de 24 años, naturalmente atractiva, cabello oscuro largo, maquillaje mínimo, cárdigan color crema sobre camiseta blanca, jeans azules holgados, zapatillas blancas. Sala de estar de un apartamento acogedor, luz cálida de final de tarde. 4:3, movimiento de cámara en mano, búsqueda de enfoque automático, grano/compresión de cinta, exposición natural. Mantener la consistencia de la mujer, el atuendo, el cabello y el entorno.
-
-TOMA 1 — 0:00–0:03
-Primer plano con cámara en mano mientras ella coloca la cámara MiniDV sobre una mesa pequeña, ajusta el encuadre, presiona grabar y luego sale rápidamente del encuadre.
-TOMA 2 — 0:03–0:06
-Plano general desde el punto de vista de la cámara. Ella entra apresuradamente en el encuadre para ponerse en posición, se detiene en el centro y se arregla el cabello rápidamente.
-
-TOMA 3 — 0:06–0:09
-Ella posa con una sonrisa natural y linda, inclinando la cabeza y colocando una mano cerca de su rostro. Mientras cambia su peso, su pie se engancha ligeramente en la alfombra.
-TOMA 4 — 0:09–0:12
-Ella tropieza ligeramente hacia adelante, se sostiene, se congela por un momento y luego regresa inmediatamente a la misma pose, fingiendo que no pasó nada.
-
-TOMA 5 — 0:12–0:15
-Mantiene la pose, tratando de permanecer seria, pero estalla en una pequeña risa. Mira a la cámara con una sonrisa avergonzada.
-Final: Mantener naturalmente su expresión de risa con un ligero movimiento de cámara MiniDV. Tropiezo realista sutil, sin caídas dramáticas, sin pulido cinematográfico, sin cámara lenta.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096667325953196032/img/a5g7r77sU2NnskNB.jpg" width="600" alt="Estilo estético de video casero MiniDV de principios de los 2000">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=10500)**
-
-**Autor:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Fuente:** [Link](https://x.com/iamahmedfaraz66/status/2096808174556954911) | **Publicado:** Sep 7, 2026
-
----
-### Animación con estilo de gouache pictórico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de animación 2.5D estilizada que imita la textura y la luz de las pinturas de arte conceptual en gouache.
-
-#### 📝 Prompt
-
-```
-Animación cinematográfica 2.5D con un estilo de renderizado totalmente pictórico; los personajes y entornos parecen pinturas de arte conceptual en gouache en movimiento, con texturas de pincel visibles en la piel, la ropa y los edificios, bloques de color planos y posterizados con iluminación de bordes definidos
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096795599895252992/img/Pu7P2w9YjQAOREfg.jpg" width="600" alt="Animación con estilo de gouache pictórico">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=10447)**
-
-**Autor:** [PixieVerse](https://x.com/itsPixieVerse) | **Fuente:** [Link](https://x.com/itsPixieVerse/status/2096801780697030939) | **Publicado:** Sep 7, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -5470,6 +5520,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-20T03:53:19.372Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-20T09:24:08.411Z</sub>
 
 </div>
