@@ -68,7 +68,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6405** |
+| 📝 Total des prompts | **6408** |
 | ⭐ Prompts en vedette | **6** |
 | 🔄 Dernière mise à jour | **2026-09-21** |
 
@@ -361,6 +361,71 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Scène de performance mode cinématographique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de haute qualité pour générer une vidéo de performance mode cinématographique ultra-réaliste mettant en scène une femme confiante et des danseurs dans un décor nocturne.
+
+#### 📝 Prompt
+
+```
+Scène de performance mode cinématographique ultra-réaliste, une belle jeune femme aux longs cheveux noirs se tenant avec assurance au centre, portant un top corset blanc élégant sans bretelles, un jean ajusté taille haute foncé, des colliers argentés superposés et des boucles d'oreilles créoles. Plusieurs danseuses stylées l'entourent, vêtues de tenues en cuir noir, dans des poses de danse synchronisées. Décor nocturne dramatique avec des voitures et des phares lumineux derrière elles, ambiance industrielle sombre, contre-jour chaud, brume subtile, ombres réalistes, composition dynamique, expression puissante et confiante, esthétique professionnelle de clip musical, détails photoréalistes de la peau et des tissus, faible profondeur de champ, éclairage cinématographique, contraste élevé, 8K, HDR, objectif 85 mm, composition verticale 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101890134324965376/img/6EDeEE39ubzVBvhK.jpg" width="600" alt="Scène de performance mode cinématographique">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11072)**
+
+**Auteur:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2101890198703354285) | **Publié:** Sep 21, 2026
+
+---
+### Prompt vidéo : Jeune fille coréenne espiègle au parc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour la génération de vidéos avec Seedance 2.0, créant une séquence cinématographique d'une jeune femme dans un parc, mettant en scène des transitions entre le toboggan, la balançoire et l'endormissement dans un chariot.
+
+#### 📝 Prompt
+
+```
+Créez une vidéo d'une belle jeune fille coréenne vivant une journée espiègle et onirique dans un parc extérieur coloré.
+Elle porte une chemise blanche décontractée, un jean foncé, des baskets et arbore un sac à bandoulière élégant à motif léopard.
+Montrez-la se détendant et s'allongeant de manière ludique sur un toboggan jaune vif.
+Puis, transitionnez vers elle assise calmement sur une balançoire, l'air légèrement fatiguée et perdue dans ses pensées.
+Plus tard, elle est assise au bord du parc portant un chapeau cône orange amusant, créant un moment cinématographique original.
+Montrez-la reposant paisiblement sur des marches en béton sous une lumière naturelle douce et une atmosphère calme.
+Terminez par une scène où elle dort confortablement dans un chariot rempli de ballons de basket, créant une situation inattendue et humoristique.
+Utilisez des expressions faciales réalistes, des mouvements corporels naturels, des mouvements de caméra cinématographiques, des couleurs douces et des détails photoréalistes.
+Gardez l'identité et l'apparence de la jeune fille coréenne cohérentes tout au long de la vidéo, avec des transitions fluides et un style narratif cinématographique ludique.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101889348534956032/img/I07P989JdZB8i-lk.jpg" width="600" alt="Prompt vidéo : Jeune fille coréenne espiègle au parc">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11071)**
+
+**Auteur:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2101889590621536594) | **Publié:** Sep 21, 2026
+
+---
+### Prompt Vidéo Publicitaire Soins de Luxe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour créer une publicité vidéo de 15 secondes ultra-réaliste pour des soins de luxe, mettant en scène un pot de produit dans un environnement aquatique avec des transitions cinématographiques.
+
+#### 📝 Prompt
+
+```
+Créez une publicité vidéo de 15 secondes ultra-réaliste pour des soins de luxe, mettant en scène un élégant pot en verre étiqueté « AQUA LUXE – DEEP HYDRATION » dans un environnement bleu froid et rafraîchissant. Commencez par un fond atmosphérique bleu doux où de légers rayons lumineux et de subtiles particules d'eau créent une ambiance premium et épurée. Révélez lentement le pot de soin posé sur une surface d'eau brillante, avec des reflets réalistes et une profondeur de champ cinématographique. Approchez progressivement la caméra tandis que des reflets doux glissent sur le couvercle argenté métallique et l'emballage en verre. Entourez le pot de vagues onctueuses et soyeuses rappelant la crème blanche, qui s'écoulent gracieusement autour de lui, créant une texture luxueuse de soin. Ajoutez des gouttes d'eau flottantes et de minuscules bulles se déplaçant naturellement dans la scène avec une physique réaliste. Passez à un éclaboussement dramatique d'une eau cristalline enveloppant le produit tout en gardant le pot parfaitement net et centré. Introduisez des fleurs blanches délicates et des feuilles vertes fraîches autour de l'éclaboussement pour une atmosphère inspirée par l'hydratation fraîche. Terminez par une belle prise héroïque du pot AQUA LUXE DEEP HYDRATION centré sur le fond bleu, entouré de gouttes d'eau, de fleurs et d'une lumière douce et lumineuse, avec un éclairage cinématographique premium et une mise au point parfaite sur le produit.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101887426138681344/img/DRaV306w9sxwKjTb.jpg" width="600" alt="Prompt Vidéo Publicitaire Soins de Luxe">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11073)**
+
+**Auteur:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2101887507059351894) | **Publié:** Sep 21, 2026
+
+---
 ### Prompt pour Fiche de Référence de Personnage Cinématographique
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -423,7 +488,7 @@ STYLE VISUEL :
 Concept art premium hollywoodien. Photographie ultra-réaliste. Design de costumes haut de gamme. Éclairage cinématographique. Texture naturelle de la peau. Détails réalistes des tissus et des matériaux. Fiche de référence de production de film professionnelle. Mise en page éditoriale élégante. Atmosphère cinématographique subtile. Détails faciaux nets. Rendu photoréaliste.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1789883473619_5iildl_HSnCVWybwAAnaFA.jpg" width="600" alt="Prompt pour Fiche de Référence de Personnage Cinématographique">
+<img src="https://cms-assets.youmind.com/media/1789970152422_3vld7y_HSnCVWybwAAnaFA.jpg" width="600" alt="Prompt pour Fiche de Référence de Personnage Cinématographique">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11053)**
 
@@ -5314,109 +5379,6 @@ Toujours dans le même plan ininterrompu, elle [REF] sourit largement et revient
 **Auteur:** [I’m Bobo | Commission OPEN](https://x.com/imtheboboo) | **Source:** [Link](https://x.com/imtheboboo/status/2096961730282918046) | **Publié:** Sep 7, 2026
 
 ---
-### Prompt de documentaire animalier réaliste
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de documentaire animalier cinématographique pour Seedance 2.0 mettant en scène une loutre de mer et son petit dans une forêt de varech, dans le style de BBC Planet Earth.
-
-#### 📝 Prompt
-
-```
-30 secondes, 16:9, style documentaire animalier BBC Planet Earth, cinématographie animalière ultra-réaliste 8K. Les rayons du soleil matinal percent la brume au-dessus d'une crique de varech calme dans le Pacifique. Une mère loutre de mer flotte paisiblement sur le dos dans une eau émeraude, enveloppée dans des feuilles de varech, tandis que son minuscule petit duveteux de 2 semaines dort en toute sécurité sur sa poitrine. Optique téléobjectif naturelle, objectif 200 mm, faible profondeur de champ, reflets cristallins sur l'eau.
-
-0:00-0:06 : Plan de suivi au téléobjectif au ras de l'eau. La lumière du soleil capte les gouttelettes sur la fourrure sombre et humide de la mère alors qu'elle lèche doucement la tête de son petit. Le petit étire ses minuscules pattes et pousse un léger couinement.
-
-NARRATION (voix off documentaire chaleureuse et douce) : « Ici, dans l'abri paisible de la forêt de varech, la matinée commence par l'étreinte d'une mère. »
-
-0:06-0:12 : Gros plan sur le petit qui bâille, sa langue rose visible, ébouriffant son pelage dense de couleur crème sur sa poitrine avec ses petites pattes. La mère utilise ses pattes pour les ancrer à une fronde de varech dorée.
-
-NARRATION : « Pour ce petit âgé de deux semaines, la poitrine de sa mère est l'île la plus sûre du vaste océan. »
-
-0:12-0:18 : Orbite flottante douce à 90 degrés autour des loutres. Des caustiques de lumière dorée dansent sur l'eau émeraude claire en dessous d'elles. Une légère houle les soulève doucement.
-
-NARRATION : « Ensemble, enveloppées dans le varech vivant, elles se laissent porter par le rythme doux de la mer. »
-
-0:18-0:24 : Plan macro serré sur le petit qui se frotte contre la joue de sa mère. La mère enroule ses deux pattes avant autour de son petit, fermant les yeux dans un contentement serein.
-
-NARRATION : « Un lien forgé dans la chaleur, la dérive et une dévotion tranquille. »
-
-0:24-0:30 : Mouvement de grue lent vers le haut révélant toute la crique de varech ensoleillée, des falaises couvertes de pins au loin dans une brume matinale douce, le couple de loutres devenant un point focal confortable au centre du cadre.
-
-NARRATION : « Un autre jour paisible se lève dans le royaume du varech. »
-
-SON : Clapotis doux de l'océan, éclaboussures légères, petit couinement de loutron, respiration de la mère, bruissement du varech, narration documentaire britannique chaleureuse.
-
-VERROUILLAGES : Physique naturelle de la fourrure, dynamique de l'eau réaliste, aucun objet humain, horizon stable, étalonnage professionnel des couleurs animalières.
-
-NÉGATIF : Pas de légendes, texte, logos, filigrane, musique de fond, yeux de dessin animé, saturation des couleurs exagérée, animaux supplémentaires.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096952765604139008/img/NxhT1JxHWBsJQUi-.jpg" width="600" alt="Prompt de documentaire animalier réaliste">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10499)**
-
-**Auteur:** [Arijiit Das](https://x.com/arijiitdas) | **Source:** [Link](https://x.com/arijiitdas/status/2096953083947528327) | **Publié:** Sep 7, 2026
-
----
-### Vlog de gym style caméscope DV
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un script de vlog de gym de 30 secondes avec plusieurs coupes, mettant en scène une idole coréenne à l'entraînement, avec l'esthétique des caméscopes DV portatifs du début des années 2000.
-
-#### 📝 Prompt
-
-```
-Vlog de gym 30s — 9 coupes
-
-CAMÉRA/LOOK : Caméscope DV 16mm, POV à la main par CHASE ou posé sur des équipements de gym pour les exercices. Cadrage instable, mise au point retardée, zooms maladroits, visages parfois coupés. Texture de bande douce et floue, léger bruit, lumières de gym diffuses, exposition vacillante, contraste atténué, peau réaliste.
-
-STYLE : Énergie de vlog de gym authentique, dynamique et concentrée. CHASE parle de ses progrès entre les séries, montrant un effort sincère et de petites victoires.
-
-CHASE : Idole coréenne dans la vingtaine, longue queue de cheval noire, yeux expressifs, silhouette athlétique fine, légère transpiration. Haut de sport à manches longues modeste, jogging/legging, baskets, serviette autour du cou, pas de bijoux.
-
-LIEU : Salle de sport en soirée avec développé couché, machine à développé épaules, station de dips, miroirs, bouteille d'eau, éclairage zénithal doux.
-
-STORYBOARD :
-
-1. Installation développé couché (~3s) : Plan moyen posé. Elle ajuste sa prise et regarde la caméra. « Ok, séance poussée — on commence par le développé couché. »
-2. Répétitions développé couché (~3,5s) : Angle latéral, répétitions contrôlées, repose la barre. « Ça en fait dix — honnêtement, je me sens plus forte que la semaine dernière. »
-3. Marche (~2,5s) : Caméra à la main alors qu'elle attrape sa serviette/eau et se dirige vers le développé épaules. « Très bien, les épaules maintenant. »
-4. Développé épaules (~3,5s) : Ajuste le siège, effectue sa série, concentrée. « Ok, celui-ci est toujours difficile pour moi. »
-5. Insert prise (~2,5s) : Gros plan macro des mains saisissant les poignées, sueur sous la lumière. Audio ambiant de la salle uniquement.
-6. Récupération (~3s) : À la main. Secoue ses bras, vérifie sa posture dans le miroir. « Je le sens déjà, c'est sûr. »
-7. Dips (~3,5s) : Plan posé. Dips triceps contrôlés. « Ok, dips triceps — le dernier pour aujourd'hui. »
-8. Fin (~3s) : Plan serré à la main. Recule, légèrement essoufflée mais satisfaite. « C'est une bonne séance, je pense. »
-9. Outro selfie (~3,5s) : Selfie à bout de bras, s'essuie le visage, sourire fatigué. « Séance poussée terminée — on se voit bientôt pour la séance tirage ! »
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096941104356872193/img/RP03g4hrqUT1tEJM.jpg" width="600" alt="Vlog de gym style caméscope DV">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10502)**
-
-**Auteur:** [WasifAI](https://x.com/doctorwasif) | **Source:** [Link](https://x.com/doctorwasif/status/2096941153753108549) | **Publié:** Sep 7, 2026
-
----
-### Séquence de combat fantastique sur un toit style anime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une séquence de combat fantastique détaillée inspirée des anime, se déroulant sur le toit gelé d'une université en pleine nuit.
-
-#### 📝 Prompt
-
-```
-Créez une vidéo cinématographique de science-fiction ultra-réaliste de 30 secondes, format 16:9, avec des effets visuels de niveau hollywoodien. Créez une séquence fantastique d'action intense de 30 secondes inspirée des anime en format 16:9, qualité visuelle 8K, mouvement fluide à 60 fps et chorégraphie de combat cinématographique de premier ordre. Placez toute la séquence sur le toit gelé d'une académie de combat universitaire moderne, de nuit. Le toit est entouré de barrières de sécurité en métal, de structures de ventilation, d'entrées d'escaliers en béton, de flaques gelées, de tuyaux couverts de neige et de grands réservoirs d'eau. Au-delà du toit, une vaste ville coréenne brille avec des enseignes au néon lointaines, une circulation dense, des fenêtres de gratte-ciel et un clair de lune bleu froid. Une neige légère tombe sur la scène tandis qu'un vent d'hiver violent fait bouger les vêtements, les cheveux et les particules de glace. PERSONNAGE PRINCIPAL : Une étudiante coréenne de 21 ans, confiante, issue d'une académie de combat, avec une apparence à la fois inspirée des anime et photoréaliste. Elle a un visage ovale fin, une peau naturellement claire avec une texture réaliste, des yeux violet-gris perçants et de courts cheveux pastel-violet coupés juste sous les oreilles avec une frange douce et irrégulière. Elle porte tout au long de la séquence le même blazer d'académie gris ajusté, une chemise blanche, un nœud bleu foncé, une jupe plissée anthracite sur un short de sécurité noir ajusté, des collants thermiques noirs et des bottines sombres. Une sucette rouge à la cerise reste tenue négligemment au coin de sa bouche. Son expression reste calme, légèrement ennuyée et naturellement confiante, même lors des attaques les plus dangereuses. Préservez son visage, sa coiffure, sa tenue, ses proportions, sa sucette et le design de ses pouvoirs de glace à chaque plan. ADVERSAIRES : Quatre attaquants masqués adultes portant des vêtements tactiques d'hiver noirs assortis, des gilets pare-balles légers, des gants isolants et des masques sombres sans traits distinctifs. Ils portent des bâtons télescopiques et des lames d'entraînement émoussées. Gardez les quatre attaquants identifiables grâce à de petites marques d'épaule colorées : rouge, blanc, jaune et vert. Leurs attaques doivent paraître rapides et menaçantes, mais l'héroïne les neutralise sans blessure grave. ACCROCHE D'OUVERTURE : Commencez par un très gros plan sur la botte noire de l'héroïne marchant dans une flaque d'eau peu profonde sur le toit. Le givre se propage instantanément sous sa semelle en motifs délicats. La caméra s'incline vers le haut alors qu'elle se tient seule près du bord du toit, une main dans la poche de son blazer et la sucette entre les lèvres. Le vent soulève ses cheveux pastel-violet tandis que le paysage urbain sombre brille loin en contrebas. Dans le reflet de la flaque fraîchement gelée, révélez quatre attaquants masqués s'approchant derrière elle. L'attaquant avec la marque d'épaule rouge s'élance et fait tournoyer son bâton vers sa tête. Utilisez un suivi latéral rapide alors qu'elle se penche calmement en arrière sous l'arme sans retirer sa main de sa poche. Le bâton passe à seulement quelques centimètres de son visage. Elle tapote légèrement le toit avec la pointe de sa botte, provoquant l'élévation d'une étroite crête de glace sous le pied avant de l'attaquant. Il perd l'équilibre et glisse devant elle sur la surface gelée. L'attaquant marqué de blanc lance plusieurs petites lames d'entraînement en métal. Suivez les lames rapidement dans les airs vers elle. Elle lève deux doigts et l'eau monte d'un canal de drainage du toit en plusieurs flux torsadés. Les flux gèlent instantanément en plein air, piégeant chaque lame à l'intérieur d'un mur de glace incurvé et transparent. Faites pivoter la caméra autour de la formation suspendue alors que le clair de lune se réfracte à travers la glace et projette des motifs bleu pâle sur son visage calme. Elle croque la sucette et fait claquer ses doigts sur le côté. Le mur de glace se fragmente en des centaines de paillettes inoffensives tandis que les lames d'entraînement piégées tombent sans danger sur le toit. Les fragments restent suspendus autour d'elle pendant un moment dramatique avant d'être projetés vers les attaquants comme une tempête de neige contrôlée. Les particules frappent leur armure et les forcent à reculer sans percer leur corps. L'attaquant marqué de jaune saute du toit de la cage d'escalier avec son bâton levé au-dessus de sa tête. Utilisez une caméra en contre-plongée placée près de l'héroïne alors que sa silhouette traverse la lune. Elle se tourne avec fluidité et dessine un mouvement circulaire d'une main. Un épais ruban d'eau gelée s'élève en spirale autour de son bâton, le verrouille en place et redirige son élan. Il tourne sans danger dans les airs et atterrit sur un banc de neige fraîchement formée près d'une unité de ventilation. L'attaquant marqué de vert charge depuis son angle mort. Elle retire la sucette de sa bouche pour la première fois, expire un petit nuage de vapeur froide et touche la sucette contre la rambarde métallique à côté d'elle. Le givre court le long de la rambarde et forme une piste de glace incurvée sur le toit. Elle monte dessus et glisse vers l'arrière avec un équilibre sans effort tandis que l'attaquant frappe à plusieurs reprises et rate sa cible. Utilisez un plan de suivi rapide à côté d'eux alors qu'elle glisse sur la piste de glace, se penche sous un coup, pivote autour d'un autre et attrape le poignet de l'attaquant d'une main. Elle le redirige vers les autres attaquants qui se remettent. Tous les quatre entrent en collision mais restent physiquement indemnes. Les attaquants l'encerclent pour une charge finale coordonnée. Passez à une vue plongeante large alors qu'ils s'élancent des quatre directions. Elle s'accroupit et presse sa paume à plat contre le toit. Une impulsion circulaire de givre bleu-blanc explose sur le béton. De hautes structures de glace incurvées s'élèvent autour d'elle comme les pétales d'une fleur gelée. Chaque pétale de glace bloque un attaquant et piège ses bottes solidement sur le toit tout en laissant son haut du corps indemne. Créez un bref moment de silence. Montrez l'héroïne debout au centre de l'énorme fleur de glace translucide alors que la neige et les cristaux de glace brisés dérivent autour d'elle. Les lumières de la ville scintillent à travers les structures gelées. Elle remet la sucette dans sa bouche, ajuste son nœud bleu et regarde les attaquants immobilisés avec une expression détendue, presque enjouée. Pour le dénouement final, un attaquant libère secrètement sa botte et tente une dernière frappe par derrière. Sans se retourner, elle claque des doigts. Un petit glaçon tombe d'un tuyau suspendu et frappe le toit juste devant sa botte, le surprenant et le faisant tomber en arrière dans un tas de neige molle. Elle esquisse un petit sourire satisfait et se dirige vers l'entrée de l'escalier tandis que la fleur de glace géante commence à libérer du givre étincelant dans l'air nocturne. STYLE DE CAMÉRA : Utilisez des mouvements de caméra cinématographiques énergiques mais contrôlés, un suivi en contre-plongée, des mouvements latéraux rapides, des plans de réaction en gros plan, un plan orbital fluide autour des lames gelées et une vue plongeante large pour la formation de glace finale. Gardez chaque attaque facile à suivre. Utilisez un élan réaliste, un placement précis des pieds, des impacts crédibles, un équilibre corporel naturel et des transitions fluides entre les temps de la chorégraphie. Évitez les rotations de caméra aléatoires et les secousses excessives. ÉCLAIRAGE ET EFFETS VISUELS : Combinez le clair de lune froid, les lampes de sécurité du toit, les feux rouges d'avertissement aérien et la lueur chaude de la ville en contrebas. Les pouvoirs de glace produisent un éclairage bleu-blanc sobre qui interagit naturellement avec les visages, les vêtements, le béton et les objets environnants. La glace doit avoir une transparence réaliste, des fissures internes, du givre, de la réfraction, de la condensation, du poids et une physique de fragmentation. Montrez un déplacement de neige détaillé, un mouvement d'eau gelée, de la vapeur de souffle et des particules étincelantes sans donner à la scène l'aspect d'un jeu vidéo. AUDIO : Utilisez un vent d'hiver fort, la circulation urbaine lointaine, le raclement des bottes sur la glace, les mouvements rapides des bâtons, l'eau s'écoulant des canalisations, des craquements de gel profonds, des impacts de glace nets, des sons de fragmentation contrôlés, le mouvement des vêtements et le clic discret de la sucette contre ses dents. Ajoutez une bande originale électronique-orchestrale tendue qui monte pendant l'attaque coordonnée et devient soudainement silencieuse lors de la révélation finale de la fleur gelée. Pas de dialogue parlé. CONTINUITÉ : Préservez l'identité de l'héroïne, sa coiffure pastel-violet, son blazer gris, son nœud bleu, sa sucette, l'état de ses vêtements et sa personnalité calme tout au long. Maintenez tous les quatre
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096821250534563840/img/OEWuape71bf4uSSz.jpg" width="600" alt="Séquence de combat fantastique sur un toit style anime">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10445)**
-
-**Auteur:** [Elaine Wright](https://x.com/ElaineWrigari1) | **Source:** [Link](https://x.com/ElaineWrigari1/status/2096821611240538456) | **Publié:** Sep 7, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -5478,6 +5440,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-21T03:50:06.073Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-21T09:57:00.577Z</sub>
 
 </div>

@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6405** |
+| 📝 Total de prompts | **6408** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-09-21** |
 
@@ -361,6 +361,71 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Cena de Performance de Moda Cinematográfica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de alta qualidade para gerar um vídeo cinematográfico ultra-realista de performance de moda, apresentando uma mulher confiante e dançarinas em um cenário noturno.
+
+#### 📝 Prompt
+
+```
+Cena de performance de moda cinematográfica ultra-realista, uma jovem bonita com longos cabelos pretos e escuros, posicionada confiantemente no centro, vestindo um top corset branco elegante sem alças, jeans escuros de cintura alta ajustados, colares prateados sobrepostos e brincos de argola. Várias dançarinas estilosas a cercam, vestidas com roupas de couro preto, em poses de dança sincronizadas. Cenário noturno dramático com carros e faróis brilhantes ao fundo, atmosfera industrial sombria, iluminação traseira quente, névoa sutil, sombras realistas, composição dinâmica, expressão poderosa e confiante, estética profissional de videoclipe, detalhes fotorealistas da pele e do tecido, profundidade de campo rasa, iluminação cinematográfica, alto contraste, 8K, HDR, lente de 85mm, composição vertical 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101890134324965376/img/6EDeEE39ubzVBvhK.jpg" width="600" alt="Cena de Performance de Moda Cinematográfica">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11072)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2101890198703354285) | **Publicado:** Sep 21, 2026
+
+---
+### Prompt de Vídeo: Garota Coreana Divertida no Playground
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para geração de vídeo com Seedance 2.0, criando uma sequência cinematográfica de uma jovem em um playground, com transições do escorregador para o balanço e finalmente dormindo em um carrinho de compras.
+
+#### 📝 Prompt
+
+```
+Criei um vídeo de uma linda garota coreana tendo um dia divertido e sonhador em um playground colorido ao ar livre.
+Ela veste uma camisa branca casual, jeans escuros, tênis e carrega uma bolsa estilosa de ombro com estampa de onça.
+Mostre-a relaxando e brincando deitada em um escorregador amarelo vibrante.
+Em seguida, faça a transição para ela sentada quieta em um balanço, parecendo levemente cansada e perdida em pensamentos.
+Depois, mostre-a sentada na borda do playground usando um chapéu engraçado em forma de cone laranja, criando um momento cinematográfico peculiar.
+Exiba-a descansando pacificamente em degraus de concreto com luz natural suave e uma atmosfera calma.
+Termine com ela dormindo confortavelmente dentro de um carrinho de compras cheio de bolas de basquete, criando uma cena inesperada e divertida.
+Use expressões faciais realistas, movimentos corporais naturais, movimento de câmera cinematográfico, cores suaves e detalhes fotorrealistas.
+Mantenha a identidade e a aparência da garota coreana consistentes durante todo o vídeo, com transições suaves e um estilo narrativo cinematográfico e divertido.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101889348534956032/img/I07P989JdZB8i-lk.jpg" width="600" alt="Prompt de Vídeo: Garota Coreana Divertida no Playground">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11071)**
+
+**Autor:** [liana](https://x.com/Lianaalane) | **Fonte:** [Link](https://x.com/Lianaalane/status/2101889590621536594) | **Publicado:** Sep 21, 2026
+
+---
+### Prompt de Vídeo Comercial para Skincare de Luxo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para criar um comercial de skincare de luxo ultra-realista de 15 segundos, apresentando um pote de produto em um ambiente temático aquático com transições cinematográficas.
+
+#### 📝 Prompt
+
+```
+Crie um comercial de skincare de luxo ultra-realista de 15 segundos, destacando um elegante pote de vidro rotulado “AQUA LUXE – DEEP HYDRATION” em um ambiente azul fresco e revigorante. Comece com um fundo atmosférico azul suave, onde raios de luz delicados e partículas sutis de água criam uma atmosfera premium e limpa. Revele lentamente o pote de skincare posicionado sobre uma superfície de água brilhante, com reflexos realistas e profundidade de campo cinematográfica. Mova a câmera gradualmente mais perto enquanto destaques suaves deslizam pela tampa prateada metálica e pela embalagem de vidro. Cerque o pote com ondas lisas e sedosas de creme branco fluindo graciosamente ao seu redor, criando uma textura luxuosa de skincare. Adicione gotas de água flutuantes e pequenas bolhas movendo-se naturalmente pela cena com física realista. Faça uma transição para um respalo dramático de água cristalina envolvendo o produto, mantendo o pote perfeitamente nítido e centralizado. Introduza flores brancas delicadas e folhas verdes frescas ao redor do respalo para uma atmosfera inspirada na hidratação fresca. Termine com uma bela tomada heroica do pote AQUA LUXE DEEP HYDRATION centralizado contra o fundo azul, cercado por gotas de água, flores e luz suave brilhante, com iluminação cinematográfica premium e foco impecável no produto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101887426138681344/img/DRaV306w9sxwKjTb.jpg" width="600" alt="Prompt de Vídeo Comercial para Skincare de Luxo">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11073)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2101887507059351894) | **Publicado:** Sep 21, 2026
+
+---
 ### Prompt para Ficha de Referência Cinematográfica de Personagem
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -423,7 +488,7 @@ ESTILO VISUAL:
 Arte conceitual premium de Hollywood. Fotografia ultra-realista. Design de traje de alto nível. Iluminação cinematográfica. Textura natural da pele. Detalhes realistas de tecido e materiais. Ficha de referência profissional de produção cinematográfica. Layout editorial elegante. Atmosfera cinematográfica sutil. Detalhes faciais nítidos. Renderização fotorrealista.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1789883473619_5iildl_HSnCVWybwAAnaFA.jpg" width="600" alt="Prompt para Ficha de Referência Cinematográfica de Personagem">
+<img src="https://cms-assets.youmind.com/media/1789970152422_3vld7y_HSnCVWybwAAnaFA.jpg" width="600" alt="Prompt para Ficha de Referência Cinematográfica de Personagem">
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11053)**
 
@@ -5352,109 +5417,6 @@ Ainda na mesma tomada ininterrupta, ela [REF] sorri abertamente e corre em dire�
 **Autor:** [I’m Bobo | Commission OPEN](https://x.com/imtheboboo) | **Fonte:** [Link](https://x.com/imtheboboo/status/2096961730282918046) | **Publicado:** Sep 7, 2026
 
 ---
-### Prompt para Documentário de Natureza e Vida Selvagem Realista
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico de documentário de natureza para o Seedance 2.0, apresentando uma lontra-marinha mãe e seu filhote em uma enseada de algas, no estilo de BBC Planet Earth.
-
-#### 📝 Prompt
-
-```
-30 segundos, 16:9, estilo de documentário de natureza BBC Planet Earth, cinematografia de vida selvagem ultra-realista em 8K. Raios de sol matinais atravessam a névoa acima de uma enseada calma de algas no Pacífico. Uma lontra-marinha mãe flutua pacificamente de costas em águas cor de esmeralda, envolta em folhas de algas, enquanto seu filhote minúsculo e fofo de 2 semanas dorme em segurança sobre seu peito. Óptica teleobjetiva natural, lente de 200mm, profundidade de campo rasa, brilho cristalino na água.
-
-0:00-0:06: Tomada de acompanhamento em teleobjetiva ao nível da água. A luz do sol reflete nas gotas sobre a pelagem escura e molhada da mãe enquanto ela lambe suavemente a cabeça do filhote. O filhote estica suas patinhas e solta um guincho suave.
-
-NARRAÇÃO (voz de documentário calorosa e gentil): "Aqui, no abrigo silencioso da floresta de algas, a manhã começa com o abraço de uma mãe."
-
-0:06-0:12: Close-up no filhote bocejando, sua língua rosa visível, afofando sua densa pelagem cor de creme no peito com as patinhas. A mãe usa suas patas para ancorá-los a uma folha de alga dourada.
-
-NARRAÇÃO: "Para este filhote de duas semanas, o peito de sua mãe é a ilha mais segura no vasto oceano."
-
-0:12-0:18: Órbita suave de 90 graus ao redor das lontras. Cáusticas de luz dourada dançam através da água esmeralda clara abaixo delas. Uma ondulação suave as levanta delicadamente.
-
-NARRAÇÃO: "Juntas, envoltas em algas vivas, elas seguem o ritmo suave do mar."
-
-0:18-0:24: Close macro no filhote esfregando o focinho na bochecha da mãe. A mãe envolve seu filhote com ambas as patas dianteiras, fechando os olhos em contentamento sereno.
-
-NARRAÇÃO: "Um vínculo forjado em calor, deriva e devoção silenciosa."
-
-0:24-0:30: Movimento lento de grua para cima, revelando a enseada de algas iluminada pelo sol, falésias cobertas de pinheiros distantes sob uma névoa matinal suave, com o par de lontras reduzido a um ponto focal aconchegante no centro do quadro.
-
-NARRAÇÃO: "Mais um dia de paz amanhece no reino das algas."
-
-SOM: Som suave do oceano, respingo gentil, guincho minúsculo de filhote de lontra, respiração da mãe, farfalhar de algas, narração calorosa de documentário britânico.
-
-TRAVAS: Física natural da pelagem, dinâmica realista da água, sem objetos humanos, horizonte estável, correção de cor profissional para vida selvagem.
-
-NEGATIVO: Sem legendas, texto, logotipos, marca d'água, música de fundo, olhos de desenho animado, saturação de cor exagerada, animais extras.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096952765604139008/img/NxhT1JxHWBsJQUi-.jpg" width="600" alt="Prompt para Documentário de Natureza e Vida Selvagem Realista">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10499)**
-
-**Autor:** [Arijiit Das](https://x.com/arijiitdas) | **Fonte:** [Link](https://x.com/arijiitdas/status/2096953083947528327) | **Publicado:** Sep 7, 2026
-
----
-### Vlog de Academia com Câmera DV
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um roteiro de vlog de academia de 30 segundos com múltiplos cortes, apresentando uma idol coreana se exercitando, com a estética de câmera de vídeo DV portátil do início dos anos 2000.
-
-#### 📝 Prompt
-
-```
-Vlog de Academia de 30s — 9 Cortes
-
-CÂMERA/VISUAL: Câmera de fita DV 16mm, POV portátil por CHASE ou apoiada em equipamentos de academia para os levantamentos. Enquadramento trêmulo, foco com atraso, zooms desajeitados, cortes ocasionais no rosto. Textura suave e borrada de fita, ruído leve, luzes da academia com brilho difuso, exposição oscilante, contraste suave, pele realista.
-
-ESTILO: Focado, animado, energia autêntica de vlog de academia. CHASE fala sobre seu progresso entre as séries, mostrando esforço genuíno e pequenas conquistas.
-
-CHASE: Idol coreana na casa dos 20 anos, rabo de cavalo alto e preto, olhos expressivos, físico atlético e esguio, levemente suada. Camiseta esportiva de manga comprida discreta, calça de moletom/legging, tênis, toalha no pescoço, sem joias.
-
-CENÁRIO: Academia à noite com supino, máquina de desenvolvimento de ombros, estação de mergulho (dips), espelhos, garrafa de água, iluminação suave no teto.
-
-STORYBOARD:
-
-1. Preparação do supino (~3s): Plano médio apoiado. Ela ajusta a pegada e olha para a câmera. “Ok, dia de empurrar — começando com supino.”
-2. Repetições de supino (~3,5s): Ângulo lateral, repetições controladas, coloca a barra no suporte. “Foram dez — honestamente, me senti mais forte que na semana passada.”
-3. Caminhada (~2,5s): Portátil enquanto ela pega a toalha/água e vai para o desenvolvimento de ombros. “Certo, agora ombros.”
-4. Desenvolvimento de ombros (~3,5s): Ajusta o assento, realiza a série, focada. “Ok, este aqui é sempre difícil para mim.”
-5. Inserção de pegada (~2,5s): Close macro das mãos segurando as alças, suor sob a luz. Apenas áudio ambiente da academia.
-6. Recuperação (~3s): Portátil. Sacode os braços, verifica a postura no espelho. “Já estou sentindo isso, com certeza.”
-7. Mergulhos (Dips) (~3,5s): Plano apoiado. Mergulhos de tríceps controlados. “Ok, mergulhos de tríceps — o último de hoje.”
-8. Finalização (~3s): Close portátil. Dá um passo atrás, levemente ofegante, mas satisfeita. “Acho que foi uma sessão sólida.”
-9. Outro de selfie (~3,5s): Selfie com o braço esticado, limpa o rosto, sorriso cansado. “Dia de empurrar, concluído — vejo vocês no dia de puxar em breve!”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096941104356872193/img/RP03g4hrqUT1tEJM.jpg" width="600" alt="Vlog de Academia com Câmera DV">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10502)**
-
-**Autor:** [WasifAI](https://x.com/doctorwasif) | **Fonte:** [Link](https://x.com/doctorwasif/status/2096941153753108549) | **Publicado:** Sep 7, 2026
-
----
-### Sequência de Combate Fantasia em Anime no Telhado
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma sequência de luta de fantasia detalhada inspirada em anime, ambientada no telhado congelado de uma universidade à noite.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo de evolução de ficção científica cinematográfica ultrarrealista de 30 segundos, 16:9, com efeitos visuais de nível de Hollywood. Crie uma sequência de fantasia de alta ação inspirada em anime, ultrarrealista, de 30 segundos em widescreen 16:9, qualidade visual 8K, movimento fluido de 60fps e coreografia de luta cinematográfica premium. Ambientar a sequência completa no telhado congelado de uma academia de combate universitária moderna à noite. O telhado é cercado por cercas de segurança de metal, estruturas de ventilação, entradas de escadas de concreto, poças congeladas, canos cobertos de neve e grandes tanques de água. Além do telhado, uma vasta cidade coreana brilha com letreiros de neon distantes, tráfego em movimento, janelas de arranha-céus e um luar azul frio. Neve leve cai pela cena enquanto um forte vento de inverno move roupas, cabelos e partículas de gelo soltas. PERSONAGEM PRINCIPAL: Uma estudante de 21 anos, confiante, de uma academia de combate universitária coreana, com uma aparência consistente inspirada em anime, porém fotorrealista. Ela tem um rosto oval pequeno, pele naturalmente clara com textura realista, olhos violeta-acinzentados penetrantes e cabelo curto em tom pastel-púrpura cortado logo abaixo das orelhas com franjas suaves e irregulares. Ela usa o mesmo blazer cinza ajustado da academia, camisa branca, laço azul-profundo, saia plissada grafite sobre shorts de segurança pretos ajustados, meia-calça térmica preta e botas pretas de cano curto durante toda a sequência. Um pirulito de cereja vermelho permanece casualmente no canto de sua boca. Sua expressão permanece calma, levemente entediada e confiantemente natural, mesmo durante os ataques mais perigosos. Preserve seu rosto, penteado, traje, proporções, pirulito e design de poder de gelo exatos em cada tomada. OPONENTES: Quatro atacantes adultos mascarados vestindo roupas táticas de inverno pretas combinando, coletes leves, luvas isoladas e máscaras escuras sem características. Eles carregam bastões retráteis e lâminas de treinamento cegas. Mantenha os quatro atacantes identificáveis através de pequenas marcas coloridas nos ombros: vermelho, branco, amarelo e verde. Seus ataques devem parecer rápidos e ameaçadores, mas a heroína os derrota sem ferimentos gráficos. GANCHO DE ABERTURA: Comece com um close-up extremo da bota preta da heroína pisando em uma poça rasa no telhado. O gelo se espalha instantaneamente debaixo de sua sola em delicados padrões ramificados. Incline a câmera para cima enquanto ela está sozinha perto da borda do telhado, com uma mão dentro do bolso do blazer e o pirulito entre os lábios. O vento levanta seu cabelo pastel-púrpura enquanto a paisagem urbana escura brilha lá embaixo. No reflexo da poça recém-congelada, revele quatro atacantes mascarados se aproximando por trás dela. O atacante com a marca vermelha no ombro avança e balança seu bastão em direção à cabeça dela. Use um movimento de rastreamento lateral rápido enquanto ela se inclina calmamente para trás sob a arma sem tirar a mão do bolso. O bastão passa a apenas centímetros de seu rosto. Ela toca levemente o telhado com a ponta da bota, fazendo com que uma crista estreita de gelo suba sob o pé da frente do atacante. Ele perde o equilíbrio e desliza para longe dela pela superfície congelada. O atacante com a marca branca lança várias pequenas lâminas de treinamento de metal. Acompanhe as lâminas rapidamente pelo ar em direção a ela. Ela levanta dois dedos e a água sobe de um canal de drenagem do telhado em múltiplos fluxos retorcidos. Os fluxos congelam instantaneamente no ar, prendendo cada lâmina dentro de uma parede de gelo curva e transparente. Gire a câmera ao redor da formação suspensa enquanto o luar refrata através do gelo e projeta padrões azul-pálidos sobre seu rosto calmo. Ela morde o pirulito e move os dedos lateralmente. A parede de gelo se fragmenta em centenas de fragmentos brilhantes inofensivos enquanto as lâminas de treinamento presas caem com segurança no telhado. Os fragmentos permanecem suspensos ao redor dela por um momento dramático antes de serem lançados contra os atacantes como uma tempestade de neve controlada. As partículas atingem suas armaduras e os forçam para trás sem perfurar seus corpos. O atacante com a marca amarela salta do telhado da escada com seu bastão erguido acima da cabeça. Use uma câmera em ângulo baixo posicionada perto da heroína enquanto sua silhueta cruza a lua. Ela gira suavemente e desenha um movimento circular com uma das mãos. Uma fita espessa de água congelada espirala para cima ao redor de seu bastão, trava-o no lugar e redireciona seu impulso. Ele gira inofensivamente pelo ar e aterrissa em um banco macio de neve recém-formada perto de uma unidade de ventilação. O atacante com a marca verde ataca pelo seu ponto cego. Ela remove o pirulito da boca pela primeira vez, exala uma pequena nuvem de vapor frio e toca o pirulito contra o corrimão de metal ao seu lado. O gelo corre ao longo do corrimão e forma uma pista de gelo curva pelo telhado. Ela pisa nela e desliza para trás com equilíbrio sem esforço enquanto o atacante balança repetidamente e erra. Use uma tomada de rastreamento rápida ao lado deles enquanto ela desliza pela pista de gelo, inclina-se sob um golpe, gira em torno de outro e agarra o pulso do atacante com uma mão. Ela o redireciona em direção aos outros atacantes que estão se recuperando. Todos os quatro colidem, mas permanecem fisicamente ilesos. Os atacantes a cercam para um ataque final coordenado. Afaste a câmera para uma visão aérea ampla enquanto eles correm de quatro direções. Ela se agacha e pressiona a palma da mão contra o telhado. Um pulso circular de gelo azul-esbranquiçado explode pelo concreto. Estruturas de gelo curvas e altas surgem ao redor dela como as pétalas de uma flor congelada. Cada pétala de gelo bloqueia um atacante e prende suas botas firmemente ao telhado, deixando a parte superior de seus corpos ilesa. Crie um breve momento de silêncio. Mostre a heroína parada no centro da enorme flor de gelo translúcida enquanto neve e cristais de gelo estilhaçados flutuam ao seu redor. As luzes da cidade brilham através das estruturas congeladas. Ela coloca o pirulito de volta na boca, ajusta seu laço azul e olha para os atacantes imobilizados com uma expressão relaxada, quase brincalhona. Para o desfecho final, um atacante liberta secretamente sua bota e tenta um último golpe por trás. Sem se virar, ela estala os dedos. Um pequeno pingente de gelo cai de um cano suspenso e atinge o telhado diretamente na frente de sua bota, assustando-o e fazendo-o cair para trás em uma pilha macia de neve. Ela dá um pequeno sorriso de satisfação e caminha em direção à entrada da escada enquanto a flor de gelo gigante começa a liberar geada cintilante no ar noturno. ESTILO DE CÂMERA: Use movimentos de câmera cinematográficos energéticos, porém controlados, rastreamento em ângulo baixo, movimentos laterais rápidos, tomadas de reação em close-up, uma tomada orbital suave ao redor das lâminas congeladas e uma revelação aérea ampla para a formação de gelo final. Mantenha cada ataque fácil de seguir. Use impulso realista, posicionamento preciso dos pés, impactos críveis, equilíbrio corporal natural e transições suaves entre os tempos da coreografia. Evite giros de câmera aleatórios e tremores excessivos. ILUMINAÇÃO E EFEITOS VISUAIS: Combine luar frio, lâmpadas de segurança do telhado, luzes de aviso de aeronaves vermelhas e o brilho quente da cidade abaixo. Os poderes de gelo produzem uma iluminação azul-esbranquiçada contida que interage naturalmente com rostos, roupas, concreto e objetos ao redor. O gelo deve ter transparência realista, rachaduras internas, geada, refração, condensação, peso e física de estilhaçamento. Mostre deslocamento detalhado de neve, movimento de água congelada, vapor de respiração e partículas brilhantes sem fazer a cena parecer um videogame. ÁUDIO: Use vento de inverno forte, tráfego distante da cidade, botas raspando no gelo, movimentos rápidos de bastão, água correndo pelos ralos, rachaduras profundas de congelamento, impactos de gelo nítidos, sons de estilhaçamento controlados, movimento de roupas e o clique silencioso do pirulito contra seus dentes. Adicione uma trilha sonora de ação eletrônico-orquestral tensa que aumenta durante o ataque coordenado e de repente fica silenciosa durante a revelação final da flor congelada. Sem diálogo falado. CONTINUIDADE: Preserve a identidade da heroína, o penteado pastel-púrpura, o blazer cinza, o laço azul, o pirulito, a condição da roupa e a personalidade calma durante todo o tempo. Mantenha todos os quatro
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096821250534563840/img/OEWuape71bf4uSSz.jpg" width="600" alt="Sequência de Combate Fantasia em Anime no Telhado">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10445)**
-
-**Autor:** [Elaine Wright](https://x.com/ElaineWrigari1) | **Fonte:** [Link](https://x.com/ElaineWrigari1/status/2096821611240538456) | **Publicado:** Sep 7, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -5516,6 +5478,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-21T03:50:09.795Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-21T09:57:05.078Z</sub>
 
 </div>
