@@ -68,9 +68,9 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6416** |
+| 📝 Total des prompts | **6415** |
 | ⭐ Prompts en vedette | **6** |
-| 🔄 Dernière mise à jour | **2026-09-23** |
+| 🔄 Dernière mise à jour | **2026-09-24** |
 
 ---
 
@@ -476,38 +476,6 @@ J'ai créé cette vidéo cinématographique cosy de café, capturant la belle at
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11155)**
 
 **Auteur:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2102330407404572896) | **Publié:** Sep 22, 2026
-
----
-### Prompt de Séquence Cinématographique : Porche Pluvieux
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt très détaillé pour une séquence vidéo cinématographique d'une femme sous un porche pendant une forte pluie, incluant des actions spécifiques comme ajuster sa casquette, insérer ses écouteurs et manger une pomme.
-
-#### 📝 Prompt
-
-```
-Plan cinématographique serré à moyen d'une jeune femme est-asiatique se tenant sous un porche en bois patiné par la pluie battante. Elle porte une casquette de baseball noire trempée, un t-shirt blanc oversize légèrement translucide à cause de l'humidité, et la sangle d'un tote bag beige sur l'épaule. Ses cheveux foncés sont attachés en un chignon flou, avec des mèches mouillées collées à son visage et son cou. Des écouteurs filaires blancs sont dans ses oreilles.
-
-La pluie tombe régulièrement d'une gouttière en métal rouillé, dégoulinant du toit en tôle ondulée. Une forêt verte luxuriante et des montagnes brumeuses s'estompent en arrière-plan. Éclairage naturel doux, étalonnage couleur teal-vert froid, faible profondeur de champ, grain filmique, atmosphère mélancolique et silencieuse.
-
-Séquence :
-- Elle regarde vers le bas, puis lève lentement la main pour ajuster sa casquette mouillée.
-- Elle sort des écouteurs blancs et les insère un par un.
-- Elle s'appuie contre le poteau en bois et contemple la pluie.
-- Elle tend sa paume vers la pluie qui tombe, observant les gouttes frapper sa main.
-- Gros plan : elle essuie une pomme rouge brillante avec un chiffon blanc.
-- Elle croque dans la pomme, le jus coulant de ses lèvres et de son menton.
-- Elle mâche lentement, regardant de côté avec une expression calme et légèrement distante tandis que la pluie continue de tomber.
-
-Ultra-réaliste, rendu pellicule 35 mm, texture naturelle de la peau avec des gouttes de pluie sur le visage et la casquette, détails des tissus mouillés, sans maquillage, ambiance paisible de jour pluvieux.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102269103058960384/img/8INOQXR20vXAFwWT.jpg" width="600" alt="Prompt de Séquence Cinématographique : Porche Pluvieux">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11107)**
-
-**Auteur:** [Elisia](https://x.com/AiwithElisia) | **Source:** [Link](https://x.com/AiwithElisia/status/2102269278489903244) | **Publié:** Sep 22, 2026
 
 ---
 ### Prompt vidéo cinématographique pour un marché coréen
@@ -5187,6 +5155,50 @@ Mouvement de caméra naturel à l'épaule, mouvement corporel réaliste, express
 **Auteur:** [Sairah](https://x.com/Sairah_0) | **Source:** [Link](https://x.com/Sairah_0/status/2097172152072196126) | **Publié:** Sep 8, 2026
 
 ---
+### Séquences vidéo nostalgiques style années 2000
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un script de 15 secondes détaillant des micro-moments d'une femme lors d'une promenade chaleureuse dans son quartier, filmé dans le style caractéristique des appareils photo compacts du début des années 2000.
+
+#### 📝 Prompt
+
+```
+Format : 15s, 1080p, paysage 16:9
+
+Style : Vidéo amateur nostalgique ultra-réaliste
+
+Caméra : Appareil photo numérique compact du début des années 2000 tenu à la main par un ami (mise au point automatique naturelle, léger tremblement de la main)
+
+Audio : 100 % son diégétique (bruits de pas, ambiance de rue, bruissements, rires naturels ; pas de musique, pas de voix off)
+
+Personnage et décor : Une jeune femme (début vingtaine, cheveux bruns ondulés à moitié attachés, veste militaire olive oversize, jean large, mocassins, sac fourre-tout en toile) marchant dans un quartier calme au bord d'un canal par un après-midi chaud et nuageux.
+
+DÉCOUPAGE DES SCÈNES (SÉQUENCES DE 2 SECONDES)
+00:00–00:02 (Séquence 1 — La cuisine) Elle se détourne du comptoir avec un verre de thé glacé, remarque l'objectif et esquisse un demi-sourire amusé tandis que l'ami zoome et dézoome rapidement.
+
+00:02–00:04 (Séquence 2 — Sortie) Elle ajuste son sac en toile sur l'épaule et pousse la lourde porte en bois de l'allée, la tenant pour la caméra tandis qu'un vélo passe en faisant vibrer les pavés.
+
+00:04–00:06 (Séquence 3 — L'étal de fruits) S'arrêtant devant une caisse en bois au coin de la rue, elle prend une pêche mûre, échange un rire et quelques pièces avec le vendeur, et glisse le fruit dans un petit sachet en papier.
+
+00:06–00:08 (Séquence 4 — La rencontre avec le chien) Traversant le pont piétonnier en pierre, elle s'agenouille naturellement pour gratter les oreilles du golden retriever d'un voisin avant de se relever.
+
+00:08–00:10 (Séquence 5 — La première bouchée) Appuyée contre la rambarde usée du pont au-dessus du canal, elle croque dans le fruit et regarde droit vers la caméra avec des yeux grands et ravis.
+
+00:10–00:12 (Séquence 6 — Jeu avec l'objectif) L'opérateur s'approche très près de son visage ; elle éclate de rire, fronce le nez et pose malicieusement sa main sur l'objectif pour le masquer.
+
+00:12–00:14 (Séquence 7 — Elle s'éloigne) Elle baisse la main, se retourne et trottine dans l'allée étroite, jetant un coup d'œil par-dessus son épaule avec un signe de la main pour inviter son ami à la rattraper.
+
+00:14–00:15 (Séquence 8 — Coupure abrupte) La caméra bondit en avant pour la suivre ; en pleine foulée, elle se retourne avec un sourire rapide, et l'enregistrement s'arrête brusquement à 00:14.8 sans fondu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097158383921168384/img/IOpDlKPfXk2z6QuD.jpg" width="600" alt="Séquences vidéo nostalgiques style années 2000">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10504)**
+
+**Auteur:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Source:** [Link](https://x.com/afrinxai/status/2097160058446766088) | **Publié:** Sep 8, 2026
+
+---
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -5248,6 +5260,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-23T23:01:11.664Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-24T03:40:23.619Z</sub>
 
 </div>

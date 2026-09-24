@@ -68,9 +68,9 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6416** |
+| 📝 Total de prompts | **6415** |
 | ⭐ Prompts destacados | **6** |
-| 🔄 Última actualización | **2026-09-23** |
+| 🔄 Última actualización | **2026-09-24** |
 
 ---
 
@@ -476,38 +476,6 @@ Creé este video cinematográfico y acogedor del café, destacando la hermosa at
 **[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11155)**
 
 **Autor:** [liana](https://x.com/Lianaalane) | **Fuente:** [Link](https://x.com/Lianaalane/status/2102330407404572896) | **Publicado:** Sep 22, 2026
-
----
-### Prompt de Secuencia Cinematográfica: Porche Lluvioso
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt altamente detallado para una secuencia de video cinematográfica de una mujer bajo un porche durante una lluvia intensa, incluyendo acciones específicas como ajustar la gorra, insertar auriculares y comer una manzana.
-
-#### 📝 Prompt
-
-```
-Plano medio-corto cinematográfico de una joven mujer del este asiático de pie bajo un porche de madera desgastada durante una lluvia intensa. Lleva una gorra de béisbol negra mojada, una camiseta blanca holgada ligeramente translúcida por el agua y la correa de una bolsa de tela beige sobre el hombro. Su cabello oscuro está recogido en un moño desordenado con mechones mojados pegados a su cara y cuello. Tiene auriculares blancos con cable puestos.
-
-La lluvia cae constantemente desde un bajante de metal oxidado, goteando desde el techo de chapa ondulada. Un bosque verde exuberante y montañas neblinosas se desvanecen en el fondo. Iluminación natural suave, gradación de color teal-verde fría, profundidad de campo reducida, grano fílmico, atmósfera melancólica y tranquila.
-
-Secuencia:
-- Ella mira hacia abajo, luego levanta lentamente la mano para ajustar su gorra mojada.
-- Saca unos auriculares blancos y los inserta uno por uno.
-- Se apoya contra el poste de madera y observa la lluvia.
-- Extiende su palma hacia la lluvia que cae, observando cómo las gotas golpean su mano.
-- Primer plano: limpia una manzana roja brillante con un paño blanco.
-- Da un gran mordisco a la manzana, con jugo goteando de sus labios y barbilla.
-- Mastiga lentamente, mirando de reojo con una expresión calmada y ligeramente distante mientras la lluvia continúa cayendo.
-
-Ultra-realista, aspecto de película de 35mm, textura de piel natural con gotas de lluvia en la cara y la gorra, detalles de tela mojada, sin maquillaje, estado de ánimo tranquilo de día lluvioso.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102269103058960384/img/8INOQXR20vXAFwWT.jpg" width="600" alt="Prompt de Secuencia Cinematográfica: Porche Lluvioso">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11107)**
-
-**Autor:** [Elisia](https://x.com/AiwithElisia) | **Fuente:** [Link](https://x.com/AiwithElisia/status/2102269278489903244) | **Publicado:** Sep 22, 2026
 
 ---
 ### Prompt de Video Cinematográfico para Mercado Coreano
@@ -5287,6 +5255,50 @@ Movimiento de cámara natural en mano, movimiento corporal realista, expresiones
 **Autor:** [Sairah](https://x.com/Sairah_0) | **Fuente:** [Link](https://x.com/Sairah_0/status/2097172152072196126) | **Publicado:** Sep 8, 2026
 
 ---
+### Metraje casero nostálgico de principios de los 2000
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un guion de 15 segundos que desglosa micromomentos de una mujer en un cálido paseo por el vecindario, con un estilo inspirado explícitamente en las grabaciones de cámaras compactas de principios de los 2000.
+
+#### 📝 Prompt
+
+```
+Formato: 15 s, 1080p, horizontal 16:9
+
+Estilo: Metraje de video casero nostálgico ultrarrealista
+
+Cámara: Cámara digital compacta de principios de los 2000, grabada en mano por un amigo (enfoque automático natural, ligero movimiento de cámara)
+
+Audio: Sonido ambiental 100% diegético (pasos, ruido de la calle, susurros, risas naturales; sin música, sin voz en off)
+
+Personaje y entorno: La misma mujer joven (veintitantos años, cabello oscuro ondulado medio recogido, chaqueta de campo color oliva extragrande, jeans anchos, mocasines, bolso de lona) caminando por un vecindario tranquilo junto al canal en una tarde cálida y nublada.
+
+DESGLOSE DE ESCENAS (TIEMPOS DE 2 SEGUNDOS)
+00:00–00:02 (Beat 1 — La cocina) Ella se gira desde la encimera sosteniendo un vaso de té helado, ve el lente y lanza una media sonrisa divertida mientras el amigo acerca y aleja el zoom rápidamente.
+
+00:02–00:04 (Beat 2 — Saliendo) Se cuelga el bolso de lona al hombro y empuja la pesada puerta de madera del callejón, manteniéndola abierta para la cámara mientras una bicicleta pasa traqueteando sobre los adoquines.
+
+00:04–00:06 (Beat 3 — El puesto de frutas) Al detenerse en una caja de madera en la esquina, toma un durazno maduro, intercambia una risa rápida y unas monedas con el vendedor, y lo coloca en una pequeña bolsa de papel.
+
+00:06–00:08 (Beat 4 — El saludo al perro) Al cruzar el puente peatonal de piedra, se arrodilla naturalmente para rascar detrás de las orejas al golden retriever de un vecino antes de levantarse.
+
+00:08–00:10 (Beat 5 — El primer bocado) Apoyada contra la barandilla desgastada del puente sobre el canal, le da un mordisco fresco a la fruta y mira directamente a la cámara con los ojos muy abiertos y encantada.
+
+00:10–00:12 (Beat 6 — Bloqueo juguetón del lente) El operador de cámara se acerca mucho a su rostro; ella se ríe a carcajadas, arruga la nariz y coloca juguetonamente la palma de su mano sobre el lente para bloquearlo.
+
+00:12–00:14 (Beat 7 — Caminando adelante) Baja la mano, se gira y trota por el carril estrecho, mirando hacia atrás por encima del hombro con un gesto de dos dedos para que su amigo la alcance.
+
+00:14–00:15 (Beat 8 — Corte abrupto) La cámara avanza siguiendo sus pasos; a mitad de camino, ella mira hacia atrás con una sonrisa rápida y la grabación se corta abruptamente en 00:14.8 sin fundido.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097158383921168384/img/IOpDlKPfXk2z6QuD.jpg" width="600" alt="Metraje casero nostálgico de principios de los 2000">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10504)**
+
+**Autor:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Fuente:** [Link](https://x.com/afrinxai/status/2097160058446766088) | **Publicado:** Sep 8, 2026
+
+---
 ---
 
 ## 📚 Más prompts disponibles
@@ -5348,6 +5360,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-23T23:01:08.726Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-24T03:40:20.720Z</sub>
 
 </div>

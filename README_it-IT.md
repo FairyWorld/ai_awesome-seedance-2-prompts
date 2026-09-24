@@ -68,9 +68,9 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6416** |
+| 📝 Totale prompt | **6415** |
 | ⭐ Prompt in evidenza | **6** |
-| 🔄 Ultimo aggiornamento | **2026-09-23** |
+| 🔄 Ultimo aggiornamento | **2026-09-24** |
 
 ---
 
@@ -476,38 +476,6 @@ Ho creato questo video cinematografico accogliente sul caffè, che cattura l'atm
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11155)**
 
 **Autore:** [liana](https://x.com/Lianaalane) | **Fonte:** [Link](https://x.com/Lianaalane/status/2102330407404572896) | **Pubblicato:** Sep 22, 2026
-
----
-### Prompt per Sequenza Cinematografica: Veranda sotto la Pioggia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt altamente dettagliato per una sequenza video cinematografica di una donna su una veranda durante un forte acquazzone, che include azioni specifiche come aggiustare il cappellino, inserire gli auricolari e mangiare una mela.
-
-#### 📝 Prompt
-
-```
-Inquadratura cinematografica dal primo piano al mezzo piano di una giovane donna dell'Asia orientale in piedi sotto una veranda in legno consumata durante un forte acquazzone. Indossa un berretto da baseball nero bagnato, una t-shirt bianca oversize leggermente trasparente a causa della pioggia e ha la tracolla di una borsa tote beige sulla spalla. I suoi capelli scuri sono raccolti in uno chignon spettinato con ciocche bagnate che le si attaccano al viso e al collo. Ha nelle orecchie degli auricolari bianchi con filo.
-
-La pioggia cade costantemente da un pluviale in metallo arrugginito, sgocciolando dal tetto in lamiera ondulata. Una lussureggiante foresta verde e montagne nebbiose svaniscono sullo sfondo. Illuminazione naturale morbida, color grading teal-verde freddo, profondità di campo ridotta, grana filmica, atmosfera malinconica e silenziosa.
-
-Sequenza:
-- Guarda verso il basso, poi alza lentamente la mano per aggiustarsi il berretto bagnato.
-- Prende gli auricolari bianchi e li inserisce uno alla volta.
-- Si appoggia al pilastro di legno e osserva la pioggia fuori.
-- Estende il palmo nella pioggia cadente, osservando le gocce colpirle la mano.
-- Primo piano: pulisce una mela rossa lucida con un panno bianco.
-- Dà un grosso morso alla mela, con il succo che le cola dalle labbra e dal mento.
-- Mastica lentamente, guardando di lato con un'espressione calma e leggermente distante mentre la pioggia continua a cadere.
-
-Ultra-realistico, look pellicola 35mm, texture della pelle naturale con gocce di pioggia sul viso e sul berretto, dettagli dei tessuti bagnati, senza trucco, umore tranquillo di una giornata piovosa.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102269103058960384/img/8INOQXR20vXAFwWT.jpg" width="600" alt="Prompt per Sequenza Cinematografica: Veranda sotto la Pioggia">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11107)**
-
-**Autore:** [Elisia](https://x.com/AiwithElisia) | **Fonte:** [Link](https://x.com/AiwithElisia/status/2102269278489903244) | **Pubblicato:** Sep 22, 2026
 
 ---
 ### Prompt Video Cinematografico per Mercato Coreano
@@ -5261,6 +5229,50 @@ Movimento naturale della telecamera a mano, movimento del corpo realistico, espr
 **Autore:** [Sairah](https://x.com/Sairah_0) | **Fonte:** [Link](https://x.com/Sairah_0/status/2097172152072196126) | **Pubblicato:** Sep 8, 2026
 
 ---
+### Filmati amatoriali nostalgici dei primi anni 2000
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uno script di 15 secondi che analizza i micro-momenti di una donna durante una calda passeggiata nel quartiere, con uno stile che richiama esplicitamente le registrazioni delle fotocamere compatte dei primi anni 2000.
+
+#### 📝 Prompt
+
+```
+Formato: 15s, 1080p, 16:9 landscape
+
+Stile: Filmato amatoriale nostalgico ultra-realistico
+
+Fotocamera: Fotocamera digitale compatta dei primi anni 2000 tenuta in mano da un amico (autofocus naturale che cerca il soggetto, leggero tremolio della mano)
+
+Audio: 100% suono diegetico ambientale (passi, rumori della strada, fruscii, risate naturali; niente musica, niente voce fuori campo)
+
+Personaggio e ambientazione: La stessa giovane donna (poco più che ventenne, capelli scuri mossi semi-raccolti, giacca militare oversize color oliva, jeans a gamba larga, mocassini, borsa di tela) che cammina attraverso un tranquillo quartiere lungo il canale in un caldo pomeriggio nuvoloso.
+
+SUDDIVISIONE DELLE SCENE (SEQUENZE DA 2 SECONDI)
+00:00–00:02 (Beat 1 — La cucina) Si gira dal bancone tenendo un bicchiere di tè freddo, nota l'obiettivo e accenna un mezzo sorriso divertito mentre l'amico gioca velocemente con lo zoom.
+
+00:02–00:04 (Beat 2 — Uscendo) Si mette la borsa di tela in spalla e spinge la pesante porta di legno del vicolo, tenendola aperta per la fotocamera mentre una bicicletta passa facendo rumore sui ciottoli.
+
+00:04–00:06 (Beat 3 — Il banco della frutta) Fermandosi davanti a una cassetta di legno all'angolo, prende una pesca matura, scambia una risata veloce e delle monete con il venditore e la ripone in un sacchetto di carta.
+
+00:06–00:08 (Beat 4 — L'incontro con il cane) Attraversando il ponte pedonale in pietra, si inginocchia naturalmente per grattare dietro le orecchie il golden retriever di un vicino prima di rialzarsi.
+
+00:08–00:10 (Beat 5 — Il primo morso) Appoggiata alla ringhiera consumata del ponte sopra il canale, dà un morso al frutto e guarda dritta verso la fotocamera con gli occhi spalancati e divertiti.
+
+00:10–00:12 (Beat 6 — Schermata giocosa) L'operatore si avvicina molto al suo viso; lei ride ad alta voce, arriccia il naso e copre giocosamente l'obiettivo con il palmo della mano.
+
+00:12–00:14 (Beat 7 — Camminando avanti) Abbassa la mano, si gira e corre lungo lo stretto vicolo, voltandosi a guardare indietro con un gesto delle dita per invitare l'amico a raggiungerla.
+
+00:14–00:15 (Beat 8 — Taglio netto) La fotocamera balza in avanti seguendola; a metà passo, lei si volta con un sorriso veloce e la registrazione si interrompe bruscamente a 00:14.8 senza dissolvenza.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097158383921168384/img/IOpDlKPfXk2z6QuD.jpg" width="600" alt="Filmati amatoriali nostalgici dei primi anni 2000">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10504)**
+
+**Autore:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Fonte:** [Link](https://x.com/afrinxai/status/2097160058446766088) | **Pubblicato:** Sep 8, 2026
+
+---
 ---
 
 ## 📚 Altri prompt disponibili
@@ -5322,6 +5334,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-23T23:01:13.108Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-24T03:40:24.947Z</sub>
 
 </div>

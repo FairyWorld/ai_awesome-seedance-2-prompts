@@ -68,9 +68,9 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6416** |
+| 📝 Toplam İstem | **6415** |
 | ⭐ Öne Çıkan İstemler | **6** |
-| 🔄 Son Güncelleme | **2026-09-23** |
+| 🔄 Son Güncelleme | **2026-09-24** |
 
 ---
 
@@ -476,38 +476,6 @@ Modern bir kafenin güzel atmosferini öne çıkaran bu sıcak sinematik kahve v
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11155)**
 
 **Yazar:** [liana](https://x.com/Lianaalane) | **Kaynak:** [Link](https://x.com/Lianaalane/status/2102330407404572896) | **Yayınlandı:** Sep 22, 2026
-
----
-### Yağmurlu Veranda Sinematik Sekans İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Şapkasını düzeltme, kulaklık takma ve elma yeme gibi spesifik eylemleri içeren, yoğun yağmur altında verandada duran bir kadının sinematik video sekansı için son derece detaylı istem.
-
-#### 📝 İstem
-
-```
-Yoğun yağmur altında, havalı ahşap bir verandanın altında duran genç Doğu Asyalı bir kadının sinematik yakın-orta plan çekimi. Islak siyah beyzbol şapkası, hafif şeffaf ıslak beyaz bol kesim tişörtü ve omzunda bej bir bez çanta askısı var. Koyu saçları dağınık bir topuz yapılmış; ıslak tutamlar yüzüne ve boynuna yapışmış. Kulaklarında beyaz kablolu kulaklıklar bulunuyor.
-
-Paslı metal oluktan düzenli olarak akan yağmur suyu, dalgalı çatıdan damlıyor. Arka planda yemyeşil orman ve sisli dağlar silikleşiyor. Yumuşak doğal ışıklandırma, soğuk turkuaz-yeşil renk tonu, sığ alan derinliği, filmik gren dokusu, melankolik ve sessiz atmosfer.
-
-Sekans:
-- Aşağıya bakar, ardından yavaşça elini kaldırıp ıslak şapkasını düzeltir.
-- Beyaz kulaklıklarını çıkarır ve tek tek takar.
-- Ahşap direğe yaslanıp dışarıdaki yağmura dalar.
-- Elini düşen yağmurun altına uzatır, damlaların avucuna vuruşunu izler.
-- Yakın plan: Beyaz bir bezle parlak kırmızı bir elmayı siler.
-- Elmaya büyük bir ısırık alır, suyu dudaklarından ve çenesinden akar.
-- Yağmur devam ederken, sakince ve biraz uzaklaşmış bir ifadeyle yan tarafa bakarak yavaşça çiğner.
-
-Ultra gerçekçi, 35mm film görünümü, yüzünde ve şapkasında yağmur damlalarıyla doğal cilt dokusu, ıslak kumaş detayları, makyajsız, sessiz yağmurlu gün havası.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102269103058960384/img/8INOQXR20vXAFwWT.jpg" width="600" alt="Yağmurlu Veranda Sinematik Sekans İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11107)**
-
-**Yazar:** [Elisia](https://x.com/AiwithElisia) | **Kaynak:** [Link](https://x.com/AiwithElisia/status/2102269278489903244) | **Yayınlandı:** Sep 22, 2026
 
 ---
 ### Kore Pazar Yeri Sinematik Video İstemi
@@ -5233,6 +5201,50 @@ Doğal el kamerası hareketi, gerçekçi vücut hareketleri, otantik yüz ifadel
 **Yazar:** [Sairah](https://x.com/Sairah_0) | **Kaynak:** [Link](https://x.com/Sairah_0/status/2097172152072196126) | **Yayınlandı:** Sep 8, 2026
 
 ---
+### 2000'lerin Başından Nostaljik El Kamerası Ev Çekimleri
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sıcak bir mahalle yürüyüşündeki bir kadının mikro anlarını, 2000'lerin başındaki kompakt kamera kayıtları tarzında işleyen 15 saniyelik bir senaryo.
+
+#### 📝 İstem
+
+```
+Format: 15 sn, 1080p, 16:9 yatay
+
+Tarz: Ultra gerçekçi nostaljik ev videosu görüntüleri
+
+Kamera: Bir arkadaş tarafından çekilmiş 2000'lerin başından kalma kompakt dijital el kamerası (doğal otomatik odaklama arayışı, hafif el titremesi)
+
+Ses: %100 diejetik (mekan içi) ses (ayak sesleri, ortamdaki sokak gürültüsü, hışırtılar, doğal kahkahalar; müzik veya dış ses yok)
+
+Karakter ve Mekan: Aynı genç kadın (20'li yaşların başında, yarısı tokalı koyu dalgalı saçlar, büyük beden haki saha ceketi, geniş paça kot pantolon, makosen ayakkabılar, bez çanta), sıcak ve kapalı bir öğleden sonra sessiz bir kanal kenarı mahallesinde yürüyor.
+
+SAHNE DÖKÜMÜ (2 SANİYELİK BÖLÜMLER)
+00:00–00:02 (1. Bölüm — Mutfak) Elinde bir bardak buzlu çay ile tezgahtan döner, lensi fark eder ve arkadaşı hızlıca zoom yapıp çekerken eğlenmiş bir şekilde yarım gülümseme atar.
+
+00:02–00:04 (2. Bölüm — Dışarı Adım Atma) Bez çantasını omzuna takar ve ağır ahşap ara sokak kapısını iter, bir bisiklet kaldırım taşları üzerinde tıkırdayarak geçerken kapıyı kamera için açık tutar.
+
+00:04–00:06 (3. Bölüm — Meyve Tezgahı) Köşedeki ahşap bir kasanın önünde durur, olgun bir şeftali alır, satıcıyla hızlıca gülüşüp bozuk para alışverişi yapar ve şeftaliyi küçük bir kağıt kese kağıdına koyar.
+
+00:06–00:08 (4. Bölüm — Köpek Selamı) Taş yaya köprüsünü geçerken, doğal bir şekilde tek dizinin üzerine çöküp komşunun golden retriever cinsi köpeğini kulaklarının arkasından sever ve ardından tekrar ayağa kalkar.
+
+00:08–00:10 (5. Bölüm — İlk Isırık) Kanal üzerindeki aşınmış köprü korkuluğuna yaslanarak meyveden taze bir ısırık alır ve kocaman, keyifli gözlerle doğrudan kameraya bakar.
+
+00:10–00:12 (6. Bölüm — Şakacı Lens Engelleme) Kamera operatörü yüzüne iyice yaklaşır; kadın yüksek sesle güler, burnunu kırıştırır ve şakacı bir tavırla avucunu lense kapatır.
+
+00:12–00:14 (7. Bölüm — İleride Yürüyüş) Elini indirir, döner ve dar yolda ileriye doğru koşmaya başlar; omzunun üzerinden arkadaşına yetişmesi için iki parmağıyla işaret ederek geriye bakar.
+
+00:14–00:15 (8. Bölüm — Ani Kesim) Kamera onu takip ederek ileriye doğru sıçrar; tam adım atarken geriye dönüp hızlıca sırıtır ve kayıt, 00:14.8'de herhangi bir kararma efekti olmadan aniden kesilir.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097158383921168384/img/IOpDlKPfXk2z6QuD.jpg" width="600" alt="2000'lerin Başından Nostaljik El Kamerası Ev Çekimleri">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10504)**
+
+**Yazar:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Kaynak:** [Link](https://x.com/afrinxai/status/2097160058446766088) | **Yayınlandı:** Sep 8, 2026
+
+---
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -5294,6 +5306,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-23T23:01:17.224Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-24T03:40:29.810Z</sub>
 
 </div>

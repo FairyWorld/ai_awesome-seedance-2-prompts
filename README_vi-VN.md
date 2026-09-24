@@ -68,9 +68,9 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6416** |
+| 📝 Tổng số prompt | **6415** |
 | ⭐ Prompt nổi bật | **6** |
-| 🔄 Cập nhật lần cuối | **2026-09-23** |
+| 🔄 Cập nhật lần cuối | **2026-09-24** |
 
 ---
 
@@ -476,38 +476,6 @@ Tôi đã tạo ra một video cà phê ấm cúng mang phong cách điện ản
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11155)**
 
 **Tác giả:** [liana](https://x.com/Lianaalane) | **Nguồn:** [Link](https://x.com/Lianaalane/status/2102330407404572896) | **Đã xuất bản:** Sep 22, 2026
-
----
-### Prompt Chuỗi Cảnh Điện Ảnh: Hiên Nhà Ngày Mưa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt chi tiết cho chuỗi video điện ảnh về một phụ nữ đứng dưới hiên nhà trong cơn mưa lớn, bao gồm các hành động cụ thể như chỉnh mũ, đeo tai nghe và ăn táo.
-
-#### 📝 Prompt
-
-```
-Góc quay cận trung cảnh mang phong cách điện ảnh của một phụ nữ trẻ gốc Đông Á đứng dưới hiên nhà bằng gỗ cũ kỹ trong cơn mưa tầm tã. Cô đội chiếc mũ lưỡi trai màu đen ướt sũng, mặc áo thun trắng oversize hơi xuyên thấu vì nước mưa, và đeo dây túi tote màu be qua vai. Mái tóc đen được búi lộn xộn, những lọn tóc ướt dính vào mặt và cổ cô. Tai nghe có dây màu trắng đang được đeo.
-
-Mưa trút xuống đều đặn từ ống thoát nước kim loại gỉ sét, nhỏ giọt từ mái tôn sóng. Rừng xanh tươi tốt và những ngọn núi mờ ảo dần tan biến vào hậu cảnh. Ánh sáng tự nhiên dịu nhẹ, tông màu xanh lục bảo lạnh, độ sâu trường ảnh nông, hiệu ứng hạt phim, tạo nên bầu không khí buồn man mác và tĩnh lặng.
-
-Chuỗi hành động:
-- Cô nhìn xuống, sau đó từ từ đưa tay lên chỉnh lại chiếc mũ ướt.
-- Cô lấy ra cặp tai nghe màu trắng và đeo từng bên vào tai.
-- Cô tựa lưng vào cột gỗ và ngắm nhìn màn mưa rơi bên ngoài.
-- Cô đưa lòng bàn tay ra hứng những giọt mưa đang rơi, quan sát chúng chạm vào da.
-- Cận cảnh: cô lau sạch quả táo đỏ bóng loáng bằng một chiếc khăn trắng.
-- Cô cắn một miếng táo lớn, nước ép chảy dọc theo môi và cằm.
-- Cô nhai chậm rãi, liếc mắt sang một bên với vẻ bình thản, hơi xa xăm trong khi mưa vẫn tiếp tục rơi.
-
-Phong cách siêu thực, giao diện phim 35mm, kết cấu da tự nhiên với những giọt mưa trên mặt và mũ, chi tiết vải ướt chân thực, không trang điểm, tâm trạng ngày mưa yên tĩnh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102269103058960384/img/8INOQXR20vXAFwWT.jpg" width="600" alt="Prompt Chuỗi Cảnh Điện Ảnh: Hiên Nhà Ngày Mưa">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11107)**
-
-**Tác giả:** [Elisia](https://x.com/AiwithElisia) | **Nguồn:** [Link](https://x.com/AiwithElisia/status/2102269278489903244) | **Đã xuất bản:** Sep 22, 2026
 
 ---
 ### Prompt Video Điện Ảnh Chợ Hàn Quốc
@@ -5293,6 +5261,50 @@ Chuyển động máy quay cầm tay tự nhiên, chuyển động cơ thể ch�
 **Tác giả:** [Sairah](https://x.com/Sairah_0) | **Nguồn:** [Link](https://x.com/Sairah_0/status/2097172152072196126) | **Đã xuất bản:** Sep 8, 2026
 
 ---
+### Thước phim gia đình cầm tay đầy hoài niệm những năm đầu thập niên 2000
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kịch bản 15 giây phân tích các khoảnh khắc nhỏ của một người phụ nữ trong chuyến đi dạo ấm áp quanh khu phố, được thiết kế theo phong cách đặc trưng của các bản ghi từ máy ảnh kỹ thuật số nhỏ gọn đầu những năm 2000.
+
+#### 📝 Prompt
+
+```
+Định dạng: 15 giây, 1080p, khung hình ngang 16:9
+
+Phong cách: Thước phim gia đình hoài cổ siêu thực
+
+Máy quay: Máy ảnh kỹ thuật số nhỏ gọn đầu những năm 2000 cầm tay, được quay bởi một người bạn (tự động lấy nét tự nhiên, rung lắc nhẹ do cầm tay)
+
+Âm thanh: 100% âm thanh hiện trường (tiếng bước chân, tiếng ồn xung quanh trên phố, tiếng sột soạt, tiếng cười tự nhiên; không nhạc nền, không lời dẫn)
+
+Nhân vật & Bối cảnh: Một cô gái trẻ (đầu độ tuổi 20, tóc xoăn tối màu kẹp nửa, mặc áo khoác field jacket màu ô liu dáng rộng, quần jeans ống rộng, giày lười, túi tote vải) đang đi dạo qua khu phố yên tĩnh ven kênh vào một buổi chiều ấm áp, nhiều mây.
+
+PHÂN CẢNH (MỖI NHỊP 2 GIÂY)
+00:00–00:02 (Nhịp 1 — Nhà bếp) Cô quay người từ quầy bếp, tay cầm ly trà đá, nhìn thấy ống kính và nở một nụ cười mỉm đầy thích thú khi người bạn nhanh chóng thao tác zoom vào rồi zoom ra.
+
+00:02–00:04 (Nhịp 2 — Bước ra ngoài) Cô khoác túi tote lên vai và đẩy cánh cửa gỗ nặng nề ở lối đi, giữ cửa cho máy quay trong khi một chiếc xe đạp lạch cạch chạy qua trên con đường lát đá cuội.
+
+00:04–00:06 (Nhịp 3 — Quầy trái cây) Dừng lại tại một thùng gỗ ở góc phố, cô nhặt một quả đào chín, trao đổi nhanh một tràng cười và đưa tiền cho người bán hàng, rồi bỏ quả đào vào một chiếc túi giấy nhỏ.
+
+00:06–00:08 (Nhịp 4 — Chào chú chó) Khi băng qua cây cầu đá dành cho người đi bộ, cô tự nhiên quỳ xuống gãi tai cho chú chó golden retriever của hàng xóm trước khi đứng dậy bước tiếp.
+
+00:08–00:10 (Nhịp 5 — Miếng cắn đầu tiên) Dựa người vào lan can cầu cũ kỹ bắc qua kênh, cô cắn một miếng trái cây tươi và nhìn thẳng vào máy quay với đôi mắt mở to đầy thích thú.
+
+00:10–00:12 (Nhịp 6 — Trêu đùa che ống kính) Người quay phim tiến sát lại gần mặt cô; cô cười lớn, nhăn mũi và tinh nghịch đưa lòng bàn tay che ống kính lại.
+
+00:12–00:14 (Nhịp 7 — Đi tiếp) Cô hạ tay xuống, quay người và chạy bộ về phía trước dọc theo con ngõ hẹp, ngoái đầu lại nhìn với cử chỉ hai ngón tay ra hiệu cho người bạn đuổi theo.
+
+00:14–00:15 (Nhịp 8 — Cắt đột ngột) Máy quay lao về phía trước theo sau cô; khi đang sải bước, cô quay lại nhìn với một nụ cười nhanh, và bản ghi đột ngột kết thúc ở giây 00:14.8 mà không có hiệu ứng mờ dần.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097158383921168384/img/IOpDlKPfXk2z6QuD.jpg" width="600" alt="Thước phim gia đình cầm tay đầy hoài niệm những năm đầu thập niên 2000">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10504)**
+
+**Tác giả:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Nguồn:** [Link](https://x.com/afrinxai/status/2097160058446766088) | **Đã xuất bản:** Sep 8, 2026
+
+---
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -5354,6 +5366,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-23T23:01:04.016Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-24T03:40:15.854Z</sub>
 
 </div>

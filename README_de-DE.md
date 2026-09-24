@@ -68,9 +68,9 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6416** |
+| 📝 Gesamtanzahl Prompts | **6415** |
 | ⭐ Ausgewählte Prompts | **6** |
-| 🔄 Zuletzt aktualisiert | **2026-09-23** |
+| 🔄 Zuletzt aktualisiert | **2026-09-24** |
 
 ---
 
@@ -476,38 +476,6 @@ Dieses gemütliche cineastische Kaffee-Video wurde erstellt und fängt die wunde
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11155)**
 
 **Autor:** [liana](https://x.com/Lianaalane) | **Quelle:** [Link](https://x.com/Lianaalane/status/2102330407404572896) | **Veröffentlicht:** Sep 22, 2026
-
----
-### Cinematic Prompt: Regnerische Veranda-Szene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt für eine cineastische Videosequenz einer Frau unter einer Veranda bei starkem Regen, inklusive spezifischer Aktionen wie das Anpassen der Kappe, das Einsetzen von Kopfhörern und das Essen eines Apfels.
-
-#### 📝 Prompt
-
-```
-Eine cineastische Aufnahme in Nahaufnahme bis mittlerer Distanz zeigt eine junge ostasiatische Frau, die während starken Regens unter einer verwitterten Holzveranda steht. Sie trägt eine nasse schwarze Baseballkappe, ein leicht durchscheinendes, nasses weißes Oversize-T-Shirt und hat den Riemen einer beigen Tragetasche über der Schulter. Ihr dunkles Haar ist zu einem zerzausten Knoten gebunden, mit nassen Strähnen, die an ihrem Gesicht und Hals kleben. Weiße kabelgebundene Kopfhörer sitzen in ihren Ohren.
-
-Der Regen fällt stetig aus einem rostigen Metallablaufrohr und tropft vom Wellblechdach. Üppiger grüner Wald und neblige Berge verblassen im Hintergrund. Weiches natürliches Licht, kühle teal-grüne Farbgebung, geringe Schärfentiefe, filmisches Korn, melancholische und ruhige Atmosphäre.
-
-Sequenz:
-- Sie blickt nach unten, hebt dann langsam die Hand, um ihre nasse Kappe anzupassen.
-- Sie nimmt weiße Kopfhörer heraus und setzt sie einzeln ein.
-- Sie lehnt sich gegen den Holzpfosten und schaut hinaus auf den Regen.
-- Sie streckt ihre Handfläche in den fallenden Regen und beobachtet, wie die Tropfen auf ihre Hand treffen.
-- Nahaufnahme: Sie wischt einen glänzenden roten Apfel mit einem weißen Tuch ab.
-- Sie beißt kräftig in den Apfel, Saft tropft von ihren Lippen und ihrem Kinn.
-- Sie kaut langsam, blickt zur Seite mit einem ruhigen, leicht distanzierten Ausdruck, während der Regen weiterfällt.
-
-Ultra-realistisch, 35-mm-Film-Look, natürliche Hauttextur mit Regentropfen auf Gesicht und Kappe, Details nasser Stoffe, kein Make-up, ruhige Stimmung an einem regnerischen Tag.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102269103058960384/img/8INOQXR20vXAFwWT.jpg" width="600" alt="Cinematic Prompt: Regnerische Veranda-Szene">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11107)**
-
-**Autor:** [Elisia](https://x.com/AiwithElisia) | **Quelle:** [Link](https://x.com/AiwithElisia/status/2102269278489903244) | **Veröffentlicht:** Sep 22, 2026
 
 ---
 ### Koreanischer Marktplatz: Cinematic Video Prompt
@@ -5196,6 +5164,50 @@ Natürliche Handkamera-Bewegung, realistische Körperbewegung, authentische Mimi
 **Autor:** [Sairah](https://x.com/Sairah_0) | **Quelle:** [Link](https://x.com/Sairah_0/status/2097172152072196126) | **Veröffentlicht:** Sep 8, 2026
 
 ---
+### Nostalgische Handkamera-Aufnahmen im Stil der frühen 2000er
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein 15-sekündiges Skript, das Mikro-Momente einer Frau bei einem warmen Spaziergang durch die Nachbarschaft einfängt, explizit im Stil von Kompaktkamera-Aufnahmen der frühen 2000er Jahre.
+
+#### 📝 Prompt
+
+```
+Format: 15s, 1080p, 16:9 Querformat
+
+Stil: Ultrarealistisches, nostalgisches Heimvideo-Material
+
+Kamera: Handgeführte Digitalkamera aus den frühen 2000ern, gefilmt von einem Freund (natürliches Nachjustieren des Autofokus, leichtes Wackeln)
+
+Audio: 100 % diegetischer Originalton (Schritte, Umgebungsgeräusche der Straße, Rascheln, natürliches Lachen; keine Musik, kein Voiceover)
+
+Charakter & Setting: Dieselbe junge Frau (Anfang 20, dunkles welliges Haar halb hochgesteckt, übergroße olivgrüne Feldjacke, weite Jeans, Slipper, Stofftasche) spaziert an einem warmen, bewölkten Nachmittag durch eine ruhige Wohngegend am Kanal.
+
+SZENENABLAUF (2-SEKUNDEN-TAKTE)
+00:00–00:02 (Takt 1 — Die Küche) Sie dreht sich mit einem Glas Eistee von der Theke weg, bemerkt die Linse und schenkt der Kamera ein amüsiertes halbes Lächeln, während der Freund kurz hinein- und herauszoomt.
+
+00:02–00:04 (Takt 2 — Rausgehen) Sie schultert ihre Stofftasche und drückt die schwere hölzerne Gassentür auf, hält sie für die Kamera offen, während ein Fahrrad über das Kopfsteinpflaster rattert.
+
+00:04–00:06 (Takt 3 — Der Obststand) Sie hält an einer hölzernen Kiste an der Ecke, nimmt einen reifen Pfirsich, tauscht ein kurzes Lachen und Münzen mit dem Verkäufer aus und lässt ihn in eine kleine Papiertüte gleiten.
+
+00:06–00:08 (Takt 4 — Die Hundebegegnung) Beim Überqueren der steinernen Fußgängerbrücke geht sie ganz natürlich in die Hocke, um den Golden Retriever eines Nachbarn hinter den Ohren zu kraulen, bevor sie wieder aufsteht.
+
+00:08–00:10 (Takt 5 — Der erste Bissen) Sie lehnt sich an das verwitterte Brückengeländer über dem Kanal, beißt in die frische Frucht und schaut mit großen, erfreuten Augen direkt in die Kamera.
+
+00:10–00:12 (Takt 6 — Verspieltes Verdecken) Der Kameramann geht nah an ihr Gesicht heran; sie lacht laut auf, rümpft die Nase und hält spielerisch ihre Handfläche vor die Linse, um sie zu verdecken.
+
+00:12–00:14 (Takt 7 — Weitergehen) Sie nimmt die Hand weg, dreht sich um und joggt die schmale Gasse entlang, wobei sie über die Schulter zurückblickt und ihrem Freund mit einer Geste bedeutet, aufzuholen.
+
+00:14–00:15 (Takt 8 — Abrupter Schnitt) Die Kamera folgt ihr im Laufschritt; mitten im Schritt blickt sie mit einem schnellen Grinsen zurück, und die Aufnahme bricht bei 00:14,8 ohne Ausblenden abrupt ab.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097158383921168384/img/IOpDlKPfXk2z6QuD.jpg" width="600" alt="Nostalgische Handkamera-Aufnahmen im Stil der frühen 2000er">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10504)**
+
+**Autor:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Quelle:** [Link](https://x.com/afrinxai/status/2097160058446766088) | **Veröffentlicht:** Sep 8, 2026
+
+---
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -5257,6 +5269,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-23T23:01:10.191Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-24T03:40:22.184Z</sub>
 
 </div>

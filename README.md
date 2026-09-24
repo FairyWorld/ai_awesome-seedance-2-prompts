@@ -68,9 +68,9 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6416** |
+| 📝 Total Prompts | **6415** |
 | ⭐ Featured Prompts | **6** |
-| 🔄 Last Updated | **2026-09-23** |
+| 🔄 Last Updated | **2026-09-24** |
 
 ---
 
@@ -480,38 +480,6 @@ Created this cozy cinematic coffee video, featuring the beautiful atmosphere of 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11155)**
 
 **Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2102330407404572896) | **Published:** Sep 22, 2026
-
----
-### Rainy Porch Melancholic Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed cinematic prompt for Seedance 2.0 featuring a young woman on a porch in heavy rain, eating an apple, with specific instructions for camera movement, lighting, and mood.
-
-#### 📝 Prompt
-
-```
-A cinematic close-to-medium shot of a young East Asian woman standing under a weathered wooden porch during heavy rain. She wears a wet black baseball cap, a slightly translucent wet white oversized t-shirt, and a beige tote bag strap over her shoulder. Her dark hair is tied in a messy bun with wet strands sticking to her face and neck. White wired earphones are in her ears.
-
-Rain pours steadily from a rusty metal downpipe, dripping off the corrugated roof. Lush green forest and misty mountains fade into the background. Soft natural lighting, cool teal-green color grade, shallow depth of field, filmic grain, melancholic and quiet atmosphere.
-
-Sequence:
-- She looks down, then slowly raises her hand to adjust her wet cap.
-- She takes out white earphones and inserts them one by one.
-- She leans against the wooden post and gazes out at the rain.
-- She extends her palm into the falling rain, watching droplets hit her hand.
-- Close-up: she wipes a shiny red apple with a white cloth.
-- She takes a large bite of the apple, juice dripping from her lips and chin.
-- She chews slowly, looking sideways with a calm, slightly distant expression while rain continues to fall.
-
-Ultra-realistic, 35mm film look, natural skin texture with rain droplets on face and cap, wet fabric details, no makeup, quiet rainy-day mood.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102269103058960384/img/8INOQXR20vXAFwWT.jpg" width="600" alt="Rainy Porch Melancholic Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11107)**
-
-**Author:** [Elisia](https://x.com/AiwithElisia) | **Source:** [Link](https://x.com/AiwithElisia/status/2102269278489903244) | **Published:** Sep 22, 2026
 
 ---
 ### Cinematic Korean Girl in Marketplace Video Prompt
@@ -4973,6 +4941,50 @@ Natural handheld camera movement, realistic body motion, authentic facial expres
 **Author:** [Sairah](https://x.com/Sairah_0) | **Source:** [Link](https://x.com/Sairah_0/status/2097172152072196126) | **Published:** Sep 8, 2026
 
 ---
+### Nostalgic Early 2000s Handheld Home Footage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A 15-second script breaking down micro-moments of a woman on a warm neighborhood walk, styled explicitly like early 2000s compact camera recordings.
+
+#### 📝 Prompt
+
+```
+Format: 15s, 1080p, 16:9 landscape
+
+Style: Ultra-realistic nostalgic home-video footage
+
+Camera: Handheld early-2000s compact digital camera filmed by a friend (natural autofocus hunting, minor handheld shake)
+
+Audio: 100% diegetic location sound (footsteps, ambient street noise, rustling, natural laughter; no music, no voiceover)
+
+Character & Setting: Same young woman (early 20s, dark wavy hair half-clipped, oversized olive field jacket, wide-leg jeans, loafers, canvas tote) walking through the quiet canal-side neighborhood on a warm, overcast afternoon.
+
+SCENE BREAKDOWN (2-SECOND BEATS)
+00:00–00:02 (Beat 1 — The Kitchen) She turns from the counter holding a glass of iced tea, spots the lens, and flashes an amused half-smile as the friend quickly taps zoom in and out.
+
+00:02–00:04 (Beat 2 — Stepping Outside) She shoulders her canvas tote and pushes open the heavy wooden alley door, holding it open for the camera while a bicycle rattles past on cobblestones.
+
+00:04–00:06 (Beat 3 — The Fruit Stand) Pausing at a corner wooden crate, she picks up a ripe peach, exchanges a quick laugh and coins with the vendor, and drops it into a small paper sleeve.
+
+00:06–00:08 (Beat 4 — The Dog Greeting) Crossing the stone pedestrian bridge, she naturally drops to one knee to scratch a neighbor’s golden retriever behind the ears before stepping back up.
+
+00:08–00:10 (Beat 5 — The First Bite) Leaning against the weathered bridge railing over the canal, she takes a fresh bite of the fruit and looks right at the camera with wide, delighted eyes.
+
+00:10–00:12 (Beat 6 — Playful Lens Block) the camera operator pushes in close to her face; she laughs out loud, scrunches her nose, and playfully slaps her palm over the lens to block it.
+
+00:12–00:14 (Beat 7 — Walking Ahead) She drops her hand, turns, and jogs ahead down the narrow lane, glancing back over her shoulder with a two-finger gesture for her friend to catch up.
+
+00:14–00:15 (Beat 8 — Abrupt Cut) Camera bounds forward following behind her; mid-stride, she looks back with a quick grin, and the recording abruptly cuts off at 00:14.8 without a fade.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097158383921168384/img/IOpDlKPfXk2z6QuD.jpg" width="600" alt="Nostalgic Early 2000s Handheld Home Footage">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10504)**
+
+**Author:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Source:** [Link](https://x.com/afrinxai/status/2097160058446766088) | **Published:** Sep 8, 2026
+
+---
 ---
 
 ## 📚 More Prompts Available
@@ -5034,6 +5046,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-23T23:00:53.063Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-24T03:40:04.642Z</sub>
 
 </div>

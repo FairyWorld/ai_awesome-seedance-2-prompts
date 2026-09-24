@@ -68,9 +68,9 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6416** |
+| 📝 Total de prompts | **6415** |
 | ⭐ Prompts em destaque | **6** |
-| 🔄 Última atualização | **2026-09-23** |
+| 🔄 Última atualização | **2026-09-24** |
 
 ---
 
@@ -476,38 +476,6 @@ Criei este vídeo cinematográfico aconchegante, destacando a bela atmosfera de 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11155)**
 
 **Autor:** [liana](https://x.com/Lianaalane) | **Fonte:** [Link](https://x.com/Lianaalane/status/2102330407404572896) | **Publicado:** Sep 22, 2026
-
----
-### Prompt de Sequência Cinematográfica: Varanda na Chuva
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt altamente detalhado para uma sequência de vídeo cinematográfico de uma mulher sob uma varanda durante uma chuva forte, incluindo ações específicas como ajustar o boné, inserir fones de ouvido e comer uma maçã.
-
-#### 📝 Prompt
-
-```
-Um plano cinematográfico próximo a médio de uma jovem mulher do Leste Asiático em pé sob uma varanda de madeira desgastada durante uma chuva forte. Ela usa um boné de beisebol preto molhado, uma camiseta branca larga ligeiramente translúcida pelo molhado, com a alça de uma bolsa tote bege sobre o ombro. Seus cabelos escuros estão presos em um coque desleixado, com mechas molhadas grudando no rosto e no pescoço. Fones de ouvido brancos com fio estão em suas orelhas.
-
-A chuva cai constantemente de um cano de descida de metal enferrujado, pingando do telhado de zinco ondulado. Uma floresta verde exuberante e montanhas enevoadas desaparecem ao fundo. Iluminação natural suave, gradiente de cor teal-esverdeado frio, profundidade de campo rasa, granulação de filme, atmosfera melancólica e tranquila.
-
-Sequência:
-- Ela olha para baixo e depois levanta lentamente a mão para ajustar seu boné molhado.
-- Ela tira os fones de ouvido brancos e os insere um por um.
-- Ela se apoia no pilar de madeira e observa a chuva lá fora.
-- Ela estende a palma da mão para a chuva que cai, observando as gotas atingirem sua pele.
-- Close-up: ela limpa uma maçã vermelha brilhante com um pano branco.
-- Ela dá uma mordida grande na maçã, com o suco escorrendo dos lábios e do queixo.
-- Ela mastiga lentamente, olhando para o lado com uma expressão calma e ligeiramente distante enquanto a chuva continua a cair.
-
-Ultra-realista, visual de filme 35mm, textura natural da pele com gotas de chuva no rosto e no boné, detalhes de tecido molhado, sem maquiagem, humor tranquilo de dia chuvoso.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102269103058960384/img/8INOQXR20vXAFwWT.jpg" width="600" alt="Prompt de Sequência Cinematográfica: Varanda na Chuva">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11107)**
-
-**Autor:** [Elisia](https://x.com/AiwithElisia) | **Fonte:** [Link](https://x.com/AiwithElisia/status/2102269278489903244) | **Publicado:** Sep 22, 2026
 
 ---
 ### Prompt de Vídeo Cinematográfico para Mercado Coreano
@@ -5225,6 +5193,50 @@ Movimento natural de câmera na mão, movimento corporal realista, expressões f
 **Autor:** [Sairah](https://x.com/Sairah_0) | **Fonte:** [Link](https://x.com/Sairah_0/status/2097172152072196126) | **Publicado:** Sep 8, 2026
 
 ---
+### Filmagem Caseira Nostálgica dos Anos 2000
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um roteiro de 15 segundos detalhando micro-momentos de uma mulher em uma caminhada calorosa pelo bairro, com estilo inspirado nas gravações de câmeras compactas do início dos anos 2000.
+
+#### 📝 Prompt
+
+```
+Formato: 15s, 1080p, 16:9 paisagem
+
+Estilo: Filmagem caseira nostálgica ultrarrealista
+
+Câmera: Câmera digital compacta do início dos anos 2000, operada manualmente por um amigo (foco automático natural, leve tremor de mão)
+
+Áudio: 100% som diegético do local (passos, ruído ambiente da rua, farfalhar, risadas naturais; sem música, sem narração)
+
+Personagem e Cenário: A mesma jovem (início dos 20 anos, cabelo escuro ondulado meio preso, jaqueta de campo oliva oversized, jeans de perna larga, mocassins, ecobag de lona) caminhando por um bairro tranquilo à beira do canal em uma tarde quente e nublada.
+
+DETALHAMENTO DAS CENAS (BATIDAS DE 2 SEGUNDOS)
+00:00–00:02 (Batida 1 — A Cozinha) Ela se vira do balcão segurando um copo de chá gelado, nota a lente e dá um meio sorriso divertido enquanto o amigo rapidamente dá zoom in e out.
+
+00:02–00:04 (Batida 2 — Saindo) Ela coloca a ecobag no ombro e empurra a pesada porta de madeira do beco, segurando-a para a câmera enquanto uma bicicleta passa fazendo barulho sobre as pedras.
+
+00:04–00:06 (Batida 3 — A Banca de Frutas) Parando em um caixote de madeira na esquina, ela pega um pêssego maduro, troca uma risada rápida e moedas com o vendedor, e coloca a fruta em um pequeno saco de papel.
+
+00:06–00:08 (Batida 4 — O Encontro com o Cão) Atravessando a ponte de pedra para pedestres, ela se ajoelha naturalmente para coçar as orelhas do golden retriever de um vizinho antes de se levantar.
+
+00:08–00:10 (Batida 5 — A Primeira Mordida) Apoiada no parapeito desgastado da ponte sobre o canal, ela dá uma mordida na fruta e olha diretamente para a câmera com olhos arregalados e encantados.
+
+00:10–00:12 (Batida 6 — Bloqueio Brincalhão da Lente) O operador de câmera se aproxima do rosto dela; ela ri alto, franze o nariz e coloca a palma da mão sobre a lente para bloqueá-la.
+
+00:12–00:14 (Batida 7 — Caminhando à Frente) Ela abaixa a mão, vira-se e corre pelo caminho estreito, olhando para trás por cima do ombro com um gesto de dois dedos para o amigo alcançá-la.
+
+00:14–00:15 (Batida 8 — Corte Abrupto) A câmera avança seguindo-a; no meio do passo, ela olha para trás com um sorriso rápido, e a gravação corta abruptamente em 00:14.8 sem fade.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097158383921168384/img/IOpDlKPfXk2z6QuD.jpg" width="600" alt="Filmagem Caseira Nostálgica dos Anos 2000">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10504)**
+
+**Autor:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Fonte:** [Link](https://x.com/afrinxai/status/2097160058446766088) | **Publicado:** Sep 8, 2026
+
+---
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -5286,6 +5298,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-23T23:01:15.860Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-24T03:40:28.044Z</sub>
 
 </div>
